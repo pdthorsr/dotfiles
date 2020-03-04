@@ -1,0 +1,26 @@
+[2020-01-13 08:14:46.476] [sharedprocess] [info] main {"machineId":"b0c3172fdcd4f77e209db20aaa44a56676534f25a672772eb984099526617fd3","windowId":2}
+[2020-01-13 08:15:26.500] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-13 08:15:42.903] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-01-13 08:15:44.551] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/31ba120c-b44d-4705-8a6a-ed7acb188463
+[2020-01-13 08:15:45.165] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.3: visualstudioexptteam.vscodeintellicode
+[2020-01-13 08:15:45.166] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.3
+[2020-01-13 08:15:45.167] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-01-13 08:15:45.192] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-01-13 20:23:28.196] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-01-13 20:23:32.347] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/275a4e33-b745-4d3b-8541-63e8668de09d
+[2020-01-13 20:23:36.320] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.ms-python.python-2020.1.58038: ms-python.python
+[2020-01-13 20:23:36.321] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/ms-python.python-2020.1.58038
+[2020-01-13 20:23:36.324] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-01-13 20:23:36.387] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-01-17 10:45:18.716] [sharedprocess] [info] Installing extension: sleistner.vscode-fileutils
+[2020-01-17 10:45:18.716] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-01-17 10:45:20.163] [sharedprocess] [info] Downloaded extension: sleistner.vscode-fileutils /tmp/adc55683-3200-4d43-bcb4-a55dd58ede66
+[2020-01-17 10:45:20.167] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/c6cfb7a6-4105-4f45-bc3b-2704d38249e2
+[2020-01-17 10:45:20.309] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.sleistner.vscode-fileutils-3.0.1: sleistner.vscode-fileutils
+[2020-01-17 10:45:20.309] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/sleistner.vscode-fileutils-3.0.1
+[2020-01-17 10:45:20.310] [sharedprocess] [info] Installation completed. sleistner.vscode-fileutils
+[2020-01-17 10:45:20.333] [sharedprocess] [info] Extensions installed successfully: sleistner.vscode-fileutils
+[2020-01-17 10:45:20.879] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.4: visualstudioexptteam.vscodeintellicode
+[2020-01-17 10:45:20.879] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.4
+[2020-01-17 10:45:20.880] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-01-17 10:45:20.899] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

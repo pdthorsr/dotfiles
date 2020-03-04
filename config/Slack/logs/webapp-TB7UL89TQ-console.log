@@ -1,0 +1,222 @@
+[06/27/19, 11:12:21:199] info: Configured logger via 
+{
+  "logLevel": "info",
+  "devMode": false
+}
+[06/27/19, 11:12:24:683] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/88b00/fonts/slack-icons/slack-icons-Regular.woff2 
+[06/27/19, 11:12:24:684] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: slack-resources://fonts/woff2/lato-regular.woff2 
+[06/27/19, 11:12:24:708] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: slack-resources://fonts/woff2/lato-black.woff2 
+[06/27/19, 11:12:24:771] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: slack-resources://fonts/woff2/lato-bold.woff2 
+[06/27/19, 11:12:24:776] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: slack-resources://fonts/woff2/lato-italic.woff2 
+[06/27/19, 11:12:25:391] info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0 
+[06/27/19, 11:12:27:060] info: Jun-27 11:12:27.059 [BOOT] booted! pri:0 version:1561608651 start_ms:1561626744829 (2230ms ago) 
+[06/27/19, 11:12:27:085] info: Jun-27 11:12:27.084 [BOOT] Starting incremental boot (early) 
+[06/27/19, 11:12:27:089] info: Jun-27 11:12:27.089 [BOOT] Starting data fetch (early) 
+[06/27/19, 11:12:27:097] info: Jun-27 11:12:27.097 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.095 client.boot called with reason: fetch-legacy-start-data 
+[06/27/19, 11:12:27:098] info: Jun-27 11:12:27.098 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.095 client.boot is ENQUEUED 
+[06/27/19, 11:12:27:100] info: Jun-27 11:12:27.100 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.095 client.boot is ACTIVE 
+[06/27/19, 11:12:27:203] warn: Jun-27 11:12:27.203 error getActiveModelOb found no ob 
+[06/27/19, 11:12:27:205] warn: Jun-27 11:12:27.205 TS.boot_data.channel_id: undefined 
+[06/27/19, 11:12:27:205] warn: Jun-27 11:12:27.205 TS.boot_data.im_id: undefined 
+[06/27/19, 11:12:27:207] warn: Jun-27 11:12:27.206 TS.boot_data.group_id: undefined 
+[06/27/19, 11:12:27:208] warn: Jun-27 11:12:27.208 error getActiveModelOb found no ob 
+[06/27/19, 11:12:27:208] warn: Jun-27 11:12:27.208 TS.boot_data.channel_id: undefined 
+[06/27/19, 11:12:27:209] warn: Jun-27 11:12:27.209 TS.boot_data.im_id: undefined 
+[06/27/19, 11:12:27:209] warn: Jun-27 11:12:27.209 TS.boot_data.group_id: undefined 
+[06/27/19, 11:12:27:473] info: Jun-27 11:12:27.473 [SOCKET-MANAGER] (TB7UL89TQ) Changing from never_connected to prov_connect 
+[06/27/19, 11:12:27:474] info: Jun-27 11:12:27.474 [SOCKET-MANAGER] (TB7UL89TQ) will stay in prov_connect state for up to 10000 ms 
+[06/27/19, 11:12:27:476] info: Jun-27 11:12:27.475 [SOCKET-MANAGER] (TB7UL89TQ) Changing from prov_connect to prov_connecting 
+[06/27/19, 11:12:27:476] info: Jun-27 11:12:27.477 [SOCKET-MANAGER] (TB7UL89TQ) will stay in prov_connecting state for up to 35000 ms 
+[06/27/19, 11:12:27:508] info: Jun-27 11:12:27.508 [TICKLE-MS] (TB7UL89TQ) Skipping tickle because no user exists 
+[06/27/19, 11:12:27:580] warn: Jun-27 11:12:27.580 Desktop: 'desktop.accessibility.isAccessibilitySupportEnabled' is missing or not a function 
+[06/27/19, 11:12:27:696] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://a.slack-edge.com/bv1-6-8cacda2/9848b892f9c68bb8304e5505669d8c2c.woff2 
+[06/27/19, 11:12:27:703] info: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: slack-resources://fonts/woff2/lato-italic-black.woff2 
+[06/27/19, 11:12:27:756] info: Jun-27 11:12:27.755 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.736 apps.actions.list called with reason: fetch-app-actions 
+[06/27/19, 11:12:27:757] info: Jun-27 11:12:27.755 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.736 apps.actions.list is ENQUEUED 
+[06/27/19, 11:12:27:757] info: Jun-27 11:12:27.756 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.736 apps.actions.list is ACTIVE 
+[06/27/19, 11:12:28:029] info: Jun-27 11:12:28.029 [FLANNEL] (TB7UL89TQ) received a channel_query_request call while we are not connected; deferring 
+[06/27/19, 11:12:28:032] info: Jun-27 11:12:28.032 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.032 apps.list called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:28:033] info: Jun-27 11:12:28.032 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.032 apps.list is ENQUEUED 
+[06/27/19, 11:12:28:033] info: Jun-27 11:12:28.034 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.032 apps.list is ACTIVE 
+[06/27/19, 11:12:28:034] info: Jun-27 11:12:28.035 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.034 commands.list called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:28:035] info: Jun-27 11:12:28.035 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.034 commands.list is ENQUEUED 
+[06/27/19, 11:12:28:035] info: Jun-27 11:12:28.035 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.034 commands.list is ACTIVE 
+[06/27/19, 11:12:28:036] info: Jun-27 11:12:28.036 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.036 i18n.translations.get called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:28:036] info: Jun-27 11:12:28.037 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.036 i18n.translations.get is ENQUEUED 
+[06/27/19, 11:12:28:037] info: Jun-27 11:12:28.038 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.036 i18n.translations.get is ACTIVE 
+[06/27/19, 11:12:28:038] warn: Jun-27 11:12:28.038 updateTeamIcon was called, but missing an image to set 
+[06/27/19, 11:12:28:050] info: Jun-27 11:12:28.047 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.046 emoji.list called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:28:050] info: Jun-27 11:12:28.047 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.046 emoji.list is ENQUEUED 
+[06/27/19, 11:12:28:050] info: Jun-27 11:12:28.048 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.046 emoji.list is ACTIVE 
+[06/27/19, 11:12:28:051] info: Jun-27 11:12:28.051 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.095 client.boot is RESOLVED 
+[06/27/19, 11:12:28:125] info: Jun-27 11:12:28.123 [API-Q] (TB7UL89TQ) 6f8e315b-1561626747.736 apps.actions.list is RESOLVED 
+[06/27/19, 11:12:28:126] info: Jun-27 11:12:28.124 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) requesting TB7UL89TQ (1) 
+[06/27/19, 11:12:28:126] info: Jun-27 11:12:28.124 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) received TB7UL89TQ (1) 
+[06/27/19, 11:12:28:146] info: Jun-27 11:12:28.139 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) requesting UF5GX3RD1 (1) 
+[06/27/19, 11:12:28:146] info: Jun-27 11:12:28.141 [FLANNEL] (TB7UL89TQ) received a user_query_request call while we are not connected; deferring 
+[06/27/19, 11:12:28:146] info: Jun-27 11:12:28.141 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) requesting CB6B9L0M6 (1) 
+[06/27/19, 11:12:28:146] info: Jun-27 11:12:28.143 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) received CB6B9L0M6 (1) 
+[06/27/19, 11:12:28:155] info: Jun-27 11:12:28.152 [SOCKET-MANAGER] (TB7UL89TQ) Changing from prov_connecting to prov_connected 
+[06/27/19, 11:12:28:156] info: Jun-27 11:12:28.152 [SOCKET-MANAGER] (TB7UL89TQ) will stay in prov_connected state for up to 60000 ms 
+[06/27/19, 11:12:28:156] info: Jun-27 11:12:28.154 [FLANNEL] (TB7UL89TQ) connected and trouble free! Continuing deferred channel_query_request call 
+[06/27/19, 11:12:28:156] info: Jun-27 11:12:28.155 [FLANNEL] (TB7UL89TQ) connected and trouble free! Continuing deferred user_query_request call 
+[06/27/19, 11:12:28:186] info: Jun-27 11:12:28.186 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.036 i18n.translations.get is RESOLVED 
+[06/27/19, 11:12:28:189] info: Jun-27 11:12:28.189 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.034 commands.list is RESOLVED 
+[06/27/19, 11:12:28:207] info: Jun-27 11:12:28.189 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.032 apps.list is RESOLVED 
+[06/27/19, 11:12:28:247] info: Jun-27 11:12:28.231 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) received UF5GX3RD1 (1) 
+[06/27/19, 11:12:28:248] info: Jun-27 11:12:28.244 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) requesting A8GBNUWU8,A740FQ2E7,A1L3ZBM7G,A074YH40Z (1) 
+[06/27/19, 11:12:28:248] info: Jun-27 11:12:28.245 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.244 apps.list called with reason: fetch-all-apps-by-id 
+[06/27/19, 11:12:28:248] info: Jun-27 11:12:28.245 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.244 apps.list is ENQUEUED 
+[06/27/19, 11:12:28:248] info: Jun-27 11:12:28.245 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.244 apps.list is ACTIVE 
+[06/27/19, 11:12:28:378] info: Jun-27 11:12:28.378 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.244 apps.list is RESOLVED 
+[06/27/19, 11:12:28:379] info: Jun-27 11:12:28.379 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) received A8GBNUWU8,A740FQ2E7,A1L3ZBM7G,A074YH40Z (1) 
+[06/27/19, 11:12:28:482] info: Jun-27 11:12:28.482 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.046 emoji.list is RESOLVED 
+[06/27/19, 11:12:28:690] info: Jun-27 11:12:28.690 [SWITCH-TO-CHANNEL] (TB7UL89TQ) Switching to CB6B9L0M6 at end 
+[06/27/19, 11:12:28:706] info: 2019/6/27 11:12:28.705  channelDisplaySwitched CB6B9L0M6 
+[06/27/19, 11:12:28:708] info: Jun-27 11:12:28.707 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.706 users.prefs.set called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:28:708] info: Jun-27 11:12:28.708 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.706 users.prefs.set is ENQUEUED 
+[06/27/19, 11:12:28:708] info: Jun-27 11:12:28.708 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.706 users.prefs.set is ACTIVE 
+[06/27/19, 11:12:28:710] info: Jun-27 11:12:28.711 [BOOT] Finalizing incremental boot 
+[06/27/19, 11:12:28:734] info: Jun-27 11:12:28.716 [METRICS] Starting timers for metrics collection 
+[06/27/19, 11:12:28:735] info: _rebuildAllButMsgsForReal 
+[06/27/19, 11:12:28:736] info: 2019/6/27 11:12:28.723  TS.client.channel_header.start CB6B9L0M6 
+[06/27/19, 11:12:29:179] info: Jun-27 11:12:29.179 [BOOT] Completed incremental boot 
+[06/27/19, 11:12:29:180] info: Jun-27 11:12:29.180 [UNREAD-COUNTS] (TB7UL89TQ) Counting unreads in CB6B9L0M6 because (49) timestamps added 
+[06/27/19, 11:12:29:182] info: Jun-27 11:12:29.182 [UNREAD-COUNTS] (TB7UL89TQ) Checking unreads in CB6B9L0M6 after a new message 
+[06/27/19, 11:12:29:183] info: Jun-27 11:12:29.184 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6, clearing ghost last_read 
+[06/27/19, 11:12:29:193] info: Jun-27 11:12:29.193 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.193 i18n.translations.get called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:29:195] info: Jun-27 11:12:29.193 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.193 i18n.translations.get is ENQUEUED 
+[06/27/19, 11:12:29:195] info: Jun-27 11:12:29.194 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.193 i18n.translations.get is ACTIVE 
+[06/27/19, 11:12:29:195] warn: Jun-27 11:12:29.195 updateTeamIcon was called, but missing an image to set 
+[06/27/19, 11:12:29:516] info: _rebuildAllButMsgsForReal 
+[06/27/19, 11:12:29:519] info: 2019/6/27 11:12:29.519  TS.client.channel_header.start CB6B9L0M6 
+[06/27/19, 11:12:29:546] info: Jun-27 11:12:29.536 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager 
+[06/27/19, 11:12:29:547] info: Jun-27 11:12:29.536 [SOCKET-MANAGER] (TB7UL89TQ) Changing from prov_connected to prov_finalize 
+[06/27/19, 11:12:29:547] info: Jun-27 11:12:29.536 [SOCKET-MANAGER] (TB7UL89TQ) will stay in prov_finalize state for up to 10000 ms 
+[06/27/19, 11:12:29:547] info: Jun-27 11:12:29.537 [SOCKET-MANAGER] (TB7UL89TQ) Changing from prov_finalize to prov_finalizing 
+[06/27/19, 11:12:29:547] info: Jun-27 11:12:29.537 [SOCKET-MANAGER] (TB7UL89TQ) will stay in prov_finalizing state for up to 10000 ms 
+[06/27/19, 11:12:29:548] info: Jun-27 11:12:29.538 [SOCKET-MANAGER] (TB7UL89TQ) Changing from prov_finalizing to connected 
+[06/27/19, 11:12:29:549] info: Jun-27 11:12:29.538 [SOCKET-MANAGER] (TB7UL89TQ) will stay in connected state for up to Infinity ms 
+[06/27/19, 11:12:29:550] info: Jun-27 11:12:29.538 [SOCKET-MANAGER] (TB7UL89TQ) Connected to primary region 
+[06/27/19, 11:12:29:550] info: Jun-27 11:12:29.539 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager 
+[06/27/19, 11:12:29:556] info: Jun-27 11:12:29.545 [BOOT] Finished first boot 2080 ms after DOM ready 
+[06/27/19, 11:12:29:571] info: Jun-27 11:12:29.569 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.568 help.issues.list called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:29:571] info: Jun-27 11:12:29.569 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.568 help.issues.list is ENQUEUED 
+[06/27/19, 11:12:29:571] info: Jun-27 11:12:29.569 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.568 help.issues.list is ACTIVE 
+[06/27/19, 11:12:29:574] info: Jun-27 11:12:29.575 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.574 dnd.teamInfo called with reason: legacy_no_reason_provided 
+[06/27/19, 11:12:29:575] info: Jun-27 11:12:29.575 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.574 dnd.teamInfo is ENQUEUED 
+[06/27/19, 11:12:29:588] info: Jun-27 11:12:29.586 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.574 dnd.teamInfo is ACTIVE 
+[06/27/19, 11:12:29:591] info: Jun-27 11:12:29.591 [INFO] MSConnected:  
+[06/27/19, 11:12:29:629] info: Jun-27 11:12:29.628 [MESSAGE-HISTORY] (TB7UL89TQ) Resetting reachedEnd 
+[06/27/19, 11:12:29:630] info: Jun-27 11:12:29.630 [UNREAD-COUNTS] (TB7UL89TQ) Fetching counts 
+[06/27/19, 11:12:29:631] info: Jun-27 11:12:29.631 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.631 client.counts called with reason: client-counts-api/fetchClientCounts 
+[06/27/19, 11:12:29:631] info: Jun-27 11:12:29.631 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.631 client.counts is ENQUEUED 
+[06/27/19, 11:12:29:633] info: Jun-27 11:12:29.633 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.631 client.counts is ACTIVE 
+[06/27/19, 11:12:29:683] info: Jun-27 11:12:29.682 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.682 promo.banner called with reason: fetch-active-message-pane-banner 
+[06/27/19, 11:12:29:683] info: Jun-27 11:12:29.684 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.682 promo.banner is ENQUEUED 
+[06/27/19, 11:12:29:685] info: Jun-27 11:12:29.684 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.682 promo.banner is ACTIVE 
+[06/27/19, 11:12:29:926] info: Jun-27 11:12:29.926 [HISTORY-FETCH] (TB7UL89TQ) Fetching history for message pane: CB6B9L0M6 oldest: 1561031499.046000 latest: null 
+[06/27/19, 11:12:29:929] info: Jun-27 11:12:29.929 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.928 conversations.history called with reason: message-pane/requestHistory 
+[06/27/19, 11:12:29:930] info: Jun-27 11:12:29.930 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.928 conversations.history is ENQUEUED 
+[06/27/19, 11:12:29:932] info: Jun-27 11:12:29.932 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.928 conversations.history is ACTIVE 
+[06/27/19, 11:12:29:969] info: Jun-27 11:12:29.969 [MESSAGE-LIST] (TB7UL89TQ) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 49 
+[06/27/19, 11:12:30:193] info: Jun-27 11:12:30.194 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.193 apps.displayGdrivePrompt called with reason: initializeGdrivePromptData 
+[06/27/19, 11:12:30:194] info: Jun-27 11:12:30.194 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.193 apps.displayGdrivePrompt is ENQUEUED 
+[06/27/19, 11:12:30:196] info: Jun-27 11:12:30.196 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.193 apps.displayGdrivePrompt is ACTIVE 
+[06/27/19, 11:12:30:200] info: Jun-27 11:12:30.200 [DRAFTS] (TB7UL89TQ) There are no channels with drafts 
+[06/27/19, 11:12:30:203] info: Jun-27 11:12:30.203 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.202 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[06/27/19, 11:12:30:205] info: Jun-27 11:12:30.205 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.202 apps.getSidebarPrompts is ENQUEUED 
+[06/27/19, 11:12:30:206] info: Jun-27 11:12:30.206 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.202 apps.getSidebarPrompts is ACTIVE 
+[06/27/19, 11:12:30:276] info: Jun-27 11:12:30.266 [API-Q] (TB7UL89TQ) 6f8e315b-1561626748.706 users.prefs.set is RESOLVED 
+[06/27/19, 11:12:30:276] info: Jun-27 11:12:30.268 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.193 i18n.translations.get is RESOLVED 
+[06/27/19, 11:12:30:294] info: Jun-27 11:12:30.280 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) requesting USLACKBOT,UC0QCHKL0,UB90728TW,UB6R6KL1J,UB7UG0RGU,UB89DB81K (1) 
+[06/27/19, 11:12:30:295] info: Jun-27 11:12:30.281 [CHECK-UNREADS] (TB7UL89TQ) Checking unreads after fully booted 
+[06/27/19, 11:12:30:295] info: Jun-27 11:12:30.281 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6, clearing ghost last_read 
+[06/27/19, 11:12:30:333] info: Jun-27 11:12:30.304 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.568 help.issues.list is RESOLVED 
+[06/27/19, 11:12:30:333] info: Jun-27 11:12:30.305 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.574 dnd.teamInfo is RESOLVED 
+[06/27/19, 11:12:30:333] info: Jun-27 11:12:30.308 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.631 client.counts is RESOLVED 
+[06/27/19, 11:12:30:334] info: Jun-27 11:12:30.310 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.928 conversations.history is RESOLVED 
+[06/27/19, 11:12:30:334] info: Jun-27 11:12:30.310 [API-Q] (TB7UL89TQ) 6f8e315b-1561626749.682 promo.banner is RESOLVED 
+[06/27/19, 11:12:30:362] info: Jun-27 11:12:30.341 [MESSAGE-LIST] (TB7UL89TQ) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 49 
+[06/27/19, 11:12:30:430] info: Jun-27 11:12:30.378 [COUNTS] (TB7UL89TQ) Applying counts to channels 
+[06/27/19, 11:12:30:432] info: Jun-27 11:12:30.388 [COUNTS] (TB7UL89TQ) Threads has_unreads:false mention_count:0 
+[06/27/19, 11:12:30:432] info: Jun-27 11:12:30.389 [COUNTS] (TB7UL89TQ) Completed counts processing 
+[06/27/19, 11:12:30:435] info: Jun-27 11:12:30.392 [PERF] (TB7UL89TQ) First meaningful paint: 8808ms 
+[06/27/19, 11:12:30:435] info: Jun-27 11:12:30.395 [UNREAD-COUNTS] (TB7UL89TQ) Counting unreads in CB6B9L0M6 because (1) timestamps added 
+[06/27/19, 11:12:30:435] info: Jun-27 11:12:30.396 [UNREAD-COUNTS] (TB7UL89TQ) Checking unreads in CB6B9L0M6 after a new message 
+[06/27/19, 11:12:30:436] info: Jun-27 11:12:30.396 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6 because last_read >= latest && channel is read 
+[06/27/19, 11:12:30:436] info: Jun-27 11:12:30.402 [UNKNOWN-FETCH-MANAGER] (TB7UL89TQ) received USLACKBOT,UC0QCHKL0,UB90728TW,UB6R6KL1J,UB7UG0RGU,UB89DB81K (1) 
+[06/27/19, 11:12:30:436] info: Jun-27 11:12:30.405 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.193 apps.displayGdrivePrompt is RESOLVED 
+[06/27/19, 11:12:30:436] info: Jun-27 11:12:30.406 [API-Q] (TB7UL89TQ) 6f8e315b-1561626750.202 apps.getSidebarPrompts is RESOLVED 
+[06/27/19, 11:12:30:525] info: Jun-27 11:12:30.523 [MESSAGE-LIST] (TB7UL89TQ) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 49 
+[06/27/19, 11:12:30:534] info: Jun-27 11:12:30.533 [CHECK-UNREADS] (TB7UL89TQ) unreadLineVisible updated: false -> true 
+[06/27/19, 11:12:31:009] info: Jun-27 11:12:30.990 [CHECK-UNREADS] (TB7UL89TQ) Checking unreads after unread line became visible 
+[06/27/19, 11:12:31:009] info: Jun-27 11:12:30.990 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6 because last_read >= latest && channel is read 
+[06/27/19, 11:12:34:076] info: 2019/6/27 11:12:34.750  TS.client.channel_header.start CB6B9L0M6 
+[06/27/19, 11:12:47:488] info: Jun-27 11:12:47.487 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.487 search.autocomplete called with reason: no_reason_provided 
+[06/27/19, 11:12:47:488] info: Jun-27 11:12:47.487 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.487 search.autocomplete is ENQUEUED 
+[06/27/19, 11:12:47:489] info: Jun-27 11:12:47.488 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.487 search.autocomplete is ACTIVE 
+[06/27/19, 11:12:47:502] info: Jun-27 11:12:47.498 [IMPROVED_SEARCH] (TB7UL89TQ) Open Search 
+[06/27/19, 11:12:47:502] info: Jun-27 11:12:47.499 [IMPROVED_SEARCH] (TB7UL89TQ) Search is opening without query: Starting new search session 
+[06/27/19, 11:12:47:603] info: Jun-27 11:12:47.604 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.603 search.precache called with reason: no_reason_provided 
+[06/27/19, 11:12:47:605] info: Jun-27 11:12:47.604 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.603 search.precache is ENQUEUED 
+[06/27/19, 11:12:47:605] info: Jun-27 11:12:47.604 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.603 search.precache is ACTIVE 
+[06/27/19, 11:12:47:610] info: Jun-27 11:12:47.610 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.609 search.autocomplete.querySuggestions called with reason: no_reason_provided 
+[06/27/19, 11:12:47:610] info: Jun-27 11:12:47.610 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.609 search.autocomplete.querySuggestions is ENQUEUED 
+[06/27/19, 11:12:47:611] info: Jun-27 11:12:47.610 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.609 search.autocomplete.querySuggestions is ACTIVE 
+[06/27/19, 11:12:47:611] info: Jun-27 11:12:47.611 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.611 search.autocomplete.querySuggestions called with reason: no_reason_provided 
+[06/27/19, 11:12:47:611] info: Jun-27 11:12:47.611 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.611 search.autocomplete.querySuggestions is ENQUEUED 
+[06/27/19, 11:12:47:613] info: Jun-27 11:12:47.611 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.611 search.autocomplete.querySuggestions is ACTIVE 
+[06/27/19, 11:12:47:614] info: Jun-27 11:12:47.612 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.612 search.autocomplete.querySuggestions called with reason: no_reason_provided 
+[06/27/19, 11:12:47:614] info: Jun-27 11:12:47.612 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.612 search.autocomplete.querySuggestions is ENQUEUED 
+[06/27/19, 11:12:47:615] info: Jun-27 11:12:47.612 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.612 search.autocomplete.querySuggestions is ACTIVE 
+[06/27/19, 11:12:47:615] info: Jun-27 11:12:47.614 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.613 search.autocomplete.querySuggestions called with reason: no_reason_provided 
+[06/27/19, 11:12:47:615] info: Jun-27 11:12:47.614 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.613 search.autocomplete.querySuggestions is ENQUEUED 
+[06/27/19, 11:12:47:615] info: Jun-27 11:12:47.614 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.613 search.autocomplete.querySuggestions is ACTIVE 
+[06/27/19, 11:12:47:615] info: Jun-27 11:12:47.615 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.614 search.autocomplete.fileSuggestions called with reason: no_reason_provided 
+[06/27/19, 11:12:47:616] info: Jun-27 11:12:47.615 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.614 search.autocomplete.fileSuggestions is ENQUEUED 
+[06/27/19, 11:12:47:616] info: Jun-27 11:12:47.615 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.614 search.autocomplete.fileSuggestions is ACTIVE 
+[06/27/19, 11:12:47:738] info: Jun-27 11:12:47.738 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.611 search.autocomplete.querySuggestions is RESOLVED 
+[06/27/19, 11:12:47:744] info: Jun-27 11:12:47.743 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.609 search.autocomplete.querySuggestions is RESOLVED 
+[06/27/19, 11:12:47:745] info: Jun-27 11:12:47.745 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.613 search.autocomplete.querySuggestions is RESOLVED 
+[06/27/19, 11:12:47:746] info: Jun-27 11:12:47.746 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.614 search.autocomplete.fileSuggestions is RESOLVED 
+[06/27/19, 11:12:47:757] info: Jun-27 11:12:47.757 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.603 search.precache is RESOLVED 
+[06/27/19, 11:12:47:928] info: Jun-27 11:12:47.928 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.487 search.autocomplete is RESOLVED 
+[06/27/19, 11:12:48:048] info: Jun-27 11:12:48.048 [API-Q] (TB7UL89TQ) 6f8e315b-1561626767.612 search.autocomplete.querySuggestions is RESOLVED 
+[06/27/19, 11:12:48:453] info: Jun-27 11:12:48.453 [IMPROVED_SEARCH] (TB7UL89TQ) Close Search 
+[06/27/19, 11:12:48:454] info: Jun-27 11:12:48.455 [IMPROVED_SEARCH] (TB7UL89TQ) Search is closing without query: Clear search session immediately 
+[06/27/19, 11:12:50:934] info: Jun-27 11:12:50.932 [FOCUS-EVENT] Window blurred 
+[06/27/19, 11:12:59:167] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:167] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:12:59:168] info: Jun-27 11:12:59.167 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:13:21:995] info: Jun-27 11:13:21.995 [API-Q] (TB7UL89TQ) 6f8e315b-1561626801.994 channels.suggestions called with reason: legacy_no_reason_provided 
+[06/27/19, 11:13:21:995] info: Jun-27 11:13:21.995 [API-Q] (TB7UL89TQ) 6f8e315b-1561626801.994 channels.suggestions is ENQUEUED 
+[06/27/19, 11:13:21:997] info: Jun-27 11:13:21.995 [API-Q] (TB7UL89TQ) 6f8e315b-1561626801.994 channels.suggestions is ACTIVE 
+[06/27/19, 11:13:22:456] info: Jun-27 11:13:22.456 [API-Q] (TB7UL89TQ) 6f8e315b-1561626801.994 channels.suggestions is RESOLVED 
+[06/27/19, 11:13:30:964] info: Jun-27 11:13:30.965 [API-Q] (TB7UL89TQ) 6f8e315b-1561626810.964 client.counts called with reason: client-counts-api/fetchClientCounts 
+[06/27/19, 11:13:30:965] info: Jun-27 11:13:30.965 [API-Q] (TB7UL89TQ) 6f8e315b-1561626810.964 client.counts is ENQUEUED 
+[06/27/19, 11:13:30:966] info: Jun-27 11:13:30.965 [API-Q] (TB7UL89TQ) 6f8e315b-1561626810.964 client.counts is ACTIVE 
+[06/27/19, 11:13:31:101] info: Jun-27 11:13:31.101 [API-Q] (TB7UL89TQ) 6f8e315b-1561626810.964 client.counts is RESOLVED 
+[06/27/19, 11:13:31:103] info: Jun-27 11:13:31.104 [COUNTS] (TB7UL89TQ) Applying counts to channels 
+[06/27/19, 11:13:31:105] info: Jun-27 11:13:31.105 [COUNTS] (TB7UL89TQ) Recounted CB6B9L0M6; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[06/27/19, 11:13:31:107] info: Jun-27 11:13:31.107 [COUNTS] (TB7UL89TQ) Threads has_unreads:false mention_count:0 
+[06/27/19, 11:13:31:108] info: Jun-27 11:13:31.108 [COUNTS] (TB7UL89TQ) Completed counts processing 
+[06/27/19, 11:14:35:355] info: Jun-27 11:14:35.355 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:15:53:203] info: Jun-27 11:15:53.195 [FOCUS-EVENT] Window focused 
+[06/27/19, 11:15:53:271] info: Jun-27 11:15:53.267 [FOCUS-EVENT] Window blurred 
+[06/27/19, 11:15:53:297] info: Jun-27 11:15:53.297 [CHECK-UNREADS] (TB7UL89TQ) Checking unreads after window became focused 
+[06/27/19, 11:15:53:298] info: Jun-27 11:15:53.298 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6 because attention not on chat (window_not_focused) 
+[06/27/19, 11:15:53:299] info: Jun-27 11:15:53.298 [FOCUS-EVENT] Window focused 
+[06/27/19, 11:15:53:330] info: Jun-27 11:15:53.328 [CHECK-UNREADS] (TB7UL89TQ) Checking unreads after window became focused 
+[06/27/19, 11:15:53:330] info: Jun-27 11:15:53.329 [CHECK-UNREADS] (TB7UL89TQ) Not marking CB6B9L0M6 because last_read >= latest && channel is read 
+[06/27/19, 11:15:54:508] info: Jun-27 11:15:54.488 [FOCUS-EVENT] Window blurred 
+[06/27/19, 11:16:43:700] info: Jun-27 11:16:43.698 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:17:48:701] info: Jun-27 11:17:48.699 [CLOG] Logged event: [object Object] 
+[06/27/19, 11:18:47:211] info: Jun-27 11:18:47.180 [FOCUS-EVENT] Window focused 
+[06/27/19, 11:18:47:598] info: Jun-27 11:18:47.593 [FOCUS-EVENT] Window blurred 

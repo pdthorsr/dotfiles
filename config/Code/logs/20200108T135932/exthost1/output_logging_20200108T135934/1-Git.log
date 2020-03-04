@@ -1,0 +1,369 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/dataprep-plattform
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/cloud-native-playground
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://git.aurora.skead.no/scm/min-kp/cloud-native-playground
+ * [new branch]      master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git fetch
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git fetch
+From https://git.aurora.skead.no/scm/min-kp/cloud-native-playground
+ * [new branch]      sagli      -> origin/sagli
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+fatal: Authentication failed for 'https://git.aurora.skead.no/scm/min-dtl/dataprep-plattform.git/'
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/dataprep-plattform/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/cloud-native-playground/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template

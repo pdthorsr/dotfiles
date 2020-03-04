@@ -1,0 +1,29 @@
+2019/08/16-07:57:53.579 5529 Reusing MANIFEST /home/m88614/.config/google-chrome/Default/IndexedDB/https_community.pivotal.io_0.indexeddb.leveldb/MANIFEST-000001
+2019/08/16-07:57:53.579 5529 Recovering log #11
+2019/08/16-07:57:53.591 5529 Reusing old log /home/m88614/.config/google-chrome/Default/IndexedDB/https_community.pivotal.io_0.indexeddb.leveldb/000011.log 
+2019/08/16-07:57:56.468 da7c Compacting 1@1 + 1@2 files
+2019/08/16-07:57:56.530 da7c Generated table #14@1: 2208 keys, 1701227 bytes
+2019/08/16-07:57:56.530 da7c Compacted 1@1 + 1@2 files => 1701227 bytes
+2019/08/16-07:57:56.533 5a29 Current memtable full; waiting...
+2019/08/16-07:57:56.534 da7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/08/16-07:57:56.534 da7c Level-0 table #16: started
+2019/08/16-07:57:56.534 5a29 Current memtable full; waiting...
+2019/08/16-07:57:56.543 da7c Level-0 table #16: 537149 bytes OK
+2019/08/16-07:57:56.547 da7c Delete type=0 #11
+2019/08/16-07:57:56.547 da7c Level-0 table #18: started
+2019/08/16-07:57:56.547 da7c Level-0 table #18: 0 bytes OK
+2019/08/16-07:57:56.551 da7c Delete type=0 #15
+2019/08/16-07:57:56.551 da7c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/08/16-07:57:56.556 da7c Compacting 1@1 + 1@2 files
+2019/08/16-07:57:56.597 da7c Generated table #19@1: 1773 keys, 1726865 bytes
+2019/08/16-07:57:56.597 da7c Compacted 1@1 + 1@2 files => 1726865 bytes
+2019/08/16-07:57:56.600 da7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/08/16-07:57:56.600 da7c Delete type=2 #12
+2019/08/16-07:57:56.601 da7c Delete type=2 #10
+2019/08/16-07:57:57.851 da7c Level-0 table #21: started
+2019/08/16-07:57:57.903 da7c Level-0 table #21: 1562235 bytes OK
+2019/08/16-07:57:57.907 da7c Delete type=2 #14
+2019/08/16-07:57:57.907 da7c Delete type=0 #17
+2019/08/16-07:57:57.908 da7c Delete type=2 #16
+2019/08/16-08:00:55.064 da7c Compacting 1@1 + 1@2 files
+2019/08/16-08:00:55.078 da7c compacted to: files[ 0 1 1 0 0 0 0 ]

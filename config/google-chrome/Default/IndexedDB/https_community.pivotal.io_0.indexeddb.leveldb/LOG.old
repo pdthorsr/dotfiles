@@ -1,0 +1,24 @@
+2019/07/25-14:00:57.393 5957 Reusing MANIFEST /home/m88614/.config/google-chrome/Default/IndexedDB/https_community.pivotal.io_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/25-14:01:00.753 7be8 Level-0 table #5: started
+2019/07/25-14:01:00.761 5957 Current memtable full; waiting...
+2019/07/25-14:01:00.810 7be8 Level-0 table #5: 1698661 bytes OK
+2019/07/25-14:01:00.816 7be8 Delete type=0 #3
+2019/07/25-14:01:00.817 5957 Current memtable full; waiting...
+2019/07/25-14:01:00.817 7be8 Level-0 table #7: started
+2019/07/25-14:01:00.821 7be8 Level-0 table #7: 616 bytes OK
+2019/07/25-14:01:00.825 7be8 Delete type=0 #4
+2019/07/25-14:01:00.825 7be8 Level-0 table #9: started
+2019/07/25-14:01:00.825 7be8 Level-0 table #9: 0 bytes OK
+2019/07/25-14:01:00.829 7be8 Delete type=0 #6
+2019/07/25-14:01:00.829 7be8 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/07/25-14:01:00.829 7be8 Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x1f\x03\x00p\x91\xa1M\xfdvB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 1754 : 0
+2019/07/25-14:01:00.829 7be8 Compacting 1@1 + 1@2 files
+2019/07/25-14:01:00.879 7be8 Generated table #10@1: 1716 keys, 1642584 bytes
+2019/07/25-14:01:00.879 7be8 Compacted 1@1 + 1@2 files => 1642584 bytes
+2019/07/25-14:01:00.883 7be8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/07/25-14:01:00.883 7be8 Delete type=2 #7
+2019/07/25-14:01:00.883 7be8 Delete type=2 #5
+2019/07/25-14:01:00.884 7be8 Manual compaction at level-1 from '\x00\x05\x01\x1f\x03\x00p\x91\xa1M\xfdvB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 1754 : 0 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/07/25-14:01:04.601 7be8 Level-0 table #12: started
+2019/07/25-14:01:04.646 7be8 Level-0 table #12: 1700350 bytes OK
+2019/07/25-14:01:04.649 7be8 Delete type=0 #8

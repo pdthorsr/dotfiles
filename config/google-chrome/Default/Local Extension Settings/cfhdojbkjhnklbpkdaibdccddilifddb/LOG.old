@@ -1,0 +1,2022 @@
+2020/02/19-17:47:24.469 b937 Reusing MANIFEST /home/m88614/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/02/19-17:47:24.472 b937 Recovering log #19356
+2020/02/19-17:47:24.472 b937 Reusing old log /home/m88614/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/019356.log 
+2020/02/19-17:48:25.612 be9f Level-0 table #19360: started
+2020/02/19-17:48:25.683 be9f Level-0 table #19360: 4924382 bytes OK
+2020/02/19-17:48:25.687 be9f Delete type=0 #19356
+2020/02/19-17:48:25.689 be9f Compacting 4@0 + 2@1 files
+2020/02/19-17:48:25.856 be9f Generated table #19361@0: 1 keys, 4924238 bytes
+2020/02/19-17:48:25.862 be9f Generated table #19362@0: 4 keys, 503 bytes
+2020/02/19-17:48:25.862 be9f Compacted 4@0 + 2@1 files => 4924741 bytes
+2020/02/19-17:48:25.865 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/19-17:48:25.865 be9f Delete type=2 #19349
+2020/02/19-17:48:25.865 be9f Delete type=2 #19352
+2020/02/19-17:48:25.865 be9f Delete type=2 #19357
+2020/02/19-17:48:25.865 be9f Delete type=2 #19355
+2020/02/19-17:48:25.865 be9f Delete type=2 #19360
+2020/02/19-17:48:25.865 be9f Delete type=2 #19350
+2020/02/19-17:49:35.855 be9f Level-0 table #19364: started
+2020/02/19-17:49:35.936 be9f Level-0 table #19364: 4924508 bytes OK
+2020/02/19-17:49:35.939 be9f Delete type=0 #19359
+2020/02/19-18:48:25.619 be9f Level-0 table #19366: started
+2020/02/19-18:48:25.690 be9f Level-0 table #19366: 4924352 bytes OK
+2020/02/19-18:48:25.694 be9f Delete type=0 #19363
+2020/02/19-19:48:25.242 be9f Level-0 table #19368: started
+2020/02/19-19:48:25.314 be9f Level-0 table #19368: 4924633 bytes OK
+2020/02/19-19:48:25.318 be9f Delete type=0 #19365
+2020/02/19-19:48:25.604 be9f Level-0 table #19370: started
+2020/02/19-19:48:25.705 be9f Level-0 table #19370: 4924248 bytes OK
+2020/02/19-19:48:25.708 be9f Delete type=0 #19367
+2020/02/19-19:48:25.710 be9f Compacting 4@0 + 2@1 files
+2020/02/19-19:48:25.878 be9f Generated table #19371@0: 1 keys, 4924248 bytes
+2020/02/19-19:48:25.884 be9f Generated table #19372@0: 4 keys, 503 bytes
+2020/02/19-19:48:25.884 be9f Compacted 4@0 + 2@1 files => 4924751 bytes
+2020/02/19-19:48:25.887 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/19-19:48:25.887 be9f Delete type=2 #19361
+2020/02/19-19:48:25.887 be9f Delete type=2 #19368
+2020/02/19-19:48:25.887 be9f Delete type=2 #19366
+2020/02/19-19:48:25.887 be9f Delete type=2 #19370
+2020/02/19-19:48:25.887 be9f Delete type=2 #19364
+2020/02/19-19:48:25.887 be9f Delete type=2 #19362
+2020/02/19-20:48:25.316 be9f Level-0 table #19374: started
+2020/02/19-20:48:25.393 be9f Level-0 table #19374: 4924518 bytes OK
+2020/02/19-20:48:25.396 be9f Delete type=0 #19369
+2020/02/19-20:48:25.672 be9f Level-0 table #19376: started
+2020/02/19-20:48:25.752 be9f Level-0 table #19376: 4924247 bytes OK
+2020/02/19-20:48:25.755 be9f Delete type=0 #19373
+2020/02/19-21:48:25.280 be9f Level-0 table #19378: started
+2020/02/19-21:48:25.355 be9f Level-0 table #19378: 4924630 bytes OK
+2020/02/19-21:48:25.359 be9f Delete type=0 #19375
+2020/02/19-21:48:25.634 be9f Level-0 table #19380: started
+2020/02/19-21:48:25.709 be9f Level-0 table #19380: 4924244 bytes OK
+2020/02/19-21:48:25.712 be9f Delete type=0 #19377
+2020/02/19-21:48:25.714 be9f Compacting 4@0 + 2@1 files
+2020/02/19-21:48:25.867 be9f Generated table #19381@0: 1 keys, 4924244 bytes
+2020/02/19-21:48:25.872 be9f Generated table #19382@0: 4 keys, 502 bytes
+2020/02/19-21:48:25.872 be9f Compacted 4@0 + 2@1 files => 4924746 bytes
+2020/02/19-21:48:25.875 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/19-21:48:25.875 be9f Delete type=2 #19371
+2020/02/19-21:48:25.875 be9f Delete type=2 #19372
+2020/02/19-21:48:25.875 be9f Delete type=2 #19376
+2020/02/19-21:48:25.875 be9f Delete type=2 #19374
+2020/02/19-21:48:25.875 be9f Delete type=2 #19380
+2020/02/19-21:48:25.875 be9f Delete type=2 #19378
+2020/02/19-22:48:25.312 be9f Level-0 table #19384: started
+2020/02/19-22:48:25.387 be9f Level-0 table #19384: 4924514 bytes OK
+2020/02/19-22:48:25.393 be9f Delete type=0 #19379
+2020/02/19-22:48:25.669 be9f Level-0 table #19386: started
+2020/02/19-22:48:25.776 be9f Level-0 table #19386: 4924246 bytes OK
+2020/02/19-22:48:25.780 be9f Delete type=0 #19383
+2020/02/19-22:48:27.738 be9f Level-0 table #19388: started
+2020/02/19-22:48:27.816 be9f Level-0 table #19388: 4924516 bytes OK
+2020/02/19-22:48:27.820 be9f Delete type=0 #19385
+2020/02/19-23:48:25.210 be9f Level-0 table #19390: started
+2020/02/19-23:48:25.279 be9f Level-0 table #19390: 4924444 bytes OK
+2020/02/19-23:48:25.282 be9f Delete type=0 #19387
+2020/02/19-23:48:25.284 be9f Compacting 4@0 + 2@1 files
+2020/02/19-23:48:25.390 be9f Generated table #19391@0: 1 keys, 4924245 bytes
+2020/02/19-23:48:25.395 be9f Generated table #19392@0: 4 keys, 504 bytes
+2020/02/19-23:48:25.395 be9f Compacted 4@0 + 2@1 files => 4924749 bytes
+2020/02/19-23:48:25.398 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/19-23:48:25.398 be9f Delete type=2 #19390
+2020/02/19-23:48:25.398 be9f Delete type=2 #19381
+2020/02/19-23:48:25.398 be9f Delete type=2 #19384
+2020/02/19-23:48:25.398 be9f Delete type=2 #19388
+2020/02/19-23:48:25.398 be9f Delete type=2 #19386
+2020/02/19-23:48:25.398 be9f Delete type=2 #19382
+2020/02/19-23:48:25.560 be9f Level-0 table #19394: started
+2020/02/19-23:48:25.651 be9f Level-0 table #19394: 4924247 bytes OK
+2020/02/19-23:48:25.655 be9f Delete type=0 #19389
+2020/02/20-00:48:25.343 be9f Level-0 table #19396: started
+2020/02/20-00:48:25.420 be9f Level-0 table #19396: 4924517 bytes OK
+2020/02/20-00:48:25.425 be9f Delete type=0 #19393
+2020/02/20-00:48:25.715 be9f Level-0 table #19398: started
+2020/02/20-00:48:25.786 be9f Level-0 table #19398: 4924247 bytes OK
+2020/02/20-00:48:25.789 be9f Delete type=0 #19395
+2020/02/20-01:48:25.354 be9f Level-0 table #19400: started
+2020/02/20-01:48:25.433 be9f Level-0 table #19400: 4924633 bytes OK
+2020/02/20-01:48:25.436 be9f Delete type=0 #19397
+2020/02/20-01:48:25.438 be9f Compacting 4@0 + 2@1 files
+2020/02/20-01:48:25.596 be9f Generated table #19401@0: 1 keys, 4924243 bytes
+2020/02/20-01:48:25.602 be9f Generated table #19402@0: 4 keys, 504 bytes
+2020/02/20-01:48:25.602 be9f Compacted 4@0 + 2@1 files => 4924747 bytes
+2020/02/20-01:48:25.605 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-01:48:25.605 be9f Delete type=2 #19398
+2020/02/20-01:48:25.605 be9f Delete type=2 #19392
+2020/02/20-01:48:25.605 be9f Delete type=2 #19400
+2020/02/20-01:48:25.605 be9f Delete type=2 #19394
+2020/02/20-01:48:25.605 be9f Delete type=2 #19391
+2020/02/20-01:48:25.605 be9f Delete type=2 #19396
+2020/02/20-01:48:25.711 be9f Level-0 table #19404: started
+2020/02/20-01:48:25.809 be9f Level-0 table #19404: 4924244 bytes OK
+2020/02/20-01:48:25.813 be9f Delete type=0 #19399
+2020/02/20-02:48:25.275 be9f Level-0 table #19406: started
+2020/02/20-02:48:25.348 be9f Level-0 table #19406: 4924633 bytes OK
+2020/02/20-02:48:25.352 be9f Delete type=0 #19403
+2020/02/20-02:48:25.640 be9f Level-0 table #19408: started
+2020/02/20-02:48:25.712 be9f Level-0 table #19408: 4924244 bytes OK
+2020/02/20-02:48:25.715 be9f Delete type=0 #19405
+2020/02/20-03:48:25.294 be9f Level-0 table #19410: started
+2020/02/20-03:48:25.371 be9f Level-0 table #19410: 4924631 bytes OK
+2020/02/20-03:48:25.375 be9f Delete type=0 #19407
+2020/02/20-03:48:25.376 be9f Compacting 4@0 + 2@1 files
+2020/02/20-03:48:25.508 be9f Generated table #19411@0: 1 keys, 4924239 bytes
+2020/02/20-03:48:25.512 be9f Generated table #19412@0: 4 keys, 506 bytes
+2020/02/20-03:48:25.512 be9f Compacted 4@0 + 2@1 files => 4924745 bytes
+2020/02/20-03:48:25.515 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-03:48:25.516 be9f Delete type=2 #19406
+2020/02/20-03:48:25.516 be9f Delete type=2 #19410
+2020/02/20-03:48:25.516 be9f Delete type=2 #19408
+2020/02/20-03:48:25.516 be9f Delete type=2 #19402
+2020/02/20-03:48:25.516 be9f Delete type=2 #19401
+2020/02/20-03:48:25.516 be9f Delete type=2 #19404
+2020/02/20-03:48:25.653 be9f Level-0 table #19414: started
+2020/02/20-03:48:25.720 be9f Level-0 table #19414: 4924239 bytes OK
+2020/02/20-03:48:25.724 be9f Delete type=0 #19409
+2020/02/20-04:48:25.344 be9f Level-0 table #19416: started
+2020/02/20-04:48:25.420 be9f Level-0 table #19416: 4924625 bytes OK
+2020/02/20-04:48:25.423 be9f Delete type=0 #19413
+2020/02/20-04:48:25.720 be9f Level-0 table #19418: started
+2020/02/20-04:48:25.795 be9f Level-0 table #19418: 4924238 bytes OK
+2020/02/20-04:48:25.799 be9f Delete type=0 #19415
+2020/02/20-05:48:25.270 be9f Level-0 table #19420: started
+2020/02/20-05:48:25.348 be9f Level-0 table #19420: 4924508 bytes OK
+2020/02/20-05:48:25.351 be9f Delete type=0 #19417
+2020/02/20-05:48:25.353 be9f Compacting 4@0 + 2@1 files
+2020/02/20-05:48:25.524 be9f Generated table #19421@0: 1 keys, 4924238 bytes
+2020/02/20-05:48:25.530 be9f Generated table #19422@0: 4 keys, 504 bytes
+2020/02/20-05:48:25.530 be9f Compacted 4@0 + 2@1 files => 4924742 bytes
+2020/02/20-05:48:25.533 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-05:48:25.533 be9f Delete type=2 #19411
+2020/02/20-05:48:25.533 be9f Delete type=2 #19420
+2020/02/20-05:48:25.533 be9f Delete type=2 #19412
+2020/02/20-05:48:25.533 be9f Delete type=2 #19414
+2020/02/20-05:48:25.533 be9f Delete type=2 #19416
+2020/02/20-05:48:25.533 be9f Delete type=2 #19418
+2020/02/20-05:48:25.643 be9f Level-0 table #19424: started
+2020/02/20-05:48:25.718 be9f Level-0 table #19424: 4924234 bytes OK
+2020/02/20-05:48:25.721 be9f Delete type=0 #19419
+2020/02/20-06:48:25.387 be9f Level-0 table #19426: started
+2020/02/20-06:48:25.460 be9f Level-0 table #19426: 4924628 bytes OK
+2020/02/20-06:48:25.463 be9f Delete type=0 #19423
+2020/02/20-06:48:25.764 be9f Level-0 table #19428: started
+2020/02/20-06:48:25.838 be9f Level-0 table #19428: 4924239 bytes OK
+2020/02/20-06:48:25.843 be9f Delete type=0 #19425
+2020/02/20-06:48:27.848 be9f Level-0 table #19430: started
+2020/02/20-06:48:27.966 be9f Level-0 table #19430: 4924510 bytes OK
+2020/02/20-06:48:27.970 be9f Delete type=0 #19427
+2020/02/20-06:48:27.971 be9f Compacting 4@0 + 2@1 files
+2020/02/20-06:48:28.120 be9f Generated table #19431@0: 1 keys, 4924239 bytes
+2020/02/20-06:48:28.126 be9f Generated table #19432@0: 4 keys, 505 bytes
+2020/02/20-06:48:28.126 be9f Compacted 4@0 + 2@1 files => 4924744 bytes
+2020/02/20-06:48:28.129 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-06:48:28.129 be9f Delete type=2 #19421
+2020/02/20-06:48:28.129 be9f Delete type=2 #19424
+2020/02/20-06:48:28.129 be9f Delete type=2 #19428
+2020/02/20-06:48:28.129 be9f Delete type=2 #19422
+2020/02/20-06:48:28.129 be9f Delete type=2 #19430
+2020/02/20-06:48:28.129 be9f Delete type=2 #19426
+2020/02/20-07:48:25.299 be9f Level-0 table #19434: started
+2020/02/20-07:48:25.371 be9f Level-0 table #19434: 4924451 bytes OK
+2020/02/20-07:48:25.374 be9f Delete type=0 #19429
+2020/02/20-07:48:25.687 be9f Level-0 table #19436: started
+2020/02/20-07:48:25.764 be9f Level-0 table #19436: 4924256 bytes OK
+2020/02/20-07:48:25.768 be9f Delete type=0 #19433
+2020/02/20-08:48:25.343 be9f Level-0 table #19438: started
+2020/02/20-08:48:25.425 be9f Level-0 table #19438: 4930488 bytes OK
+2020/02/20-08:48:25.431 be9f Delete type=0 #19435
+2020/02/20-08:48:25.692 be9f Level-0 table #19440: started
+2020/02/20-08:48:25.797 be9f Level-0 table #19440: 4930083 bytes OK
+2020/02/20-08:48:25.800 be9f Delete type=0 #19437
+2020/02/20-08:48:25.802 be9f Compacting 4@0 + 2@1 files
+2020/02/20-08:48:25.951 be9f Generated table #19441@0: 1 keys, 4930083 bytes
+2020/02/20-08:48:25.956 be9f Generated table #19442@0: 4 keys, 505 bytes
+2020/02/20-08:48:25.956 be9f Compacted 4@0 + 2@1 files => 4930588 bytes
+2020/02/20-08:48:25.959 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-08:48:25.959 be9f Delete type=2 #19438
+2020/02/20-08:48:25.959 be9f Delete type=2 #19432
+2020/02/20-08:48:25.959 be9f Delete type=2 #19434
+2020/02/20-08:48:25.959 be9f Delete type=2 #19436
+2020/02/20-08:48:25.959 be9f Delete type=2 #19440
+2020/02/20-08:48:25.959 be9f Delete type=2 #19431
+2020/02/20-09:48:25.317 be9f Level-0 table #19444: started
+2020/02/20-09:48:25.394 be9f Level-0 table #19444: 4930352 bytes OK
+2020/02/20-09:48:25.398 be9f Delete type=0 #19439
+2020/02/20-09:48:25.696 be9f Level-0 table #19446: started
+2020/02/20-09:48:25.774 be9f Level-0 table #19446: 4930081 bytes OK
+2020/02/20-09:48:25.777 be9f Delete type=0 #19443
+2020/02/20-10:48:25.339 be9f Level-0 table #19448: started
+2020/02/20-10:48:25.424 be9f Level-0 table #19448: 4930541 bytes OK
+2020/02/20-10:48:25.428 be9f Delete type=0 #19445
+2020/02/20-10:48:25.705 be9f Level-0 table #19450: started
+2020/02/20-10:48:25.806 be9f Level-0 table #19450: 4930091 bytes OK
+2020/02/20-10:48:25.810 be9f Delete type=0 #19447
+2020/02/20-10:48:25.812 be9f Compacting 4@0 + 2@1 files
+2020/02/20-10:48:25.960 be9f Generated table #19451@0: 1 keys, 4930091 bytes
+2020/02/20-10:48:25.966 be9f Generated table #19452@0: 4 keys, 500 bytes
+2020/02/20-10:48:25.966 be9f Compacted 4@0 + 2@1 files => 4930591 bytes
+2020/02/20-10:48:25.969 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-10:48:25.969 be9f Delete type=2 #19441
+2020/02/20-10:48:25.969 be9f Delete type=2 #19442
+2020/02/20-10:48:25.969 be9f Delete type=2 #19446
+2020/02/20-10:48:25.969 be9f Delete type=2 #19444
+2020/02/20-10:48:25.969 be9f Delete type=2 #19450
+2020/02/20-10:48:25.969 be9f Delete type=2 #19448
+2020/02/20-10:48:33.039 be9f Level-0 table #19454: started
+2020/02/20-10:48:33.123 be9f Level-0 table #19454: 4930362 bytes OK
+2020/02/20-10:48:33.127 be9f Delete type=0 #19449
+2020/02/20-10:48:35.426 be9f Level-0 table #19456: started
+2020/02/20-10:48:35.503 be9f Level-0 table #19456: 4930287 bytes OK
+2020/02/20-10:48:35.507 be9f Delete type=0 #19453
+2020/02/20-11:48:25.387 be9f Level-0 table #19458: started
+2020/02/20-11:48:25.457 be9f Level-0 table #19458: 4930088 bytes OK
+2020/02/20-11:48:25.460 be9f Delete type=0 #19455
+2020/02/20-11:48:25.757 be9f Level-0 table #19460: started
+2020/02/20-11:48:25.828 be9f Level-0 table #19460: 4930087 bytes OK
+2020/02/20-11:48:25.832 be9f Delete type=0 #19457
+2020/02/20-11:48:25.834 be9f Compacting 4@0 + 2@1 files
+2020/02/20-11:48:25.965 be9f Generated table #19461@0: 1 keys, 4930087 bytes
+2020/02/20-11:48:25.970 be9f Generated table #19462@0: 4 keys, 504 bytes
+2020/02/20-11:48:25.970 be9f Compacted 4@0 + 2@1 files => 4930591 bytes
+2020/02/20-11:48:25.975 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-11:48:25.975 be9f Delete type=2 #19452
+2020/02/20-11:48:25.975 be9f Delete type=2 #19458
+2020/02/20-11:48:25.975 be9f Delete type=2 #19451
+2020/02/20-11:48:25.975 be9f Delete type=2 #19454
+2020/02/20-11:48:25.975 be9f Delete type=2 #19456
+2020/02/20-11:48:25.975 be9f Delete type=2 #19460
+2020/02/20-11:48:37.714 be9f Level-0 table #19464: started
+2020/02/20-11:48:37.791 be9f Level-0 table #19464: 4930357 bytes OK
+2020/02/20-11:48:37.795 be9f Delete type=0 #19459
+2020/02/20-11:48:39.471 be9f Level-0 table #19466: started
+2020/02/20-11:48:39.565 be9f Level-0 table #19466: 4930128 bytes OK
+2020/02/20-11:48:39.569 be9f Delete type=0 #19463
+2020/02/20-12:48:25.316 be9f Level-0 table #19468: started
+2020/02/20-12:48:25.389 be9f Level-0 table #19468: 4930128 bytes OK
+2020/02/20-12:48:25.393 be9f Delete type=0 #19465
+2020/02/20-12:48:25.692 be9f Level-0 table #19470: started
+2020/02/20-12:48:25.776 be9f Level-0 table #19470: 4930129 bytes OK
+2020/02/20-12:48:25.780 be9f Delete type=0 #19467
+2020/02/20-12:48:25.782 be9f Compacting 4@0 + 2@1 files
+2020/02/20-12:48:25.930 be9f Generated table #19471@0: 1 keys, 4930129 bytes
+2020/02/20-12:48:25.936 be9f Generated table #19472@0: 4 keys, 503 bytes
+2020/02/20-12:48:25.936 be9f Compacted 4@0 + 2@1 files => 4930632 bytes
+2020/02/20-12:48:25.939 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-12:48:25.940 be9f Delete type=2 #19461
+2020/02/20-12:48:25.940 be9f Delete type=2 #19466
+2020/02/20-12:48:25.940 be9f Delete type=2 #19468
+2020/02/20-12:48:25.940 be9f Delete type=2 #19462
+2020/02/20-12:48:25.940 be9f Delete type=2 #19464
+2020/02/20-12:48:25.940 be9f Delete type=2 #19470
+2020/02/20-13:48:25.304 be9f Level-0 table #19474: started
+2020/02/20-13:48:25.378 be9f Level-0 table #19474: 4930399 bytes OK
+2020/02/20-13:48:25.383 be9f Delete type=0 #19469
+2020/02/20-13:48:25.678 be9f Level-0 table #19476: started
+2020/02/20-13:48:25.741 be9f Level-0 table #19476: 4930128 bytes OK
+2020/02/20-13:48:25.745 be9f Delete type=0 #19473
+2020/02/20-14:48:25.349 be9f Level-0 table #19478: started
+2020/02/20-14:48:25.424 be9f Level-0 table #19478: 4930398 bytes OK
+2020/02/20-14:48:25.428 be9f Delete type=0 #19475
+2020/02/20-14:48:25.719 be9f Level-0 table #19480: started
+2020/02/20-14:48:25.821 be9f Level-0 table #19480: 4930130 bytes OK
+2020/02/20-14:48:25.825 be9f Delete type=0 #19477
+2020/02/20-14:48:25.827 be9f Compacting 4@0 + 2@1 files
+2020/02/20-14:48:25.978 be9f Generated table #19481@0: 1 keys, 4930130 bytes
+2020/02/20-14:48:25.984 be9f Generated table #19482@0: 4 keys, 504 bytes
+2020/02/20-14:48:25.984 be9f Compacted 4@0 + 2@1 files => 4930634 bytes
+2020/02/20-14:48:25.987 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-14:48:25.987 be9f Delete type=2 #19474
+2020/02/20-14:48:25.987 be9f Delete type=2 #19478
+2020/02/20-14:48:25.987 be9f Delete type=2 #19471
+2020/02/20-14:48:25.987 be9f Delete type=2 #19472
+2020/02/20-14:48:25.987 be9f Delete type=2 #19480
+2020/02/20-14:48:25.987 be9f Delete type=2 #19476
+2020/02/20-14:48:27.806 be9f Level-0 table #19484: started
+2020/02/20-14:48:27.896 be9f Level-0 table #19484: 4930400 bytes OK
+2020/02/20-14:48:27.900 be9f Delete type=0 #19479
+2020/02/20-15:48:25.428 be9f Level-0 table #19486: started
+2020/02/20-15:48:25.498 be9f Level-0 table #19486: 4931635 bytes OK
+2020/02/20-15:48:25.502 be9f Delete type=0 #19483
+2020/02/20-15:48:25.816 be9f Level-0 table #19488: started
+2020/02/20-15:48:25.892 be9f Level-0 table #19488: 4931423 bytes OK
+2020/02/20-15:48:25.895 be9f Delete type=0 #19485
+2020/02/20-16:48:25.398 be9f Level-0 table #19490: started
+2020/02/20-16:48:25.483 be9f Level-0 table #19490: 4931693 bytes OK
+2020/02/20-16:48:25.487 be9f Delete type=0 #19487
+2020/02/20-16:48:25.490 be9f Compacting 4@0 + 2@1 files
+2020/02/20-16:48:25.630 be9f Generated table #19491@0: 1 keys, 4931423 bytes
+2020/02/20-16:48:25.634 be9f Generated table #19492@0: 4 keys, 505 bytes
+2020/02/20-16:48:25.634 be9f Compacted 4@0 + 2@1 files => 4931928 bytes
+2020/02/20-16:48:25.637 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-16:48:25.638 be9f Delete type=2 #19490
+2020/02/20-16:48:25.638 be9f Delete type=2 #19486
+2020/02/20-16:48:25.638 be9f Delete type=2 #19484
+2020/02/20-16:48:25.638 be9f Delete type=2 #19482
+2020/02/20-16:48:25.638 be9f Delete type=2 #19481
+2020/02/20-16:48:25.638 be9f Delete type=2 #19488
+2020/02/20-16:48:25.816 be9f Level-0 table #19494: started
+2020/02/20-16:48:25.911 be9f Level-0 table #19494: 4931425 bytes OK
+2020/02/20-16:48:25.914 be9f Delete type=0 #19489
+2020/02/20-17:48:25.412 be9f Level-0 table #19496: started
+2020/02/20-17:48:25.487 be9f Level-0 table #19496: 4931695 bytes OK
+2020/02/20-17:48:25.490 be9f Delete type=0 #19493
+2020/02/20-17:48:25.771 be9f Level-0 table #19498: started
+2020/02/20-17:48:25.837 be9f Level-0 table #19498: 4931426 bytes OK
+2020/02/20-17:48:25.841 be9f Delete type=0 #19495
+2020/02/20-18:48:25.397 be9f Level-0 table #19500: started
+2020/02/20-18:48:25.475 be9f Level-0 table #19500: 4931696 bytes OK
+2020/02/20-18:48:25.479 be9f Delete type=0 #19497
+2020/02/20-18:48:25.481 be9f Compacting 4@0 + 2@1 files
+2020/02/20-18:48:25.628 be9f Generated table #19501@0: 1 keys, 4931426 bytes
+2020/02/20-18:48:25.634 be9f Generated table #19502@0: 4 keys, 505 bytes
+2020/02/20-18:48:25.634 be9f Compacted 4@0 + 2@1 files => 4931931 bytes
+2020/02/20-18:48:25.637 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-18:48:25.637 be9f Delete type=2 #19496
+2020/02/20-18:48:25.637 be9f Delete type=2 #19492
+2020/02/20-18:48:25.637 be9f Delete type=2 #19498
+2020/02/20-18:48:25.637 be9f Delete type=2 #19494
+2020/02/20-18:48:25.637 be9f Delete type=2 #19491
+2020/02/20-18:48:25.637 be9f Delete type=2 #19500
+2020/02/20-18:48:25.755 be9f Level-0 table #19504: started
+2020/02/20-18:48:25.829 be9f Level-0 table #19504: 4931425 bytes OK
+2020/02/20-18:48:25.833 be9f Delete type=0 #19499
+2020/02/20-19:48:25.449 be9f Level-0 table #19506: started
+2020/02/20-19:48:25.526 be9f Level-0 table #19506: 4931695 bytes OK
+2020/02/20-19:48:25.530 be9f Delete type=0 #19503
+2020/02/20-19:48:25.812 be9f Level-0 table #19508: started
+2020/02/20-19:48:25.929 be9f Level-0 table #19508: 4931425 bytes OK
+2020/02/20-19:48:25.932 be9f Delete type=0 #19505
+2020/02/20-20:48:25.411 be9f Level-0 table #19510: started
+2020/02/20-20:48:25.486 be9f Level-0 table #19510: 4931695 bytes OK
+2020/02/20-20:48:25.490 be9f Delete type=0 #19507
+2020/02/20-20:48:25.492 be9f Compacting 4@0 + 2@1 files
+2020/02/20-20:48:25.619 be9f Generated table #19511@0: 1 keys, 4931425 bytes
+2020/02/20-20:48:25.623 be9f Generated table #19512@0: 4 keys, 505 bytes
+2020/02/20-20:48:25.623 be9f Compacted 4@0 + 2@1 files => 4931930 bytes
+2020/02/20-20:48:25.626 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-20:48:25.626 be9f Delete type=2 #19506
+2020/02/20-20:48:25.626 be9f Delete type=2 #19502
+2020/02/20-20:48:25.626 be9f Delete type=2 #19501
+2020/02/20-20:48:25.627 be9f Delete type=2 #19508
+2020/02/20-20:48:25.627 be9f Delete type=2 #19510
+2020/02/20-20:48:25.627 be9f Delete type=2 #19504
+2020/02/20-20:48:25.778 be9f Level-0 table #19514: started
+2020/02/20-20:48:25.869 be9f Level-0 table #19514: 4931425 bytes OK
+2020/02/20-20:48:25.873 be9f Delete type=0 #19509
+2020/02/20-21:48:26.260 be9f Level-0 table #19516: started
+2020/02/20-21:48:26.330 be9f Level-0 table #19516: 4931695 bytes OK
+2020/02/20-21:48:26.334 be9f Delete type=0 #19513
+2020/02/20-21:48:26.623 be9f Level-0 table #19518: started
+2020/02/20-21:48:26.707 be9f Level-0 table #19518: 4931426 bytes OK
+2020/02/20-21:48:26.711 be9f Delete type=0 #19515
+2020/02/20-22:48:25.451 be9f Level-0 table #19520: started
+2020/02/20-22:48:25.529 be9f Level-0 table #19520: 4931696 bytes OK
+2020/02/20-22:48:25.533 be9f Delete type=0 #19517
+2020/02/20-22:48:25.535 be9f Compacting 4@0 + 2@1 files
+2020/02/20-22:48:25.666 be9f Generated table #19521@0: 1 keys, 4931426 bytes
+2020/02/20-22:48:25.672 be9f Generated table #19522@0: 4 keys, 505 bytes
+2020/02/20-22:48:25.672 be9f Compacted 4@0 + 2@1 files => 4931931 bytes
+2020/02/20-22:48:25.674 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/20-22:48:25.674 be9f Delete type=2 #19520
+2020/02/20-22:48:25.674 be9f Delete type=2 #19514
+2020/02/20-22:48:25.675 be9f Delete type=2 #19518
+2020/02/20-22:48:25.675 be9f Delete type=2 #19511
+2020/02/20-22:48:25.675 be9f Delete type=2 #19512
+2020/02/20-22:48:25.675 be9f Delete type=2 #19516
+2020/02/20-22:48:25.815 be9f Level-0 table #19524: started
+2020/02/20-22:48:25.892 be9f Level-0 table #19524: 4931432 bytes OK
+2020/02/20-22:48:25.895 be9f Delete type=0 #19519
+2020/02/20-23:48:25.486 be9f Level-0 table #19526: started
+2020/02/20-23:48:25.561 be9f Level-0 table #19526: 4931702 bytes OK
+2020/02/20-23:48:25.565 be9f Delete type=0 #19523
+2020/02/20-23:48:25.858 be9f Level-0 table #19528: started
+2020/02/20-23:48:25.961 be9f Level-0 table #19528: 4931423 bytes OK
+2020/02/20-23:48:25.964 be9f Delete type=0 #19525
+2020/02/21-00:48:25.447 be9f Level-0 table #19530: started
+2020/02/21-00:48:25.526 be9f Level-0 table #19530: 4931693 bytes OK
+2020/02/21-00:48:25.530 be9f Delete type=0 #19527
+2020/02/21-00:48:25.532 be9f Compacting 4@0 + 2@1 files
+2020/02/21-00:48:25.658 be9f Generated table #19531@0: 1 keys, 4931423 bytes
+2020/02/21-00:48:25.662 be9f Generated table #19532@0: 4 keys, 505 bytes
+2020/02/21-00:48:25.662 be9f Compacted 4@0 + 2@1 files => 4931928 bytes
+2020/02/21-00:48:25.665 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-00:48:25.665 be9f Delete type=2 #19521
+2020/02/21-00:48:25.665 be9f Delete type=2 #19526
+2020/02/21-00:48:25.665 be9f Delete type=2 #19528
+2020/02/21-00:48:25.665 be9f Delete type=2 #19522
+2020/02/21-00:48:25.665 be9f Delete type=2 #19530
+2020/02/21-00:48:25.665 be9f Delete type=2 #19524
+2020/02/21-00:48:25.807 be9f Level-0 table #19534: started
+2020/02/21-00:48:25.906 be9f Level-0 table #19534: 4931427 bytes OK
+2020/02/21-00:48:25.909 be9f Delete type=0 #19529
+2020/02/21-01:48:25.439 be9f Level-0 table #19536: started
+2020/02/21-01:48:25.512 be9f Level-0 table #19536: 4931697 bytes OK
+2020/02/21-01:48:25.516 be9f Delete type=0 #19533
+2020/02/21-01:48:25.818 be9f Level-0 table #19538: started
+2020/02/21-01:48:25.894 be9f Level-0 table #19538: 4931427 bytes OK
+2020/02/21-01:48:25.900 be9f Delete type=0 #19535
+2020/02/21-02:48:26.248 be9f Level-0 table #19540: started
+2020/02/21-02:48:26.358 be9f Level-0 table #19540: 4931818 bytes OK
+2020/02/21-02:48:26.362 be9f Delete type=0 #19537
+2020/02/21-02:48:26.365 be9f Compacting 4@0 + 2@1 files
+2020/02/21-02:48:26.507 be9f Generated table #19541@0: 1 keys, 4931427 bytes
+2020/02/21-02:48:26.512 be9f Generated table #19542@0: 4 keys, 506 bytes
+2020/02/21-02:48:26.512 be9f Compacted 4@0 + 2@1 files => 4931933 bytes
+2020/02/21-02:48:26.515 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-02:48:26.515 be9f Delete type=2 #19540
+2020/02/21-02:48:26.515 be9f Delete type=2 #19532
+2020/02/21-02:48:26.515 be9f Delete type=2 #19536
+2020/02/21-02:48:26.515 be9f Delete type=2 #19538
+2020/02/21-02:48:26.515 be9f Delete type=2 #19531
+2020/02/21-02:48:26.515 be9f Delete type=2 #19534
+2020/02/21-02:48:26.613 be9f Level-0 table #19544: started
+2020/02/21-02:48:26.703 be9f Level-0 table #19544: 4931424 bytes OK
+2020/02/21-02:48:26.707 be9f Delete type=0 #19539
+2020/02/21-03:48:25.432 be9f Level-0 table #19546: started
+2020/02/21-03:48:25.507 be9f Level-0 table #19546: 4931694 bytes OK
+2020/02/21-03:48:25.511 be9f Delete type=0 #19543
+2020/02/21-03:48:25.805 be9f Level-0 table #19548: started
+2020/02/21-03:48:25.878 be9f Level-0 table #19548: 4931424 bytes OK
+2020/02/21-03:48:25.882 be9f Delete type=0 #19545
+2020/02/21-04:48:26.416 be9f Level-0 table #19550: started
+2020/02/21-04:48:26.518 be9f Level-0 table #19550: 4931694 bytes OK
+2020/02/21-04:48:26.522 be9f Delete type=0 #19547
+2020/02/21-04:48:26.524 be9f Compacting 4@0 + 2@1 files
+2020/02/21-04:48:26.676 be9f Generated table #19551@0: 1 keys, 4931424 bytes
+2020/02/21-04:48:26.682 be9f Generated table #19552@0: 4 keys, 506 bytes
+2020/02/21-04:48:26.682 be9f Compacted 4@0 + 2@1 files => 4931930 bytes
+2020/02/21-04:48:26.685 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-04:48:26.685 be9f Delete type=2 #19546
+2020/02/21-04:48:26.685 be9f Delete type=2 #19544
+2020/02/21-04:48:26.685 be9f Delete type=2 #19541
+2020/02/21-04:48:26.685 be9f Delete type=2 #19542
+2020/02/21-04:48:26.685 be9f Delete type=2 #19550
+2020/02/21-04:48:26.685 be9f Delete type=2 #19548
+2020/02/21-04:48:26.918 be9f Level-0 table #19554: started
+2020/02/21-04:48:26.984 be9f Level-0 table #19554: 4931423 bytes OK
+2020/02/21-04:48:26.988 be9f Delete type=0 #19549
+2020/02/21-05:48:25.533 be9f Level-0 table #19556: started
+2020/02/21-05:48:25.613 be9f Level-0 table #19556: 4931693 bytes OK
+2020/02/21-05:48:25.617 be9f Delete type=0 #19553
+2020/02/21-05:48:25.910 be9f Level-0 table #19558: started
+2020/02/21-05:48:25.986 be9f Level-0 table #19558: 4931425 bytes OK
+2020/02/21-05:48:25.990 be9f Delete type=0 #19555
+2020/02/21-06:48:25.486 be9f Level-0 table #19560: started
+2020/02/21-06:48:25.562 be9f Level-0 table #19560: 4931695 bytes OK
+2020/02/21-06:48:25.566 be9f Delete type=0 #19557
+2020/02/21-06:48:25.568 be9f Compacting 4@0 + 2@1 files
+2020/02/21-06:48:25.718 be9f Generated table #19561@0: 1 keys, 4931425 bytes
+2020/02/21-06:48:25.723 be9f Generated table #19562@0: 4 keys, 506 bytes
+2020/02/21-06:48:25.723 be9f Compacted 4@0 + 2@1 files => 4931931 bytes
+2020/02/21-06:48:25.726 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-06:48:25.726 be9f Delete type=2 #19558
+2020/02/21-06:48:25.726 be9f Delete type=2 #19556
+2020/02/21-06:48:25.726 be9f Delete type=2 #19560
+2020/02/21-06:48:25.726 be9f Delete type=2 #19552
+2020/02/21-06:48:25.726 be9f Delete type=2 #19554
+2020/02/21-06:48:25.726 be9f Delete type=2 #19551
+2020/02/21-06:48:25.848 be9f Level-0 table #19564: started
+2020/02/21-06:48:25.952 be9f Level-0 table #19564: 4931424 bytes OK
+2020/02/21-06:48:25.955 be9f Delete type=0 #19559
+2020/02/21-07:48:26.317 be9f Level-0 table #19566: started
+2020/02/21-07:48:26.394 be9f Level-0 table #19566: 4931694 bytes OK
+2020/02/21-07:48:26.398 be9f Delete type=0 #19563
+2020/02/21-07:48:26.720 be9f Level-0 table #19568: started
+2020/02/21-07:48:26.784 be9f Level-0 table #19568: 4931424 bytes OK
+2020/02/21-07:48:26.788 be9f Delete type=0 #19565
+2020/02/21-08:48:25.479 be9f Level-0 table #19570: started
+2020/02/21-08:48:25.555 be9f Level-0 table #19570: 4931694 bytes OK
+2020/02/21-08:48:25.559 be9f Delete type=0 #19567
+2020/02/21-08:48:25.560 be9f Compacting 4@0 + 2@1 files
+2020/02/21-08:48:25.712 be9f Generated table #19571@0: 1 keys, 4931424 bytes
+2020/02/21-08:48:25.718 be9f Generated table #19572@0: 4 keys, 505 bytes
+2020/02/21-08:48:25.718 be9f Compacted 4@0 + 2@1 files => 4931929 bytes
+2020/02/21-08:48:25.721 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-08:48:25.721 be9f Delete type=2 #19566
+2020/02/21-08:48:25.721 be9f Delete type=2 #19570
+2020/02/21-08:48:25.721 be9f Delete type=2 #19568
+2020/02/21-08:48:25.721 be9f Delete type=2 #19562
+2020/02/21-08:48:25.721 be9f Delete type=2 #19561
+2020/02/21-08:48:25.721 be9f Delete type=2 #19564
+2020/02/21-08:48:25.848 be9f Level-0 table #19574: started
+2020/02/21-08:48:25.916 be9f Level-0 table #19574: 4931423 bytes OK
+2020/02/21-08:48:25.920 be9f Delete type=0 #19569
+2020/02/21-09:08:36.323 be9f Level-0 table #19576: started
+2020/02/21-09:08:36.410 be9f Level-0 table #19576: 4931693 bytes OK
+2020/02/21-09:08:36.413 be9f Delete type=0 #19573
+2020/02/21-09:48:25.893 be9f Level-0 table #19578: started
+2020/02/21-09:48:25.971 be9f Level-0 table #19578: 4931674 bytes OK
+2020/02/21-09:48:25.975 be9f Delete type=0 #19575
+2020/02/21-10:03:17.578 be9f Level-0 table #19580: started
+2020/02/21-10:03:17.656 be9f Level-0 table #19580: 4934581 bytes OK
+2020/02/21-10:03:17.660 be9f Delete type=0 #19577
+2020/02/21-10:03:17.662 be9f Compacting 4@0 + 2@1 files
+2020/02/21-10:03:17.872 be9f Generated table #19581@0: 1 keys, 4934190 bytes
+2020/02/21-10:03:17.881 be9f Generated table #19582@0: 4 keys, 507 bytes
+2020/02/21-10:03:17.881 be9f Compacted 4@0 + 2@1 files => 4934697 bytes
+2020/02/21-10:03:17.886 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-10:03:17.886 be9f Delete type=2 #19571
+2020/02/21-10:03:17.886 be9f Delete type=2 #19580
+2020/02/21-10:03:17.886 be9f Delete type=2 #19578
+2020/02/21-10:03:17.886 be9f Delete type=2 #19572
+2020/02/21-10:03:17.886 be9f Delete type=2 #19576
+2020/02/21-10:03:17.886 be9f Delete type=2 #19574
+2020/02/21-10:48:25.879 be9f Level-0 table #19584: started
+2020/02/21-10:48:25.950 be9f Level-0 table #19584: 4934445 bytes OK
+2020/02/21-10:48:25.954 be9f Delete type=0 #19579
+2020/02/21-11:48:25.500 be9f Level-0 table #19586: started
+2020/02/21-11:48:25.572 be9f Level-0 table #19586: 4934464 bytes OK
+2020/02/21-11:48:25.575 be9f Delete type=0 #19583
+2020/02/21-11:48:25.872 be9f Level-0 table #19588: started
+2020/02/21-11:48:25.946 be9f Level-0 table #19588: 4934194 bytes OK
+2020/02/21-11:48:25.949 be9f Delete type=0 #19585
+2020/02/21-12:48:25.519 be9f Level-0 table #19590: started
+2020/02/21-12:48:25.596 be9f Level-0 table #19590: 4934464 bytes OK
+2020/02/21-12:48:25.600 be9f Delete type=0 #19587
+2020/02/21-12:48:25.602 be9f Compacting 4@0 + 2@1 files
+2020/02/21-12:48:25.713 be9f Generated table #19591@0: 1 keys, 4934194 bytes
+2020/02/21-12:48:25.718 be9f Generated table #19592@0: 4 keys, 507 bytes
+2020/02/21-12:48:25.718 be9f Compacted 4@0 + 2@1 files => 4934701 bytes
+2020/02/21-12:48:25.721 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-12:48:25.721 be9f Delete type=2 #19584
+2020/02/21-12:48:25.721 be9f Delete type=2 #19581
+2020/02/21-12:48:25.721 be9f Delete type=2 #19590
+2020/02/21-12:48:25.721 be9f Delete type=2 #19586
+2020/02/21-12:48:25.721 be9f Delete type=2 #19582
+2020/02/21-12:48:25.721 be9f Delete type=2 #19588
+2020/02/21-12:48:25.903 be9f Level-0 table #19594: started
+2020/02/21-12:48:25.979 be9f Level-0 table #19594: 4934196 bytes OK
+2020/02/21-12:48:25.982 be9f Delete type=0 #19589
+2020/02/21-13:48:25.480 be9f Level-0 table #19596: started
+2020/02/21-13:48:25.564 be9f Level-0 table #19596: 4934618 bytes OK
+2020/02/21-13:48:25.568 be9f Delete type=0 #19593
+2020/02/21-13:48:25.845 be9f Level-0 table #19598: started
+2020/02/21-13:48:25.932 be9f Level-0 table #19598: 4934226 bytes OK
+2020/02/21-13:48:25.935 be9f Delete type=0 #19595
+2020/02/21-13:48:27.666 be9f Level-0 table #19600: started
+2020/02/21-13:48:27.750 be9f Level-0 table #19600: 4934672 bytes OK
+2020/02/21-13:48:27.753 be9f Delete type=0 #19597
+2020/02/21-13:48:27.755 be9f Compacting 4@0 + 2@1 files
+2020/02/21-13:48:27.917 be9f Generated table #19601@0: 1 keys, 4934282 bytes
+2020/02/21-13:48:27.923 be9f Generated table #19602@0: 4 keys, 506 bytes
+2020/02/21-13:48:27.923 be9f Compacted 4@0 + 2@1 files => 4934788 bytes
+2020/02/21-13:48:27.926 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-13:48:27.926 be9f Delete type=2 #19598
+2020/02/21-13:48:27.926 be9f Delete type=2 #19591
+2020/02/21-13:48:27.926 be9f Delete type=2 #19592
+2020/02/21-13:48:27.926 be9f Delete type=2 #19594
+2020/02/21-13:48:27.926 be9f Delete type=2 #19596
+2020/02/21-13:48:27.926 be9f Delete type=2 #19600
+2020/02/21-14:48:25.921 be9f Level-0 table #19604: started
+2020/02/21-14:48:26.007 be9f Level-0 table #19604: 4934701 bytes OK
+2020/02/21-14:48:26.011 be9f Delete type=0 #19599
+2020/02/21-14:48:35.841 be9f Level-0 table #19606: started
+2020/02/21-14:48:35.925 be9f Level-0 table #19606: 4934552 bytes OK
+2020/02/21-14:48:35.929 be9f Delete type=0 #19603
+2020/02/21-14:48:37.508 be9f Level-0 table #19608: started
+2020/02/21-14:48:37.587 be9f Level-0 table #19608: 4934305 bytes OK
+2020/02/21-14:48:37.591 be9f Delete type=0 #19605
+2020/02/21-14:57:46.044 be9f Level-0 table #19610: started
+2020/02/21-14:57:46.134 be9f Level-0 table #19610: 4934305 bytes OK
+2020/02/21-14:57:46.138 be9f Delete type=0 #19607
+2020/02/21-14:57:46.140 be9f Compacting 4@0 + 2@1 files
+2020/02/21-14:57:46.280 be9f Generated table #19611@0: 1 keys, 4934305 bytes
+2020/02/21-14:57:46.285 be9f Generated table #19612@0: 4 keys, 502 bytes
+2020/02/21-14:57:46.285 be9f Compacted 4@0 + 2@1 files => 4934807 bytes
+2020/02/21-14:57:46.290 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-14:57:46.290 be9f Delete type=2 #19610
+2020/02/21-14:57:46.290 be9f Delete type=2 #19606
+2020/02/21-14:57:46.290 be9f Delete type=2 #19608
+2020/02/21-14:57:46.290 be9f Delete type=2 #19604
+2020/02/21-14:57:46.290 be9f Delete type=2 #19602
+2020/02/21-14:57:46.290 be9f Delete type=2 #19601
+2020/02/21-15:48:25.870 be9f Level-0 table #19614: started
+2020/02/21-15:48:25.959 be9f Level-0 table #19614: 4934533 bytes OK
+2020/02/21-15:48:25.962 be9f Delete type=0 #19609
+2020/02/21-15:54:34.746 be9f Level-0 table #19616: started
+2020/02/21-15:54:34.841 be9f Level-0 table #19616: 4934573 bytes OK
+2020/02/21-15:54:34.844 be9f Delete type=0 #19613
+2020/02/21-16:48:25.954 be9f Level-0 table #19618: started
+2020/02/21-16:48:26.033 be9f Level-0 table #19618: 4934369 bytes OK
+2020/02/21-16:48:26.036 be9f Delete type=0 #19615
+2020/02/21-17:48:25.535 be9f Level-0 table #19620: started
+2020/02/21-17:48:25.614 be9f Level-0 table #19620: 4934578 bytes OK
+2020/02/21-17:48:25.617 be9f Delete type=0 #19617
+2020/02/21-17:48:25.619 be9f Compacting 4@0 + 2@1 files
+2020/02/21-17:48:25.772 be9f Generated table #19621@0: 1 keys, 4934308 bytes
+2020/02/21-17:48:25.778 be9f Generated table #19622@0: 4 keys, 502 bytes
+2020/02/21-17:48:25.778 be9f Compacted 4@0 + 2@1 files => 4934810 bytes
+2020/02/21-17:48:25.781 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-17:48:25.781 be9f Delete type=2 #19620
+2020/02/21-17:48:25.781 be9f Delete type=2 #19618
+2020/02/21-17:48:25.781 be9f Delete type=2 #19614
+2020/02/21-17:48:25.781 be9f Delete type=2 #19611
+2020/02/21-17:48:25.781 be9f Delete type=2 #19616
+2020/02/21-17:48:25.781 be9f Delete type=2 #19612
+2020/02/21-17:48:25.905 be9f Level-0 table #19624: started
+2020/02/21-17:48:25.984 be9f Level-0 table #19624: 4934310 bytes OK
+2020/02/21-17:48:25.988 be9f Delete type=0 #19619
+2020/02/21-17:48:27.660 be9f Level-0 table #19626: started
+2020/02/21-17:48:27.742 be9f Level-0 table #19626: 4934580 bytes OK
+2020/02/21-17:48:27.746 be9f Delete type=0 #19623
+2020/02/21-18:48:25.554 be9f Level-0 table #19628: started
+2020/02/21-18:48:25.633 be9f Level-0 table #19628: 4934907 bytes OK
+2020/02/21-18:48:25.637 be9f Delete type=0 #19625
+2020/02/21-18:48:25.912 be9f Level-0 table #19630: started
+2020/02/21-18:48:25.991 be9f Level-0 table #19630: 4934696 bytes OK
+2020/02/21-18:48:25.995 be9f Delete type=0 #19627
+2020/02/21-18:48:25.997 be9f Compacting 4@0 + 2@1 files
+2020/02/21-18:48:26.151 be9f Generated table #19631@0: 1 keys, 4934696 bytes
+2020/02/21-18:48:26.157 be9f Generated table #19632@0: 4 keys, 505 bytes
+2020/02/21-18:48:26.157 be9f Compacted 4@0 + 2@1 files => 4935201 bytes
+2020/02/21-18:48:26.159 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-18:48:26.160 be9f Delete type=2 #19630
+2020/02/21-18:48:26.160 be9f Delete type=2 #19628
+2020/02/21-18:48:26.160 be9f Delete type=2 #19626
+2020/02/21-18:48:26.160 be9f Delete type=2 #19622
+2020/02/21-18:48:26.160 be9f Delete type=2 #19624
+2020/02/21-18:48:26.160 be9f Delete type=2 #19621
+2020/02/21-19:48:25.555 be9f Level-0 table #19634: started
+2020/02/21-19:48:25.639 be9f Level-0 table #19634: 4934966 bytes OK
+2020/02/21-19:48:25.643 be9f Delete type=0 #19629
+2020/02/21-19:48:25.945 be9f Level-0 table #19636: started
+2020/02/21-19:48:26.018 be9f Level-0 table #19636: 4934697 bytes OK
+2020/02/21-19:48:26.021 be9f Delete type=0 #19633
+2020/02/21-20:48:25.580 be9f Level-0 table #19638: started
+2020/02/21-20:48:25.696 be9f Level-0 table #19638: 4934967 bytes OK
+2020/02/21-20:48:25.700 be9f Delete type=0 #19635
+2020/02/21-20:48:25.955 be9f Level-0 table #19640: started
+2020/02/21-20:48:26.039 be9f Level-0 table #19640: 4934696 bytes OK
+2020/02/21-20:48:26.046 be9f Delete type=0 #19637
+2020/02/21-20:48:26.048 be9f Compacting 4@0 + 2@1 files
+2020/02/21-20:48:26.181 be9f Generated table #19641@0: 1 keys, 4934696 bytes
+2020/02/21-20:48:26.186 be9f Generated table #19642@0: 4 keys, 505 bytes
+2020/02/21-20:48:26.186 be9f Compacted 4@0 + 2@1 files => 4935201 bytes
+2020/02/21-20:48:26.188 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-20:48:26.189 be9f Delete type=2 #19638
+2020/02/21-20:48:26.189 be9f Delete type=2 #19634
+2020/02/21-20:48:26.189 be9f Delete type=2 #19631
+2020/02/21-20:48:26.189 be9f Delete type=2 #19640
+2020/02/21-20:48:26.189 be9f Delete type=2 #19632
+2020/02/21-20:48:26.189 be9f Delete type=2 #19636
+2020/02/21-21:48:25.584 be9f Level-0 table #19644: started
+2020/02/21-21:48:25.666 be9f Level-0 table #19644: 4934966 bytes OK
+2020/02/21-21:48:25.670 be9f Delete type=0 #19639
+2020/02/21-21:48:25.943 be9f Level-0 table #19646: started
+2020/02/21-21:48:26.032 be9f Level-0 table #19646: 4934696 bytes OK
+2020/02/21-21:48:26.036 be9f Delete type=0 #19643
+2020/02/21-22:48:25.531 be9f Level-0 table #19648: started
+2020/02/21-22:48:25.613 be9f Level-0 table #19648: 4934967 bytes OK
+2020/02/21-22:48:25.616 be9f Delete type=0 #19645
+2020/02/21-22:48:25.904 be9f Level-0 table #19650: started
+2020/02/21-22:48:25.985 be9f Level-0 table #19650: 4934696 bytes OK
+2020/02/21-22:48:25.989 be9f Delete type=0 #19647
+2020/02/21-22:48:25.991 be9f Compacting 4@0 + 2@1 files
+2020/02/21-22:48:26.135 be9f Generated table #19651@0: 1 keys, 4934696 bytes
+2020/02/21-22:48:26.141 be9f Generated table #19652@0: 4 keys, 506 bytes
+2020/02/21-22:48:26.141 be9f Compacted 4@0 + 2@1 files => 4935202 bytes
+2020/02/21-22:48:26.144 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/21-22:48:26.144 be9f Delete type=2 #19642
+2020/02/21-22:48:26.144 be9f Delete type=2 #19648
+2020/02/21-22:48:26.144 be9f Delete type=2 #19650
+2020/02/21-22:48:26.144 be9f Delete type=2 #19641
+2020/02/21-22:48:26.144 be9f Delete type=2 #19646
+2020/02/21-22:48:26.144 be9f Delete type=2 #19644
+2020/02/21-23:48:25.599 be9f Level-0 table #19654: started
+2020/02/21-23:48:25.684 be9f Level-0 table #19654: 4934966 bytes OK
+2020/02/21-23:48:25.688 be9f Delete type=0 #19649
+2020/02/21-23:48:25.973 be9f Level-0 table #19656: started
+2020/02/21-23:48:26.059 be9f Level-0 table #19656: 4934695 bytes OK
+2020/02/21-23:48:26.063 be9f Delete type=0 #19653
+2020/02/22-00:48:25.593 be9f Level-0 table #19658: started
+2020/02/22-00:48:25.680 be9f Level-0 table #19658: 4935084 bytes OK
+2020/02/22-00:48:25.685 be9f Delete type=0 #19655
+2020/02/22-00:48:25.963 be9f Level-0 table #19660: started
+2020/02/22-00:48:26.043 be9f Level-0 table #19660: 4934691 bytes OK
+2020/02/22-00:48:26.047 be9f Delete type=0 #19657
+2020/02/22-00:48:26.049 be9f Compacting 4@0 + 2@1 files
+2020/02/22-00:48:26.237 be9f Generated table #19661@0: 1 keys, 4934691 bytes
+2020/02/22-00:48:26.244 be9f Generated table #19662@0: 4 keys, 506 bytes
+2020/02/22-00:48:26.244 be9f Compacted 4@0 + 2@1 files => 4935197 bytes
+2020/02/22-00:48:26.248 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-00:48:26.248 be9f Delete type=2 #19656
+2020/02/22-00:48:26.248 be9f Delete type=2 #19658
+2020/02/22-00:48:26.248 be9f Delete type=2 #19654
+2020/02/22-00:48:26.248 be9f Delete type=2 #19651
+2020/02/22-00:48:26.248 be9f Delete type=2 #19652
+2020/02/22-00:48:26.248 be9f Delete type=2 #19660
+2020/02/22-01:48:25.554 be9f Level-0 table #19664: started
+2020/02/22-01:48:25.637 be9f Level-0 table #19664: 4934961 bytes OK
+2020/02/22-01:48:25.641 be9f Delete type=0 #19659
+2020/02/22-01:48:25.929 be9f Level-0 table #19666: started
+2020/02/22-01:48:26.012 be9f Level-0 table #19666: 4934693 bytes OK
+2020/02/22-01:48:26.015 be9f Delete type=0 #19663
+2020/02/22-02:48:25.597 be9f Level-0 table #19668: started
+2020/02/22-02:48:25.680 be9f Level-0 table #19668: 4934963 bytes OK
+2020/02/22-02:48:25.684 be9f Delete type=0 #19665
+2020/02/22-02:48:25.957 be9f Level-0 table #19670: started
+2020/02/22-02:48:26.039 be9f Level-0 table #19670: 4934691 bytes OK
+2020/02/22-02:48:26.043 be9f Delete type=0 #19667
+2020/02/22-02:48:26.046 be9f Compacting 4@0 + 2@1 files
+2020/02/22-02:48:26.201 be9f Generated table #19671@0: 1 keys, 4934691 bytes
+2020/02/22-02:48:26.206 be9f Generated table #19672@0: 4 keys, 506 bytes
+2020/02/22-02:48:26.206 be9f Compacted 4@0 + 2@1 files => 4935197 bytes
+2020/02/22-02:48:26.209 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-02:48:26.209 be9f Delete type=2 #19668
+2020/02/22-02:48:26.209 be9f Delete type=2 #19661
+2020/02/22-02:48:26.209 be9f Delete type=2 #19662
+2020/02/22-02:48:26.209 be9f Delete type=2 #19666
+2020/02/22-02:48:26.209 be9f Delete type=2 #19664
+2020/02/22-02:48:26.209 be9f Delete type=2 #19670
+2020/02/22-03:48:25.599 be9f Level-0 table #19674: started
+2020/02/22-03:48:25.692 be9f Level-0 table #19674: 4934961 bytes OK
+2020/02/22-03:48:25.696 be9f Delete type=0 #19669
+2020/02/22-03:48:25.959 be9f Level-0 table #19676: started
+2020/02/22-03:48:26.038 be9f Level-0 table #19676: 4934694 bytes OK
+2020/02/22-03:48:26.042 be9f Delete type=0 #19673
+2020/02/22-04:48:25.580 be9f Level-0 table #19678: started
+2020/02/22-04:48:25.666 be9f Level-0 table #19678: 4934964 bytes OK
+2020/02/22-04:48:25.670 be9f Delete type=0 #19675
+2020/02/22-04:48:25.946 be9f Level-0 table #19680: started
+2020/02/22-04:48:26.029 be9f Level-0 table #19680: 4934690 bytes OK
+2020/02/22-04:48:26.033 be9f Delete type=0 #19677
+2020/02/22-04:48:26.035 be9f Compacting 4@0 + 2@1 files
+2020/02/22-04:48:26.198 be9f Generated table #19681@0: 1 keys, 4934690 bytes
+2020/02/22-04:48:26.211 be9f Generated table #19682@0: 4 keys, 506 bytes
+2020/02/22-04:48:26.211 be9f Compacted 4@0 + 2@1 files => 4935196 bytes
+2020/02/22-04:48:26.214 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-04:48:26.214 be9f Delete type=2 #19680
+2020/02/22-04:48:26.214 be9f Delete type=2 #19674
+2020/02/22-04:48:26.214 be9f Delete type=2 #19672
+2020/02/22-04:48:26.214 be9f Delete type=2 #19676
+2020/02/22-04:48:26.214 be9f Delete type=2 #19671
+2020/02/22-04:48:26.214 be9f Delete type=2 #19678
+2020/02/22-05:48:25.661 be9f Level-0 table #19684: started
+2020/02/22-05:48:25.742 be9f Level-0 table #19684: 4934960 bytes OK
+2020/02/22-05:48:25.746 be9f Delete type=0 #19679
+2020/02/22-05:48:26.037 be9f Level-0 table #19686: started
+2020/02/22-05:48:26.120 be9f Level-0 table #19686: 4934690 bytes OK
+2020/02/22-05:48:26.124 be9f Delete type=0 #19683
+2020/02/22-06:48:25.609 be9f Level-0 table #19688: started
+2020/02/22-06:48:25.693 be9f Level-0 table #19688: 4934960 bytes OK
+2020/02/22-06:48:25.697 be9f Delete type=0 #19685
+2020/02/22-06:48:25.993 be9f Level-0 table #19690: started
+2020/02/22-06:48:26.075 be9f Level-0 table #19690: 4934691 bytes OK
+2020/02/22-06:48:26.081 be9f Delete type=0 #19687
+2020/02/22-06:48:26.083 be9f Compacting 4@0 + 2@1 files
+2020/02/22-06:48:26.241 be9f Generated table #19691@0: 1 keys, 4934691 bytes
+2020/02/22-06:48:26.247 be9f Generated table #19692@0: 4 keys, 506 bytes
+2020/02/22-06:48:26.247 be9f Compacted 4@0 + 2@1 files => 4935197 bytes
+2020/02/22-06:48:26.250 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-06:48:26.250 be9f Delete type=2 #19690
+2020/02/22-06:48:26.250 be9f Delete type=2 #19686
+2020/02/22-06:48:26.250 be9f Delete type=2 #19681
+2020/02/22-06:48:26.250 be9f Delete type=2 #19684
+2020/02/22-06:48:26.250 be9f Delete type=2 #19682
+2020/02/22-06:48:26.251 be9f Delete type=2 #19688
+2020/02/22-07:48:25.624 be9f Level-0 table #19694: started
+2020/02/22-07:48:25.706 be9f Level-0 table #19694: 4934961 bytes OK
+2020/02/22-07:48:25.710 be9f Delete type=0 #19689
+2020/02/22-07:48:25.986 be9f Level-0 table #19696: started
+2020/02/22-07:48:26.060 be9f Level-0 table #19696: 4934692 bytes OK
+2020/02/22-07:48:26.063 be9f Delete type=0 #19693
+2020/02/22-08:48:25.649 be9f Level-0 table #19698: started
+2020/02/22-08:48:25.734 be9f Level-0 table #19698: 4934962 bytes OK
+2020/02/22-08:48:25.737 be9f Delete type=0 #19695
+2020/02/22-08:48:26.020 be9f Level-0 table #19700: started
+2020/02/22-08:48:26.104 be9f Level-0 table #19700: 4934695 bytes OK
+2020/02/22-08:48:26.108 be9f Delete type=0 #19697
+2020/02/22-08:48:26.110 be9f Compacting 4@0 + 2@1 files
+2020/02/22-08:48:26.247 be9f Generated table #19701@0: 1 keys, 4934695 bytes
+2020/02/22-08:48:26.252 be9f Generated table #19702@0: 4 keys, 506 bytes
+2020/02/22-08:48:26.252 be9f Compacted 4@0 + 2@1 files => 4935201 bytes
+2020/02/22-08:48:26.255 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-08:48:26.255 be9f Delete type=2 #19700
+2020/02/22-08:48:26.255 be9f Delete type=2 #19691
+2020/02/22-08:48:26.255 be9f Delete type=2 #19694
+2020/02/22-08:48:26.255 be9f Delete type=2 #19698
+2020/02/22-08:48:26.255 be9f Delete type=2 #19692
+2020/02/22-08:48:26.255 be9f Delete type=2 #19696
+2020/02/22-09:48:25.647 be9f Level-0 table #19704: started
+2020/02/22-09:48:25.728 be9f Level-0 table #19704: 4934965 bytes OK
+2020/02/22-09:48:25.732 be9f Delete type=0 #19699
+2020/02/22-09:48:26.021 be9f Level-0 table #19706: started
+2020/02/22-09:48:26.108 be9f Level-0 table #19706: 4934689 bytes OK
+2020/02/22-09:48:26.116 be9f Delete type=0 #19703
+2020/02/22-10:48:25.623 be9f Level-0 table #19708: started
+2020/02/22-10:48:25.709 be9f Level-0 table #19708: 4934959 bytes OK
+2020/02/22-10:48:25.713 be9f Delete type=0 #19705
+2020/02/22-10:48:25.994 be9f Level-0 table #19710: started
+2020/02/22-10:48:26.072 be9f Level-0 table #19710: 4934693 bytes OK
+2020/02/22-10:48:26.076 be9f Delete type=0 #19707
+2020/02/22-10:48:26.077 be9f Compacting 4@0 + 2@1 files
+2020/02/22-10:48:26.232 be9f Generated table #19711@0: 1 keys, 4934693 bytes
+2020/02/22-10:48:26.237 be9f Generated table #19712@0: 4 keys, 506 bytes
+2020/02/22-10:48:26.237 be9f Compacted 4@0 + 2@1 files => 4935199 bytes
+2020/02/22-10:48:26.240 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-10:48:26.240 be9f Delete type=2 #19706
+2020/02/22-10:48:26.240 be9f Delete type=2 #19702
+2020/02/22-10:48:26.240 be9f Delete type=2 #19701
+2020/02/22-10:48:26.240 be9f Delete type=2 #19708
+2020/02/22-10:48:26.240 be9f Delete type=2 #19710
+2020/02/22-10:48:26.240 be9f Delete type=2 #19704
+2020/02/22-11:48:25.597 be9f Level-0 table #19714: started
+2020/02/22-11:48:25.680 be9f Level-0 table #19714: 4943931 bytes OK
+2020/02/22-11:48:25.684 be9f Delete type=0 #19709
+2020/02/22-11:48:25.970 be9f Level-0 table #19716: started
+2020/02/22-11:48:26.062 be9f Level-0 table #19716: 4943541 bytes OK
+2020/02/22-11:48:26.066 be9f Delete type=0 #19713
+2020/02/22-12:48:25.759 be9f Level-0 table #19718: started
+2020/02/22-12:48:25.844 be9f Level-0 table #19718: 4943810 bytes OK
+2020/02/22-12:48:25.848 be9f Delete type=0 #19715
+2020/02/22-12:48:26.133 be9f Level-0 table #19720: started
+2020/02/22-12:48:26.215 be9f Level-0 table #19720: 4943542 bytes OK
+2020/02/22-12:48:26.219 be9f Delete type=0 #19717
+2020/02/22-12:48:26.221 be9f Compacting 4@0 + 2@1 files
+2020/02/22-12:48:26.359 be9f Generated table #19721@0: 1 keys, 4943542 bytes
+2020/02/22-12:48:26.364 be9f Generated table #19722@0: 4 keys, 506 bytes
+2020/02/22-12:48:26.364 be9f Compacted 4@0 + 2@1 files => 4944048 bytes
+2020/02/22-12:48:26.367 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-12:48:26.367 be9f Delete type=2 #19720
+2020/02/22-12:48:26.367 be9f Delete type=2 #19712
+2020/02/22-12:48:26.367 be9f Delete type=2 #19716
+2020/02/22-12:48:26.367 be9f Delete type=2 #19711
+2020/02/22-12:48:26.367 be9f Delete type=2 #19714
+2020/02/22-12:48:26.367 be9f Delete type=2 #19718
+2020/02/22-13:48:25.688 be9f Level-0 table #19724: started
+2020/02/22-13:48:25.772 be9f Level-0 table #19724: 4943978 bytes OK
+2020/02/22-13:48:25.776 be9f Delete type=0 #19719
+2020/02/22-13:48:26.062 be9f Level-0 table #19726: started
+2020/02/22-13:48:26.140 be9f Level-0 table #19726: 4943545 bytes OK
+2020/02/22-13:48:26.144 be9f Delete type=0 #19723
+2020/02/22-14:48:25.714 be9f Level-0 table #19728: started
+2020/02/22-14:48:25.792 be9f Level-0 table #19728: 4943815 bytes OK
+2020/02/22-14:48:25.795 be9f Delete type=0 #19725
+2020/02/22-14:48:26.089 be9f Level-0 table #19730: started
+2020/02/22-14:48:26.168 be9f Level-0 table #19730: 4943540 bytes OK
+2020/02/22-14:48:26.172 be9f Delete type=0 #19727
+2020/02/22-14:48:26.173 be9f Compacting 4@0 + 2@1 files
+2020/02/22-14:48:26.307 be9f Generated table #19731@0: 1 keys, 4943540 bytes
+2020/02/22-14:48:26.311 be9f Generated table #19732@0: 4 keys, 502 bytes
+2020/02/22-14:48:26.311 be9f Compacted 4@0 + 2@1 files => 4944042 bytes
+2020/02/22-14:48:26.314 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-14:48:26.314 be9f Delete type=2 #19726
+2020/02/22-14:48:26.314 be9f Delete type=2 #19728
+2020/02/22-14:48:26.314 be9f Delete type=2 #19730
+2020/02/22-14:48:26.314 be9f Delete type=2 #19724
+2020/02/22-14:48:26.314 be9f Delete type=2 #19722
+2020/02/22-14:48:26.314 be9f Delete type=2 #19721
+2020/02/22-15:48:25.671 be9f Level-0 table #19734: started
+2020/02/22-15:48:25.756 be9f Level-0 table #19734: 4943810 bytes OK
+2020/02/22-15:48:25.759 be9f Delete type=0 #19729
+2020/02/22-15:48:26.037 be9f Level-0 table #19736: started
+2020/02/22-15:48:26.115 be9f Level-0 table #19736: 4943543 bytes OK
+2020/02/22-15:48:26.119 be9f Delete type=0 #19733
+2020/02/22-16:48:25.687 be9f Level-0 table #19738: started
+2020/02/22-16:48:25.771 be9f Level-0 table #19738: 4943822 bytes OK
+2020/02/22-16:48:25.775 be9f Delete type=0 #19735
+2020/02/22-16:48:26.057 be9f Level-0 table #19740: started
+2020/02/22-16:48:26.141 be9f Level-0 table #19740: 4943436 bytes OK
+2020/02/22-16:48:26.145 be9f Delete type=0 #19737
+2020/02/22-16:48:26.146 be9f Compacting 4@0 + 2@1 files
+2020/02/22-16:48:26.297 be9f Generated table #19741@0: 1 keys, 4943436 bytes
+2020/02/22-16:48:26.302 be9f Generated table #19742@0: 4 keys, 505 bytes
+2020/02/22-16:48:26.302 be9f Compacted 4@0 + 2@1 files => 4943941 bytes
+2020/02/22-16:48:26.305 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-16:48:26.305 be9f Delete type=2 #19734
+2020/02/22-16:48:26.305 be9f Delete type=2 #19731
+2020/02/22-16:48:26.305 be9f Delete type=2 #19732
+2020/02/22-16:48:26.305 be9f Delete type=2 #19736
+2020/02/22-16:48:26.305 be9f Delete type=2 #19740
+2020/02/22-16:48:26.305 be9f Delete type=2 #19738
+2020/02/22-17:48:25.704 be9f Level-0 table #19744: started
+2020/02/22-17:48:25.782 be9f Level-0 table #19744: 4945026 bytes OK
+2020/02/22-17:48:25.786 be9f Delete type=0 #19739
+2020/02/22-17:48:26.087 be9f Level-0 table #19746: started
+2020/02/22-17:48:26.158 be9f Level-0 table #19746: 4944629 bytes OK
+2020/02/22-17:48:26.162 be9f Delete type=0 #19743
+2020/02/22-18:48:25.721 be9f Level-0 table #19748: started
+2020/02/22-18:48:25.799 be9f Level-0 table #19748: 4945015 bytes OK
+2020/02/22-18:48:25.803 be9f Delete type=0 #19745
+2020/02/22-18:48:26.094 be9f Level-0 table #19750: started
+2020/02/22-18:48:26.170 be9f Level-0 table #19750: 4944630 bytes OK
+2020/02/22-18:48:26.173 be9f Delete type=0 #19747
+2020/02/22-18:48:26.175 be9f Compacting 4@0 + 2@1 files
+2020/02/22-18:48:26.301 be9f Generated table #19751@0: 1 keys, 4944630 bytes
+2020/02/22-18:48:26.306 be9f Generated table #19752@0: 4 keys, 504 bytes
+2020/02/22-18:48:26.306 be9f Compacted 4@0 + 2@1 files => 4945134 bytes
+2020/02/22-18:48:26.309 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-18:48:26.309 be9f Delete type=2 #19742
+2020/02/22-18:48:26.309 be9f Delete type=2 #19744
+2020/02/22-18:48:26.309 be9f Delete type=2 #19748
+2020/02/22-18:48:26.309 be9f Delete type=2 #19750
+2020/02/22-18:48:26.309 be9f Delete type=2 #19746
+2020/02/22-18:48:26.309 be9f Delete type=2 #19741
+2020/02/22-19:48:25.710 be9f Level-0 table #19754: started
+2020/02/22-19:48:25.785 be9f Level-0 table #19754: 4944899 bytes OK
+2020/02/22-19:48:25.788 be9f Delete type=0 #19749
+2020/02/22-19:48:26.073 be9f Level-0 table #19756: started
+2020/02/22-19:48:26.144 be9f Level-0 table #19756: 4944628 bytes OK
+2020/02/22-19:48:26.147 be9f Delete type=0 #19753
+2020/02/22-20:48:25.739 be9f Level-0 table #19758: started
+2020/02/22-20:48:25.811 be9f Level-0 table #19758: 4945019 bytes OK
+2020/02/22-20:48:25.814 be9f Delete type=0 #19755
+2020/02/22-20:48:26.108 be9f Level-0 table #19760: started
+2020/02/22-20:48:26.182 be9f Level-0 table #19760: 4944631 bytes OK
+2020/02/22-20:48:26.186 be9f Delete type=0 #19757
+2020/02/22-20:48:26.188 be9f Compacting 4@0 + 2@1 files
+2020/02/22-20:48:26.356 be9f Generated table #19761@0: 1 keys, 4944631 bytes
+2020/02/22-20:48:26.362 be9f Generated table #19762@0: 4 keys, 505 bytes
+2020/02/22-20:48:26.362 be9f Compacted 4@0 + 2@1 files => 4945136 bytes
+2020/02/22-20:48:26.365 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-20:48:26.365 be9f Delete type=2 #19756
+2020/02/22-20:48:26.365 be9f Delete type=2 #19758
+2020/02/22-20:48:26.365 be9f Delete type=2 #19754
+2020/02/22-20:48:26.365 be9f Delete type=2 #19760
+2020/02/22-20:48:26.365 be9f Delete type=2 #19752
+2020/02/22-20:48:26.365 be9f Delete type=2 #19751
+2020/02/22-21:48:25.719 be9f Level-0 table #19764: started
+2020/02/22-21:48:25.799 be9f Level-0 table #19764: 4944901 bytes OK
+2020/02/22-21:48:25.805 be9f Delete type=0 #19759
+2020/02/22-21:48:26.081 be9f Level-0 table #19766: started
+2020/02/22-21:48:26.147 be9f Level-0 table #19766: 4944633 bytes OK
+2020/02/22-21:48:26.151 be9f Delete type=0 #19763
+2020/02/22-22:48:25.744 be9f Level-0 table #19768: started
+2020/02/22-22:48:25.822 be9f Level-0 table #19768: 4945015 bytes OK
+2020/02/22-22:48:25.825 be9f Delete type=0 #19765
+2020/02/22-22:48:26.121 be9f Level-0 table #19770: started
+2020/02/22-22:48:26.196 be9f Level-0 table #19770: 4944626 bytes OK
+2020/02/22-22:48:26.200 be9f Delete type=0 #19767
+2020/02/22-22:48:26.202 be9f Compacting 4@0 + 2@1 files
+2020/02/22-22:48:26.327 be9f Generated table #19771@0: 1 keys, 4944626 bytes
+2020/02/22-22:48:26.332 be9f Generated table #19772@0: 4 keys, 506 bytes
+2020/02/22-22:48:26.332 be9f Compacted 4@0 + 2@1 files => 4945132 bytes
+2020/02/22-22:48:26.335 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/22-22:48:26.335 be9f Delete type=2 #19761
+2020/02/22-22:48:26.335 be9f Delete type=2 #19762
+2020/02/22-22:48:26.335 be9f Delete type=2 #19768
+2020/02/22-22:48:26.335 be9f Delete type=2 #19770
+2020/02/22-22:48:26.335 be9f Delete type=2 #19766
+2020/02/22-22:48:26.335 be9f Delete type=2 #19764
+2020/02/22-23:48:25.758 be9f Level-0 table #19774: started
+2020/02/22-23:48:25.830 be9f Level-0 table #19774: 4945015 bytes OK
+2020/02/22-23:48:25.833 be9f Delete type=0 #19769
+2020/02/22-23:48:26.133 be9f Level-0 table #19776: started
+2020/02/22-23:48:26.209 be9f Level-0 table #19776: 4944629 bytes OK
+2020/02/22-23:48:26.213 be9f Delete type=0 #19773
+2020/02/23-00:48:25.751 be9f Level-0 table #19778: started
+2020/02/23-00:48:25.821 be9f Level-0 table #19778: 4944899 bytes OK
+2020/02/23-00:48:25.826 be9f Delete type=0 #19775
+2020/02/23-00:48:26.128 be9f Level-0 table #19780: started
+2020/02/23-00:48:26.207 be9f Level-0 table #19780: 4944624 bytes OK
+2020/02/23-00:48:26.211 be9f Delete type=0 #19777
+2020/02/23-00:48:26.213 be9f Compacting 4@0 + 2@1 files
+2020/02/23-00:48:26.358 be9f Generated table #19781@0: 1 keys, 4944624 bytes
+2020/02/23-00:48:26.364 be9f Generated table #19782@0: 4 keys, 506 bytes
+2020/02/23-00:48:26.364 be9f Compacted 4@0 + 2@1 files => 4945130 bytes
+2020/02/23-00:48:26.367 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-00:48:26.367 be9f Delete type=2 #19780
+2020/02/23-00:48:26.367 be9f Delete type=2 #19771
+2020/02/23-00:48:26.367 be9f Delete type=2 #19772
+2020/02/23-00:48:26.367 be9f Delete type=2 #19774
+2020/02/23-00:48:26.367 be9f Delete type=2 #19778
+2020/02/23-00:48:26.367 be9f Delete type=2 #19776
+2020/02/23-01:48:25.758 be9f Level-0 table #19784: started
+2020/02/23-01:48:25.835 be9f Level-0 table #19784: 4945013 bytes OK
+2020/02/23-01:48:25.839 be9f Delete type=0 #19779
+2020/02/23-01:48:26.125 be9f Level-0 table #19786: started
+2020/02/23-01:48:26.199 be9f Level-0 table #19786: 4944628 bytes OK
+2020/02/23-01:48:26.202 be9f Delete type=0 #19783
+2020/02/23-02:48:25.767 be9f Level-0 table #19788: started
+2020/02/23-02:48:25.842 be9f Level-0 table #19788: 4944898 bytes OK
+2020/02/23-02:48:25.846 be9f Delete type=0 #19785
+2020/02/23-02:48:26.134 be9f Level-0 table #19790: started
+2020/02/23-02:48:26.199 be9f Level-0 table #19790: 4944625 bytes OK
+2020/02/23-02:48:26.202 be9f Delete type=0 #19787
+2020/02/23-02:48:26.204 be9f Compacting 4@0 + 2@1 files
+2020/02/23-02:48:26.331 be9f Generated table #19791@0: 1 keys, 4944625 bytes
+2020/02/23-02:48:26.335 be9f Generated table #19792@0: 4 keys, 506 bytes
+2020/02/23-02:48:26.335 be9f Compacted 4@0 + 2@1 files => 4945131 bytes
+2020/02/23-02:48:26.338 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-02:48:26.338 be9f Delete type=2 #19781
+2020/02/23-02:48:26.338 be9f Delete type=2 #19790
+2020/02/23-02:48:26.338 be9f Delete type=2 #19782
+2020/02/23-02:48:26.338 be9f Delete type=2 #19786
+2020/02/23-02:48:26.338 be9f Delete type=2 #19784
+2020/02/23-02:48:26.338 be9f Delete type=2 #19788
+2020/02/23-03:48:25.778 be9f Level-0 table #19794: started
+2020/02/23-03:48:25.849 be9f Level-0 table #19794: 4945019 bytes OK
+2020/02/23-03:48:25.853 be9f Delete type=0 #19789
+2020/02/23-03:48:26.183 be9f Level-0 table #19796: started
+2020/02/23-03:48:26.259 be9f Level-0 table #19796: 4944630 bytes OK
+2020/02/23-03:48:26.262 be9f Delete type=0 #19793
+2020/02/23-04:48:25.766 be9f Level-0 table #19798: started
+2020/02/23-04:48:25.840 be9f Level-0 table #19798: 4944900 bytes OK
+2020/02/23-04:48:25.843 be9f Delete type=0 #19795
+2020/02/23-04:48:26.154 be9f Level-0 table #19800: started
+2020/02/23-04:48:26.221 be9f Level-0 table #19800: 4944632 bytes OK
+2020/02/23-04:48:26.224 be9f Delete type=0 #19797
+2020/02/23-04:48:26.226 be9f Compacting 4@0 + 2@1 files
+2020/02/23-04:48:26.380 be9f Generated table #19801@0: 1 keys, 4944632 bytes
+2020/02/23-04:48:26.386 be9f Generated table #19802@0: 4 keys, 507 bytes
+2020/02/23-04:48:26.386 be9f Compacted 4@0 + 2@1 files => 4945139 bytes
+2020/02/23-04:48:26.389 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-04:48:26.389 be9f Delete type=2 #19796
+2020/02/23-04:48:26.389 be9f Delete type=2 #19798
+2020/02/23-04:48:26.389 be9f Delete type=2 #19792
+2020/02/23-04:48:26.389 be9f Delete type=2 #19800
+2020/02/23-04:48:26.389 be9f Delete type=2 #19794
+2020/02/23-04:48:26.389 be9f Delete type=2 #19791
+2020/02/23-05:48:25.784 be9f Level-0 table #19804: started
+2020/02/23-05:48:25.855 be9f Level-0 table #19804: 4945015 bytes OK
+2020/02/23-05:48:25.858 be9f Delete type=0 #19799
+2020/02/23-05:48:26.155 be9f Level-0 table #19806: started
+2020/02/23-05:48:26.224 be9f Level-0 table #19806: 4944629 bytes OK
+2020/02/23-05:48:26.228 be9f Delete type=0 #19803
+2020/02/23-06:48:25.789 be9f Level-0 table #19808: started
+2020/02/23-06:48:25.861 be9f Level-0 table #19808: 4945014 bytes OK
+2020/02/23-06:48:25.865 be9f Delete type=0 #19805
+2020/02/23-06:48:26.155 be9f Level-0 table #19810: started
+2020/02/23-06:48:26.223 be9f Level-0 table #19810: 4944624 bytes OK
+2020/02/23-06:48:26.227 be9f Delete type=0 #19807
+2020/02/23-06:48:26.229 be9f Compacting 4@0 + 2@1 files
+2020/02/23-06:48:26.386 be9f Generated table #19811@0: 1 keys, 4944624 bytes
+2020/02/23-06:48:26.392 be9f Generated table #19812@0: 4 keys, 506 bytes
+2020/02/23-06:48:26.392 be9f Compacted 4@0 + 2@1 files => 4945130 bytes
+2020/02/23-06:48:26.395 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-06:48:26.395 be9f Delete type=2 #19808
+2020/02/23-06:48:26.395 be9f Delete type=2 #19801
+2020/02/23-06:48:26.395 be9f Delete type=2 #19804
+2020/02/23-06:48:26.395 be9f Delete type=2 #19806
+2020/02/23-06:48:26.395 be9f Delete type=2 #19810
+2020/02/23-06:48:26.395 be9f Delete type=2 #19802
+2020/02/23-07:48:25.805 be9f Level-0 table #19814: started
+2020/02/23-07:48:25.870 be9f Level-0 table #19814: 4945015 bytes OK
+2020/02/23-07:48:25.874 be9f Delete type=0 #19809
+2020/02/23-07:48:26.178 be9f Level-0 table #19816: started
+2020/02/23-07:48:26.252 be9f Level-0 table #19816: 4944629 bytes OK
+2020/02/23-07:48:26.255 be9f Delete type=0 #19813
+2020/02/23-08:48:25.870 be9f Level-0 table #19818: started
+2020/02/23-08:48:25.947 be9f Level-0 table #19818: 4945016 bytes OK
+2020/02/23-08:48:25.951 be9f Delete type=0 #19815
+2020/02/23-08:48:26.258 be9f Level-0 table #19820: started
+2020/02/23-08:48:26.323 be9f Level-0 table #19820: 4944630 bytes OK
+2020/02/23-08:48:26.327 be9f Delete type=0 #19817
+2020/02/23-08:48:26.328 be9f Compacting 4@0 + 2@1 files
+2020/02/23-08:48:26.449 be9f Generated table #19821@0: 1 keys, 4944630 bytes
+2020/02/23-08:48:26.454 be9f Generated table #19822@0: 4 keys, 507 bytes
+2020/02/23-08:48:26.454 be9f Compacted 4@0 + 2@1 files => 4945137 bytes
+2020/02/23-08:48:26.457 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-08:48:26.457 be9f Delete type=2 #19814
+2020/02/23-08:48:26.457 be9f Delete type=2 #19811
+2020/02/23-08:48:26.457 be9f Delete type=2 #19816
+2020/02/23-08:48:26.458 be9f Delete type=2 #19820
+2020/02/23-08:48:26.458 be9f Delete type=2 #19818
+2020/02/23-08:48:26.458 be9f Delete type=2 #19812
+2020/02/23-09:48:25.803 be9f Level-0 table #19824: started
+2020/02/23-09:48:25.886 be9f Level-0 table #19824: 4945026 bytes OK
+2020/02/23-09:48:25.889 be9f Delete type=0 #19819
+2020/02/23-09:48:26.170 be9f Level-0 table #19826: started
+2020/02/23-09:48:26.241 be9f Level-0 table #19826: 4944634 bytes OK
+2020/02/23-09:48:26.244 be9f Delete type=0 #19823
+2020/02/23-10:48:25.776 be9f Level-0 table #19828: started
+2020/02/23-10:48:25.846 be9f Level-0 table #19828: 4944904 bytes OK
+2020/02/23-10:48:25.849 be9f Delete type=0 #19825
+2020/02/23-10:48:26.171 be9f Level-0 table #19830: started
+2020/02/23-10:48:26.242 be9f Level-0 table #19830: 4944632 bytes OK
+2020/02/23-10:48:26.246 be9f Delete type=0 #19827
+2020/02/23-10:48:26.248 be9f Compacting 4@0 + 2@1 files
+2020/02/23-10:48:26.372 be9f Generated table #19831@0: 1 keys, 4944632 bytes
+2020/02/23-10:48:26.378 be9f Generated table #19832@0: 4 keys, 507 bytes
+2020/02/23-10:48:26.378 be9f Compacted 4@0 + 2@1 files => 4945139 bytes
+2020/02/23-10:48:26.381 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-10:48:26.381 be9f Delete type=2 #19824
+2020/02/23-10:48:26.381 be9f Delete type=2 #19826
+2020/02/23-10:48:26.381 be9f Delete type=2 #19828
+2020/02/23-10:48:26.381 be9f Delete type=2 #19822
+2020/02/23-10:48:26.381 be9f Delete type=2 #19830
+2020/02/23-10:48:26.381 be9f Delete type=2 #19821
+2020/02/23-11:48:25.816 be9f Level-0 table #19834: started
+2020/02/23-11:48:25.889 be9f Level-0 table #19834: 4945008 bytes OK
+2020/02/23-11:48:25.893 be9f Delete type=0 #19829
+2020/02/23-11:48:26.214 be9f Level-0 table #19836: started
+2020/02/23-11:48:26.280 be9f Level-0 table #19836: 4944620 bytes OK
+2020/02/23-11:48:26.284 be9f Delete type=0 #19833
+2020/02/23-12:48:25.783 be9f Level-0 table #19838: started
+2020/02/23-12:48:25.865 be9f Level-0 table #19838: 4944889 bytes OK
+2020/02/23-12:48:25.869 be9f Delete type=0 #19835
+2020/02/23-12:48:26.189 be9f Level-0 table #19840: started
+2020/02/23-12:48:26.270 be9f Level-0 table #19840: 4944621 bytes OK
+2020/02/23-12:48:26.273 be9f Delete type=0 #19837
+2020/02/23-12:48:26.275 be9f Compacting 4@0 + 2@1 files
+2020/02/23-12:48:26.402 be9f Generated table #19841@0: 1 keys, 4944621 bytes
+2020/02/23-12:48:26.407 be9f Generated table #19842@0: 4 keys, 506 bytes
+2020/02/23-12:48:26.407 be9f Compacted 4@0 + 2@1 files => 4945127 bytes
+2020/02/23-12:48:26.412 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-12:48:26.412 be9f Delete type=2 #19836
+2020/02/23-12:48:26.412 be9f Delete type=2 #19840
+2020/02/23-12:48:26.412 be9f Delete type=2 #19838
+2020/02/23-12:48:26.412 be9f Delete type=2 #19831
+2020/02/23-12:48:26.412 be9f Delete type=2 #19832
+2020/02/23-12:48:26.412 be9f Delete type=2 #19834
+2020/02/23-13:48:25.852 be9f Level-0 table #19844: started
+2020/02/23-13:48:25.924 be9f Level-0 table #19844: 4945040 bytes OK
+2020/02/23-13:48:25.927 be9f Delete type=0 #19839
+2020/02/23-13:48:26.221 be9f Level-0 table #19846: started
+2020/02/23-13:48:26.287 be9f Level-0 table #19846: 4944636 bytes OK
+2020/02/23-13:48:26.290 be9f Delete type=0 #19843
+2020/02/23-14:48:25.975 be9f Level-0 table #19848: started
+2020/02/23-14:48:26.053 be9f Level-0 table #19848: 4945017 bytes OK
+2020/02/23-14:48:26.056 be9f Delete type=0 #19845
+2020/02/23-14:48:26.366 be9f Level-0 table #19850: started
+2020/02/23-14:48:26.444 be9f Level-0 table #19850: 4944627 bytes OK
+2020/02/23-14:48:26.447 be9f Delete type=0 #19847
+2020/02/23-14:48:26.449 be9f Compacting 4@0 + 2@1 files
+2020/02/23-14:48:26.601 be9f Generated table #19851@0: 1 keys, 4944627 bytes
+2020/02/23-14:48:26.606 be9f Generated table #19852@0: 4 keys, 507 bytes
+2020/02/23-14:48:26.606 be9f Compacted 4@0 + 2@1 files => 4945134 bytes
+2020/02/23-14:48:26.609 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-14:48:26.609 be9f Delete type=2 #19844
+2020/02/23-14:48:26.609 be9f Delete type=2 #19841
+2020/02/23-14:48:26.609 be9f Delete type=2 #19850
+2020/02/23-14:48:26.609 be9f Delete type=2 #19842
+2020/02/23-14:48:26.609 be9f Delete type=2 #19846
+2020/02/23-14:48:26.609 be9f Delete type=2 #19848
+2020/02/23-14:48:28.128 be9f Level-0 table #19854: started
+2020/02/23-14:48:28.212 be9f Level-0 table #19854: 4945687 bytes OK
+2020/02/23-14:48:28.216 be9f Delete type=0 #19849
+2020/02/23-15:48:26.271 be9f Level-0 table #19856: started
+2020/02/23-15:48:26.339 be9f Level-0 table #19856: 4945685 bytes OK
+2020/02/23-15:48:26.343 be9f Delete type=0 #19853
+2020/02/23-16:48:25.841 be9f Level-0 table #19858: started
+2020/02/23-16:48:25.917 be9f Level-0 table #19858: 4945569 bytes OK
+2020/02/23-16:48:25.920 be9f Delete type=0 #19855
+2020/02/23-16:48:26.229 be9f Level-0 table #19860: started
+2020/02/23-16:48:26.301 be9f Level-0 table #19860: 4945304 bytes OK
+2020/02/23-16:48:26.304 be9f Delete type=0 #19857
+2020/02/23-16:48:26.306 be9f Compacting 4@0 + 2@1 files
+2020/02/23-16:48:26.451 be9f Generated table #19861@0: 1 keys, 4945304 bytes
+2020/02/23-16:48:26.456 be9f Generated table #19862@0: 4 keys, 502 bytes
+2020/02/23-16:48:26.456 be9f Compacted 4@0 + 2@1 files => 4945806 bytes
+2020/02/23-16:48:26.459 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-16:48:26.459 be9f Delete type=2 #19858
+2020/02/23-16:48:26.459 be9f Delete type=2 #19856
+2020/02/23-16:48:26.459 be9f Delete type=2 #19854
+2020/02/23-16:48:26.459 be9f Delete type=2 #19851
+2020/02/23-16:48:26.459 be9f Delete type=2 #19860
+2020/02/23-16:48:26.459 be9f Delete type=2 #19852
+2020/02/23-16:48:38.147 be9f Level-0 table #19864: started
+2020/02/23-16:48:38.217 be9f Level-0 table #19864: 4945574 bytes OK
+2020/02/23-16:48:38.220 be9f Delete type=0 #19859
+2020/02/23-16:48:39.829 be9f Level-0 table #19866: started
+2020/02/23-16:48:39.917 be9f Level-0 table #19866: 4945329 bytes OK
+2020/02/23-16:48:39.921 be9f Delete type=0 #19863
+2020/02/23-17:48:25.851 be9f Level-0 table #19868: started
+2020/02/23-17:48:25.935 be9f Level-0 table #19868: 4945329 bytes OK
+2020/02/23-17:48:25.938 be9f Delete type=0 #19865
+2020/02/23-17:48:26.217 be9f Level-0 table #19870: started
+2020/02/23-17:48:26.301 be9f Level-0 table #19870: 4945323 bytes OK
+2020/02/23-17:48:26.305 be9f Delete type=0 #19867
+2020/02/23-17:48:26.307 be9f Compacting 4@0 + 2@1 files
+2020/02/23-17:48:26.483 be9f Generated table #19871@0: 1 keys, 4945323 bytes
+2020/02/23-17:48:26.489 be9f Generated table #19872@0: 4 keys, 502 bytes
+2020/02/23-17:48:26.489 be9f Compacted 4@0 + 2@1 files => 4945825 bytes
+2020/02/23-17:48:26.492 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-17:48:26.492 be9f Delete type=2 #19861
+2020/02/23-17:48:26.492 be9f Delete type=2 #19868
+2020/02/23-17:48:26.492 be9f Delete type=2 #19864
+2020/02/23-17:48:26.492 be9f Delete type=2 #19862
+2020/02/23-17:48:26.492 be9f Delete type=2 #19866
+2020/02/23-17:48:26.492 be9f Delete type=2 #19870
+2020/02/23-18:48:25.833 be9f Level-0 table #19874: started
+2020/02/23-18:48:25.916 be9f Level-0 table #19874: 4945699 bytes OK
+2020/02/23-18:48:25.919 be9f Delete type=0 #19869
+2020/02/23-18:48:26.196 be9f Level-0 table #19876: started
+2020/02/23-18:48:26.277 be9f Level-0 table #19876: 4945315 bytes OK
+2020/02/23-18:48:26.281 be9f Delete type=0 #19873
+2020/02/23-19:48:25.855 be9f Level-0 table #19878: started
+2020/02/23-19:48:25.942 be9f Level-0 table #19878: 4945585 bytes OK
+2020/02/23-19:48:25.946 be9f Delete type=0 #19875
+2020/02/23-19:48:26.250 be9f Level-0 table #19880: started
+2020/02/23-19:48:26.336 be9f Level-0 table #19880: 4945315 bytes OK
+2020/02/23-19:48:26.341 be9f Delete type=0 #19877
+2020/02/23-19:48:26.343 be9f Compacting 4@0 + 2@1 files
+2020/02/23-19:48:26.482 be9f Generated table #19881@0: 1 keys, 4945315 bytes
+2020/02/23-19:48:26.487 be9f Generated table #19882@0: 4 keys, 505 bytes
+2020/02/23-19:48:26.487 be9f Compacted 4@0 + 2@1 files => 4945820 bytes
+2020/02/23-19:48:26.490 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-19:48:26.490 be9f Delete type=2 #19871
+2020/02/23-19:48:26.490 be9f Delete type=2 #19876
+2020/02/23-19:48:26.490 be9f Delete type=2 #19874
+2020/02/23-19:48:26.490 be9f Delete type=2 #19872
+2020/02/23-19:48:26.490 be9f Delete type=2 #19878
+2020/02/23-19:48:26.490 be9f Delete type=2 #19880
+2020/02/23-20:48:25.870 be9f Level-0 table #19884: started
+2020/02/23-20:48:25.952 be9f Level-0 table #19884: 4945585 bytes OK
+2020/02/23-20:48:25.956 be9f Delete type=0 #19879
+2020/02/23-20:48:26.271 be9f Level-0 table #19886: started
+2020/02/23-20:48:26.460 be9f Level-0 table #19886: 4945315 bytes OK
+2020/02/23-20:48:26.464 be9f Delete type=0 #19883
+2020/02/23-21:48:25.893 be9f Level-0 table #19888: started
+2020/02/23-21:48:25.977 be9f Level-0 table #19888: 4945585 bytes OK
+2020/02/23-21:48:25.981 be9f Delete type=0 #19885
+2020/02/23-21:48:26.285 be9f Level-0 table #19890: started
+2020/02/23-21:48:26.366 be9f Level-0 table #19890: 4945315 bytes OK
+2020/02/23-21:48:26.370 be9f Delete type=0 #19887
+2020/02/23-21:48:26.371 be9f Compacting 4@0 + 2@1 files
+2020/02/23-21:48:26.502 be9f Generated table #19891@0: 1 keys, 4945315 bytes
+2020/02/23-21:48:26.507 be9f Generated table #19892@0: 4 keys, 505 bytes
+2020/02/23-21:48:26.507 be9f Compacted 4@0 + 2@1 files => 4945820 bytes
+2020/02/23-21:48:26.510 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-21:48:26.510 be9f Delete type=2 #19888
+2020/02/23-21:48:26.510 be9f Delete type=2 #19881
+2020/02/23-21:48:26.510 be9f Delete type=2 #19882
+2020/02/23-21:48:26.510 be9f Delete type=2 #19890
+2020/02/23-21:48:26.510 be9f Delete type=2 #19884
+2020/02/23-21:48:26.510 be9f Delete type=2 #19886
+2020/02/23-22:48:25.871 be9f Level-0 table #19894: started
+2020/02/23-22:48:25.956 be9f Level-0 table #19894: 4945584 bytes OK
+2020/02/23-22:48:25.959 be9f Delete type=0 #19889
+2020/02/23-22:48:26.255 be9f Level-0 table #19896: started
+2020/02/23-22:48:26.336 be9f Level-0 table #19896: 4945315 bytes OK
+2020/02/23-22:48:26.340 be9f Delete type=0 #19893
+2020/02/23-23:48:25.890 be9f Level-0 table #19898: started
+2020/02/23-23:48:25.972 be9f Level-0 table #19898: 4945585 bytes OK
+2020/02/23-23:48:25.976 be9f Delete type=0 #19895
+2020/02/23-23:48:26.287 be9f Level-0 table #19900: started
+2020/02/23-23:48:26.373 be9f Level-0 table #19900: 4945316 bytes OK
+2020/02/23-23:48:26.377 be9f Delete type=0 #19897
+2020/02/23-23:48:26.379 be9f Compacting 4@0 + 2@1 files
+2020/02/23-23:48:26.510 be9f Generated table #19901@0: 1 keys, 4945316 bytes
+2020/02/23-23:48:26.515 be9f Generated table #19902@0: 4 keys, 505 bytes
+2020/02/23-23:48:26.515 be9f Compacted 4@0 + 2@1 files => 4945821 bytes
+2020/02/23-23:48:26.518 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/23-23:48:26.518 be9f Delete type=2 #19898
+2020/02/23-23:48:26.518 be9f Delete type=2 #19892
+2020/02/23-23:48:26.518 be9f Delete type=2 #19896
+2020/02/23-23:48:26.518 be9f Delete type=2 #19900
+2020/02/23-23:48:26.518 be9f Delete type=2 #19891
+2020/02/23-23:48:26.518 be9f Delete type=2 #19894
+2020/02/24-00:48:25.884 be9f Level-0 table #19904: started
+2020/02/24-00:48:25.965 be9f Level-0 table #19904: 4945587 bytes OK
+2020/02/24-00:48:25.969 be9f Delete type=0 #19899
+2020/02/24-00:48:26.280 be9f Level-0 table #19906: started
+2020/02/24-00:48:26.355 be9f Level-0 table #19906: 4945317 bytes OK
+2020/02/24-00:48:26.359 be9f Delete type=0 #19903
+2020/02/24-01:48:25.925 be9f Level-0 table #19908: started
+2020/02/24-01:48:26.003 be9f Level-0 table #19908: 4945587 bytes OK
+2020/02/24-01:48:26.007 be9f Delete type=0 #19905
+2020/02/24-01:48:26.302 be9f Level-0 table #19910: started
+2020/02/24-01:48:26.379 be9f Level-0 table #19910: 4945316 bytes OK
+2020/02/24-01:48:26.382 be9f Delete type=0 #19907
+2020/02/24-01:48:26.384 be9f Compacting 4@0 + 2@1 files
+2020/02/24-01:48:26.513 be9f Generated table #19911@0: 1 keys, 4945316 bytes
+2020/02/24-01:48:26.518 be9f Generated table #19912@0: 4 keys, 507 bytes
+2020/02/24-01:48:26.518 be9f Compacted 4@0 + 2@1 files => 4945823 bytes
+2020/02/24-01:48:26.521 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-01:48:26.521 be9f Delete type=2 #19908
+2020/02/24-01:48:26.521 be9f Delete type=2 #19910
+2020/02/24-01:48:26.521 be9f Delete type=2 #19902
+2020/02/24-01:48:26.521 be9f Delete type=2 #19901
+2020/02/24-01:48:26.521 be9f Delete type=2 #19906
+2020/02/24-01:48:26.521 be9f Delete type=2 #19904
+2020/02/24-02:48:25.903 be9f Level-0 table #19914: started
+2020/02/24-02:48:25.995 be9f Level-0 table #19914: 4945586 bytes OK
+2020/02/24-02:48:25.999 be9f Delete type=0 #19909
+2020/02/24-02:48:26.279 be9f Level-0 table #19916: started
+2020/02/24-02:48:26.352 be9f Level-0 table #19916: 4945317 bytes OK
+2020/02/24-02:48:26.358 be9f Delete type=0 #19913
+2020/02/24-03:48:25.914 be9f Level-0 table #19918: started
+2020/02/24-03:48:26.000 be9f Level-0 table #19918: 4945587 bytes OK
+2020/02/24-03:48:26.004 be9f Delete type=0 #19915
+2020/02/24-03:48:26.309 be9f Level-0 table #19920: started
+2020/02/24-03:48:26.391 be9f Level-0 table #19920: 4945318 bytes OK
+2020/02/24-03:48:26.395 be9f Delete type=0 #19917
+2020/02/24-03:48:26.397 be9f Compacting 4@0 + 2@1 files
+2020/02/24-03:48:26.525 be9f Generated table #19921@0: 1 keys, 4945318 bytes
+2020/02/24-03:48:26.530 be9f Generated table #19922@0: 4 keys, 505 bytes
+2020/02/24-03:48:26.530 be9f Compacted 4@0 + 2@1 files => 4945823 bytes
+2020/02/24-03:48:26.533 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-03:48:26.533 be9f Delete type=2 #19918
+2020/02/24-03:48:26.533 be9f Delete type=2 #19911
+2020/02/24-03:48:26.533 be9f Delete type=2 #19914
+2020/02/24-03:48:26.533 be9f Delete type=2 #19916
+2020/02/24-03:48:26.533 be9f Delete type=2 #19912
+2020/02/24-03:48:26.533 be9f Delete type=2 #19920
+2020/02/24-04:48:25.945 be9f Level-0 table #19924: started
+2020/02/24-04:48:26.030 be9f Level-0 table #19924: 4945587 bytes OK
+2020/02/24-04:48:26.034 be9f Delete type=0 #19919
+2020/02/24-04:48:26.355 be9f Level-0 table #19926: started
+2020/02/24-04:48:26.438 be9f Level-0 table #19926: 4945315 bytes OK
+2020/02/24-04:48:26.442 be9f Delete type=0 #19923
+2020/02/24-05:48:25.996 be9f Level-0 table #19928: started
+2020/02/24-05:48:26.080 be9f Level-0 table #19928: 4945585 bytes OK
+2020/02/24-05:48:26.084 be9f Delete type=0 #19925
+2020/02/24-05:48:26.373 be9f Level-0 table #19930: started
+2020/02/24-05:48:26.457 be9f Level-0 table #19930: 4945317 bytes OK
+2020/02/24-05:48:26.460 be9f Delete type=0 #19927
+2020/02/24-05:48:26.462 be9f Compacting 4@0 + 2@1 files
+2020/02/24-05:48:26.604 be9f Generated table #19931@0: 1 keys, 4945317 bytes
+2020/02/24-05:48:26.608 be9f Generated table #19932@0: 4 keys, 505 bytes
+2020/02/24-05:48:26.609 be9f Compacted 4@0 + 2@1 files => 4945822 bytes
+2020/02/24-05:48:26.611 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-05:48:26.611 be9f Delete type=2 #19926
+2020/02/24-05:48:26.611 be9f Delete type=2 #19921
+2020/02/24-05:48:26.611 be9f Delete type=2 #19928
+2020/02/24-05:48:26.611 be9f Delete type=2 #19924
+2020/02/24-05:48:26.611 be9f Delete type=2 #19922
+2020/02/24-05:48:26.611 be9f Delete type=2 #19930
+2020/02/24-06:48:25.926 be9f Level-0 table #19934: started
+2020/02/24-06:48:26.008 be9f Level-0 table #19934: 4945586 bytes OK
+2020/02/24-06:48:26.011 be9f Delete type=0 #19929
+2020/02/24-06:48:26.303 be9f Level-0 table #19936: started
+2020/02/24-06:48:26.386 be9f Level-0 table #19936: 4945318 bytes OK
+2020/02/24-06:48:26.389 be9f Delete type=0 #19933
+2020/02/24-07:48:25.922 be9f Level-0 table #19938: started
+2020/02/24-07:48:26.007 be9f Level-0 table #19938: 4945588 bytes OK
+2020/02/24-07:48:26.011 be9f Delete type=0 #19935
+2020/02/24-07:48:26.283 be9f Level-0 table #19940: started
+2020/02/24-07:48:26.354 be9f Level-0 table #19940: 4945318 bytes OK
+2020/02/24-07:48:26.357 be9f Delete type=0 #19937
+2020/02/24-07:48:26.359 be9f Compacting 4@0 + 2@1 files
+2020/02/24-07:48:26.514 be9f Generated table #19941@0: 1 keys, 4945318 bytes
+2020/02/24-07:48:26.519 be9f Generated table #19942@0: 4 keys, 505 bytes
+2020/02/24-07:48:26.519 be9f Compacted 4@0 + 2@1 files => 4945823 bytes
+2020/02/24-07:48:26.522 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-07:48:26.522 be9f Delete type=2 #19936
+2020/02/24-07:48:26.522 be9f Delete type=2 #19931
+2020/02/24-07:48:26.522 be9f Delete type=2 #19934
+2020/02/24-07:48:26.522 be9f Delete type=2 #19932
+2020/02/24-07:48:26.522 be9f Delete type=2 #19940
+2020/02/24-07:48:26.522 be9f Delete type=2 #19938
+2020/02/24-08:40:12.522 be9f Level-0 table #19944: started
+2020/02/24-08:40:12.614 be9f Level-0 table #19944: 4945589 bytes OK
+2020/02/24-08:40:12.620 be9f Delete type=0 #19939
+2020/02/24-08:48:26.359 be9f Level-0 table #19946: started
+2020/02/24-08:48:26.438 be9f Level-0 table #19946: 4945430 bytes OK
+2020/02/24-08:48:26.442 be9f Delete type=0 #19943
+2020/02/24-08:56:38.199 be9f Level-0 table #19948: started
+2020/02/24-08:56:38.291 be9f Level-0 table #19948: 4945627 bytes OK
+2020/02/24-08:56:38.294 be9f Delete type=0 #19945
+2020/02/24-09:48:26.307 be9f Level-0 table #19950: started
+2020/02/24-09:48:26.383 be9f Level-0 table #19950: 4945916 bytes OK
+2020/02/24-09:48:26.387 be9f Delete type=0 #19947
+2020/02/24-09:48:26.389 be9f Compacting 4@0 + 2@1 files
+2020/02/24-09:48:26.487 be9f Generated table #19951@0: 1 keys, 4945315 bytes
+2020/02/24-09:48:26.491 be9f Generated table #19952@0: 4 keys, 506 bytes
+2020/02/24-09:48:26.491 be9f Compacted 4@0 + 2@1 files => 4945821 bytes
+2020/02/24-09:48:26.494 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-09:48:26.494 be9f Delete type=2 #19944
+2020/02/24-09:48:26.494 be9f Delete type=2 #19942
+2020/02/24-09:48:26.494 be9f Delete type=2 #19950
+2020/02/24-09:48:26.494 be9f Delete type=2 #19941
+2020/02/24-09:48:26.494 be9f Delete type=2 #19946
+2020/02/24-09:48:26.494 be9f Delete type=2 #19948
+2020/02/24-09:50:07.943 be9f Level-0 table #19954: started
+2020/02/24-09:50:08.025 be9f Level-0 table #19954: 4945585 bytes OK
+2020/02/24-09:50:08.030 be9f Delete type=0 #19949
+2020/02/24-10:48:26.372 be9f Level-0 table #19956: started
+2020/02/24-10:48:26.474 be9f Level-0 table #19956: 4946255 bytes OK
+2020/02/24-10:48:26.481 be9f Delete type=0 #19953
+2020/02/24-10:55:45.953 be9f Level-0 table #19958: started
+2020/02/24-10:55:46.046 be9f Level-0 table #19958: 4945587 bytes OK
+2020/02/24-10:55:46.050 be9f Delete type=0 #19955
+2020/02/24-11:48:26.384 be9f Level-0 table #19960: started
+2020/02/24-11:48:26.467 be9f Level-0 table #19960: 4945622 bytes OK
+2020/02/24-11:48:26.471 be9f Delete type=0 #19957
+2020/02/24-11:48:26.473 be9f Compacting 4@0 + 2@1 files
+2020/02/24-11:48:26.608 be9f Generated table #19961@0: 1 keys, 4945317 bytes
+2020/02/24-11:48:26.613 be9f Generated table #19962@0: 4 keys, 506 bytes
+2020/02/24-11:48:26.613 be9f Compacted 4@0 + 2@1 files => 4945823 bytes
+2020/02/24-11:48:26.616 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-11:48:26.617 be9f Delete type=2 #19958
+2020/02/24-11:48:26.617 be9f Delete type=2 #19954
+2020/02/24-11:48:26.617 be9f Delete type=2 #19960
+2020/02/24-11:48:26.617 be9f Delete type=2 #19952
+2020/02/24-11:48:26.617 be9f Delete type=2 #19956
+2020/02/24-11:48:26.617 be9f Delete type=2 #19951
+2020/02/24-11:54:25.545 be9f Level-0 table #19964: started
+2020/02/24-11:54:25.632 be9f Level-0 table #19964: 4945587 bytes OK
+2020/02/24-11:54:25.635 be9f Delete type=0 #19959
+2020/02/24-12:48:26.424 be9f Level-0 table #19966: started
+2020/02/24-12:48:26.510 be9f Level-0 table #19966: 4945647 bytes OK
+2020/02/24-12:48:26.515 be9f Delete type=0 #19963
+2020/02/24-12:51:38.329 be9f Level-0 table #19968: started
+2020/02/24-12:51:38.406 be9f Level-0 table #19968: 4945589 bytes OK
+2020/02/24-12:51:38.411 be9f Delete type=0 #19965
+2020/02/24-13:48:26.469 be9f Level-0 table #19970: started
+2020/02/24-13:48:26.565 be9f Level-0 table #19970: 4945618 bytes OK
+2020/02/24-13:48:26.569 be9f Delete type=0 #19967
+2020/02/24-13:48:26.572 be9f Compacting 4@0 + 2@1 files
+2020/02/24-13:48:26.730 be9f Generated table #19971@0: 1 keys, 4945317 bytes
+2020/02/24-13:48:26.736 be9f Generated table #19972@0: 4 keys, 506 bytes
+2020/02/24-13:48:26.736 be9f Compacted 4@0 + 2@1 files => 4945823 bytes
+2020/02/24-13:48:26.739 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-13:48:26.739 be9f Delete type=2 #19966
+2020/02/24-13:48:26.739 be9f Delete type=2 #19964
+2020/02/24-13:48:26.739 be9f Delete type=2 #19968
+2020/02/24-13:48:26.739 be9f Delete type=2 #19970
+2020/02/24-13:48:26.739 be9f Delete type=2 #19962
+2020/02/24-13:48:26.739 be9f Delete type=2 #19961
+2020/02/24-13:59:12.454 be9f Level-0 table #19974: started
+2020/02/24-13:59:12.545 be9f Level-0 table #19974: 4946127 bytes OK
+2020/02/24-13:59:12.549 be9f Delete type=0 #19969
+2020/02/24-14:48:26.426 be9f Level-0 table #19976: started
+2020/02/24-14:48:26.512 be9f Level-0 table #19976: 4945709 bytes OK
+2020/02/24-14:48:26.516 be9f Delete type=0 #19973
+2020/02/24-15:01:19.108 be9f Level-0 table #19978: started
+2020/02/24-15:01:19.187 be9f Level-0 table #19978: 4945928 bytes OK
+2020/02/24-15:01:19.191 be9f Delete type=0 #19975
+2020/02/24-15:48:26.434 be9f Level-0 table #19980: started
+2020/02/24-15:48:26.524 be9f Level-0 table #19980: 4945410 bytes OK
+2020/02/24-15:48:26.528 be9f Delete type=0 #19977
+2020/02/24-15:48:26.530 be9f Compacting 4@0 + 2@1 files
+2020/02/24-15:48:26.676 be9f Generated table #19981@0: 1 keys, 4945316 bytes
+2020/02/24-15:48:26.681 be9f Generated table #19982@0: 4 keys, 825 bytes
+2020/02/24-15:48:26.681 be9f Compacted 4@0 + 2@1 files => 4946141 bytes
+2020/02/24-15:48:26.684 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-15:48:26.684 be9f Delete type=2 #19974
+2020/02/24-15:48:26.684 be9f Delete type=2 #19976
+2020/02/24-15:48:26.684 be9f Delete type=2 #19980
+2020/02/24-15:48:26.684 be9f Delete type=2 #19972
+2020/02/24-15:48:26.684 be9f Delete type=2 #19971
+2020/02/24-15:48:26.684 be9f Delete type=2 #19978
+2020/02/24-16:48:26.052 be9f Level-0 table #19984: started
+2020/02/24-16:48:26.142 be9f Level-0 table #19984: 4945928 bytes OK
+2020/02/24-16:48:26.147 be9f Delete type=0 #19979
+2020/02/24-16:48:26.493 be9f Level-0 table #19986: started
+2020/02/24-16:48:26.592 be9f Level-0 table #19986: 4945316 bytes OK
+2020/02/24-16:48:26.602 be9f Delete type=0 #19983
+2020/02/24-17:48:25.948 be9f Level-0 table #19988: started
+2020/02/24-17:48:26.038 be9f Level-0 table #19988: 4946602 bytes OK
+2020/02/24-17:48:26.041 be9f Delete type=0 #19985
+2020/02/24-17:48:26.321 be9f Level-0 table #19990: started
+2020/02/24-17:48:26.395 be9f Level-0 table #19990: 4945898 bytes OK
+2020/02/24-17:48:26.399 be9f Delete type=0 #19987
+2020/02/24-17:48:26.401 be9f Compacting 4@0 + 2@1 files
+2020/02/24-17:48:26.568 be9f Generated table #19991@0: 1 keys, 4945898 bytes
+2020/02/24-17:48:26.576 be9f Generated table #19992@0: 4 keys, 828 bytes
+2020/02/24-17:48:26.576 be9f Compacted 4@0 + 2@1 files => 4946726 bytes
+2020/02/24-17:48:26.581 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-17:48:26.582 be9f Delete type=2 #19984
+2020/02/24-17:48:26.582 be9f Delete type=2 #19988
+2020/02/24-17:48:26.582 be9f Delete type=2 #19986
+2020/02/24-17:48:26.582 be9f Delete type=2 #19981
+2020/02/24-17:48:26.582 be9f Delete type=2 #19982
+2020/02/24-17:48:26.582 be9f Delete type=2 #19990
+2020/02/24-17:48:28.714 be9f Level-0 table #19994: started
+2020/02/24-17:48:28.790 be9f Level-0 table #19994: 4946510 bytes OK
+2020/02/24-17:48:28.794 be9f Delete type=0 #19989
+2020/02/24-17:48:31.196 be9f Level-0 table #19996: started
+2020/02/24-17:48:31.274 be9f Level-0 table #19996: 4946170 bytes OK
+2020/02/24-17:48:31.277 be9f Delete type=0 #19993
+2020/02/24-17:48:36.318 be9f Level-0 table #19998: started
+2020/02/24-17:48:36.391 be9f Level-0 table #19998: 4945971 bytes OK
+2020/02/24-17:48:36.395 be9f Delete type=0 #19995
+2020/02/24-17:48:38.059 be9f Level-0 table #20000: started
+2020/02/24-17:48:38.147 be9f Level-0 table #20000: 4946016 bytes OK
+2020/02/24-17:48:38.151 be9f Delete type=0 #19997
+2020/02/24-17:48:38.153 be9f Compacting 4@0 + 2@1 files
+2020/02/24-17:48:38.312 be9f Generated table #20001@0: 1 keys, 4946016 bytes
+2020/02/24-17:48:38.317 be9f Generated table #20002@0: 4 keys, 828 bytes
+2020/02/24-17:48:38.317 be9f Compacted 4@0 + 2@1 files => 4946844 bytes
+2020/02/24-17:48:38.319 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-17:48:38.320 be9f Delete type=2 #19992
+2020/02/24-17:48:38.320 be9f Delete type=2 #19991
+2020/02/24-17:48:38.320 be9f Delete type=2 #19998
+2020/02/24-17:48:38.320 be9f Delete type=2 #19994
+2020/02/24-17:48:38.320 be9f Delete type=2 #19996
+2020/02/24-17:48:38.320 be9f Delete type=2 #20000
+2020/02/24-18:48:26.000 be9f Level-0 table #20004: started
+2020/02/24-18:48:26.084 be9f Level-0 table #20004: 4946016 bytes OK
+2020/02/24-18:48:26.088 be9f Delete type=0 #19999
+2020/02/24-18:48:26.369 be9f Level-0 table #20006: started
+2020/02/24-18:48:26.454 be9f Level-0 table #20006: 4946014 bytes OK
+2020/02/24-18:48:26.457 be9f Delete type=0 #20003
+2020/02/24-19:48:25.977 be9f Level-0 table #20008: started
+2020/02/24-19:48:26.064 be9f Level-0 table #20008: 4946626 bytes OK
+2020/02/24-19:48:26.070 be9f Delete type=0 #20005
+2020/02/24-19:48:26.410 be9f Level-0 table #20010: started
+2020/02/24-19:48:26.493 be9f Level-0 table #20010: 4946018 bytes OK
+2020/02/24-19:48:26.496 be9f Delete type=0 #20007
+2020/02/24-19:48:26.498 be9f Compacting 4@0 + 2@1 files
+2020/02/24-19:48:26.655 be9f Generated table #20011@0: 1 keys, 4946018 bytes
+2020/02/24-19:48:26.661 be9f Generated table #20012@0: 4 keys, 828 bytes
+2020/02/24-19:48:26.661 be9f Compacted 4@0 + 2@1 files => 4946846 bytes
+2020/02/24-19:48:26.664 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-19:48:26.664 be9f Delete type=2 #20001
+2020/02/24-19:48:26.664 be9f Delete type=2 #20010
+2020/02/24-19:48:26.664 be9f Delete type=2 #20008
+2020/02/24-19:48:26.664 be9f Delete type=2 #20002
+2020/02/24-19:48:26.664 be9f Delete type=2 #20006
+2020/02/24-19:48:26.664 be9f Delete type=2 #20004
+2020/02/24-20:48:26.003 be9f Level-0 table #20014: started
+2020/02/24-20:48:26.107 be9f Level-0 table #20014: 4946733 bytes OK
+2020/02/24-20:48:26.111 be9f Delete type=0 #20009
+2020/02/24-20:48:26.387 be9f Level-0 table #20016: started
+2020/02/24-20:48:26.476 be9f Level-0 table #20016: 4946021 bytes OK
+2020/02/24-20:48:26.480 be9f Delete type=0 #20013
+2020/02/24-21:48:26.011 be9f Level-0 table #20018: started
+2020/02/24-21:48:26.123 be9f Level-0 table #20018: 4946739 bytes OK
+2020/02/24-21:48:26.127 be9f Delete type=0 #20015
+2020/02/24-21:48:26.391 be9f Level-0 table #20020: started
+2020/02/24-21:48:26.477 be9f Level-0 table #20020: 4946019 bytes OK
+2020/02/24-21:48:26.480 be9f Delete type=0 #20017
+2020/02/24-21:48:26.482 be9f Compacting 4@0 + 2@1 files
+2020/02/24-21:48:26.621 be9f Generated table #20021@0: 1 keys, 4946019 bytes
+2020/02/24-21:48:26.626 be9f Generated table #20022@0: 4 keys, 828 bytes
+2020/02/24-21:48:26.626 be9f Compacted 4@0 + 2@1 files => 4946847 bytes
+2020/02/24-21:48:26.628 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-21:48:26.629 be9f Delete type=2 #20018
+2020/02/24-21:48:26.629 be9f Delete type=2 #20016
+2020/02/24-21:48:26.629 be9f Delete type=2 #20014
+2020/02/24-21:48:26.629 be9f Delete type=2 #20020
+2020/02/24-21:48:26.629 be9f Delete type=2 #20011
+2020/02/24-21:48:26.629 be9f Delete type=2 #20012
+2020/02/24-21:48:42.399 be9f Level-0 table #20024: started
+2020/02/24-21:48:42.489 be9f Level-0 table #20024: 4946631 bytes OK
+2020/02/24-21:48:42.492 be9f Delete type=0 #20019
+2020/02/24-21:48:44.170 be9f Level-0 table #20026: started
+2020/02/24-21:48:44.239 be9f Level-0 table #20026: 4946044 bytes OK
+2020/02/24-21:48:44.243 be9f Delete type=0 #20023
+2020/02/24-22:48:26.001 be9f Level-0 table #20028: started
+2020/02/24-22:48:26.095 be9f Level-0 table #20028: 4946044 bytes OK
+2020/02/24-22:48:26.099 be9f Delete type=0 #20025
+2020/02/24-22:48:26.383 be9f Level-0 table #20030: started
+2020/02/24-22:48:26.457 be9f Level-0 table #20030: 4946047 bytes OK
+2020/02/24-22:48:26.461 be9f Delete type=0 #20027
+2020/02/24-22:48:26.463 be9f Compacting 4@0 + 2@1 files
+2020/02/24-22:48:26.745 be9f Generated table #20031@0: 1 keys, 4946047 bytes
+2020/02/24-22:48:26.754 be9f Generated table #20032@0: 4 keys, 828 bytes
+2020/02/24-22:48:26.754 be9f Compacted 4@0 + 2@1 files => 4946875 bytes
+2020/02/24-22:48:26.757 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/24-22:48:26.757 be9f Delete type=2 #20024
+2020/02/24-22:48:26.757 be9f Delete type=2 #20028
+2020/02/24-22:48:26.757 be9f Delete type=2 #20022
+2020/02/24-22:48:26.757 be9f Delete type=2 #20030
+2020/02/24-22:48:26.757 be9f Delete type=2 #20021
+2020/02/24-22:48:26.757 be9f Delete type=2 #20026
+2020/02/24-23:48:26.030 be9f Level-0 table #20034: started
+2020/02/24-23:48:26.111 be9f Level-0 table #20034: 4946658 bytes OK
+2020/02/24-23:48:26.115 be9f Delete type=0 #20029
+2020/02/24-23:48:26.461 be9f Level-0 table #20036: started
+2020/02/24-23:48:26.537 be9f Level-0 table #20036: 4946047 bytes OK
+2020/02/24-23:48:26.541 be9f Delete type=0 #20033
+2020/02/25-00:48:26.032 be9f Level-0 table #20038: started
+2020/02/25-00:48:26.113 be9f Level-0 table #20038: 4946659 bytes OK
+2020/02/25-00:48:26.120 be9f Delete type=0 #20035
+2020/02/25-00:48:26.440 be9f Level-0 table #20040: started
+2020/02/25-00:48:26.524 be9f Level-0 table #20040: 4946048 bytes OK
+2020/02/25-00:48:26.528 be9f Delete type=0 #20037
+2020/02/25-00:48:26.530 be9f Compacting 4@0 + 2@1 files
+2020/02/25-00:48:26.688 be9f Generated table #20041@0: 1 keys, 4946048 bytes
+2020/02/25-00:48:26.694 be9f Generated table #20042@0: 4 keys, 828 bytes
+2020/02/25-00:48:26.694 be9f Compacted 4@0 + 2@1 files => 4946876 bytes
+2020/02/25-00:48:26.697 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-00:48:26.697 be9f Delete type=2 #20032
+2020/02/25-00:48:26.697 be9f Delete type=2 #20040
+2020/02/25-00:48:26.697 be9f Delete type=2 #20031
+2020/02/25-00:48:26.697 be9f Delete type=2 #20038
+2020/02/25-00:48:26.697 be9f Delete type=2 #20036
+2020/02/25-00:48:26.697 be9f Delete type=2 #20034
+2020/02/25-01:48:26.004 be9f Level-0 table #20044: started
+2020/02/25-01:48:26.076 be9f Level-0 table #20044: 4946660 bytes OK
+2020/02/25-01:48:26.080 be9f Delete type=0 #20039
+2020/02/25-01:48:26.397 be9f Level-0 table #20046: started
+2020/02/25-01:48:26.473 be9f Level-0 table #20046: 4946049 bytes OK
+2020/02/25-01:48:26.477 be9f Delete type=0 #20043
+2020/02/25-02:48:26.046 be9f Level-0 table #20048: started
+2020/02/25-02:48:26.186 be9f Level-0 table #20048: 4946661 bytes OK
+2020/02/25-02:48:26.190 be9f Delete type=0 #20045
+2020/02/25-02:48:26.465 be9f Level-0 table #20050: started
+2020/02/25-02:48:26.539 be9f Level-0 table #20050: 4946050 bytes OK
+2020/02/25-02:48:26.542 be9f Delete type=0 #20047
+2020/02/25-02:48:26.545 be9f Compacting 4@0 + 2@1 files
+2020/02/25-02:48:26.711 be9f Generated table #20051@0: 1 keys, 4946050 bytes
+2020/02/25-02:48:26.717 be9f Generated table #20052@0: 4 keys, 828 bytes
+2020/02/25-02:48:26.717 be9f Compacted 4@0 + 2@1 files => 4946878 bytes
+2020/02/25-02:48:26.720 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-02:48:26.720 be9f Delete type=2 #20042
+2020/02/25-02:48:26.720 be9f Delete type=2 #20041
+2020/02/25-02:48:26.720 be9f Delete type=2 #20048
+2020/02/25-02:48:26.720 be9f Delete type=2 #20050
+2020/02/25-02:48:26.720 be9f Delete type=2 #20044
+2020/02/25-02:48:26.720 be9f Delete type=2 #20046
+2020/02/25-03:48:26.047 be9f Level-0 table #20054: started
+2020/02/25-03:48:26.130 be9f Level-0 table #20054: 4946662 bytes OK
+2020/02/25-03:48:26.134 be9f Delete type=0 #20049
+2020/02/25-03:48:26.474 be9f Level-0 table #20056: started
+2020/02/25-03:48:26.550 be9f Level-0 table #20056: 4946049 bytes OK
+2020/02/25-03:48:26.554 be9f Delete type=0 #20053
+2020/02/25-04:48:26.059 be9f Level-0 table #20058: started
+2020/02/25-04:48:26.137 be9f Level-0 table #20058: 4946661 bytes OK
+2020/02/25-04:48:26.147 be9f Delete type=0 #20055
+2020/02/25-04:48:26.440 be9f Level-0 table #20060: started
+2020/02/25-04:48:26.508 be9f Level-0 table #20060: 4946044 bytes OK
+2020/02/25-04:48:26.512 be9f Delete type=0 #20057
+2020/02/25-04:48:26.514 be9f Compacting 4@0 + 2@1 files
+2020/02/25-04:48:26.659 be9f Generated table #20061@0: 1 keys, 4946044 bytes
+2020/02/25-04:48:26.665 be9f Generated table #20062@0: 4 keys, 828 bytes
+2020/02/25-04:48:26.665 be9f Compacted 4@0 + 2@1 files => 4946872 bytes
+2020/02/25-04:48:26.668 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-04:48:26.668 be9f Delete type=2 #20056
+2020/02/25-04:48:26.668 be9f Delete type=2 #20051
+2020/02/25-04:48:26.668 be9f Delete type=2 #20054
+2020/02/25-04:48:26.668 be9f Delete type=2 #20060
+2020/02/25-04:48:26.668 be9f Delete type=2 #20052
+2020/02/25-04:48:26.668 be9f Delete type=2 #20058
+2020/02/25-05:48:26.069 be9f Level-0 table #20064: started
+2020/02/25-05:48:26.148 be9f Level-0 table #20064: 4946656 bytes OK
+2020/02/25-05:48:26.152 be9f Delete type=0 #20059
+2020/02/25-05:48:26.465 be9f Level-0 table #20066: started
+2020/02/25-05:48:26.544 be9f Level-0 table #20066: 4946043 bytes OK
+2020/02/25-05:48:26.547 be9f Delete type=0 #20063
+2020/02/25-06:48:26.081 be9f Level-0 table #20068: started
+2020/02/25-06:48:26.164 be9f Level-0 table #20068: 4946655 bytes OK
+2020/02/25-06:48:26.171 be9f Delete type=0 #20065
+2020/02/25-06:48:26.489 be9f Level-0 table #20070: started
+2020/02/25-06:48:26.566 be9f Level-0 table #20070: 4946046 bytes OK
+2020/02/25-06:48:26.570 be9f Delete type=0 #20067
+2020/02/25-06:48:26.572 be9f Compacting 4@0 + 2@1 files
+2020/02/25-06:48:26.703 be9f Generated table #20071@0: 1 keys, 4946046 bytes
+2020/02/25-06:48:26.708 be9f Generated table #20072@0: 4 keys, 828 bytes
+2020/02/25-06:48:26.708 be9f Compacted 4@0 + 2@1 files => 4946874 bytes
+2020/02/25-06:48:26.711 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-06:48:26.711 be9f Delete type=2 #20070
+2020/02/25-06:48:26.711 be9f Delete type=2 #20068
+2020/02/25-06:48:26.711 be9f Delete type=2 #20064
+2020/02/25-06:48:26.711 be9f Delete type=2 #20062
+2020/02/25-06:48:26.711 be9f Delete type=2 #20066
+2020/02/25-06:48:26.711 be9f Delete type=2 #20061
+2020/02/25-07:48:26.086 be9f Level-0 table #20074: started
+2020/02/25-07:48:26.222 be9f Level-0 table #20074: 4946657 bytes OK
+2020/02/25-07:48:26.227 be9f Delete type=0 #20069
+2020/02/25-07:48:26.495 be9f Level-0 table #20076: started
+2020/02/25-07:48:26.567 be9f Level-0 table #20076: 4946043 bytes OK
+2020/02/25-07:48:26.571 be9f Delete type=0 #20073
+2020/02/25-08:48:26.181 be9f Level-0 table #20078: started
+2020/02/25-08:48:26.267 be9f Level-0 table #20078: 4946654 bytes OK
+2020/02/25-08:48:26.271 be9f Delete type=0 #20075
+2020/02/25-08:48:26.599 be9f Level-0 table #20080: started
+2020/02/25-08:48:26.679 be9f Level-0 table #20080: 4946044 bytes OK
+2020/02/25-08:48:26.683 be9f Delete type=0 #20077
+2020/02/25-08:48:26.685 be9f Compacting 4@0 + 2@1 files
+2020/02/25-08:48:26.837 be9f Generated table #20081@0: 1 keys, 4946044 bytes
+2020/02/25-08:48:26.843 be9f Generated table #20082@0: 4 keys, 827 bytes
+2020/02/25-08:48:26.843 be9f Compacted 4@0 + 2@1 files => 4946871 bytes
+2020/02/25-08:48:26.846 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-08:48:26.847 be9f Delete type=2 #20078
+2020/02/25-08:48:26.847 be9f Delete type=2 #20072
+2020/02/25-08:48:26.847 be9f Delete type=2 #20071
+2020/02/25-08:48:26.847 be9f Delete type=2 #20080
+2020/02/25-08:48:26.847 be9f Delete type=2 #20074
+2020/02/25-08:48:26.847 be9f Delete type=2 #20076
+2020/02/25-08:52:13.987 be9f Level-0 table #20084: started
+2020/02/25-08:52:14.068 be9f Level-0 table #20084: 4946655 bytes OK
+2020/02/25-08:52:14.072 be9f Delete type=0 #20079
+2020/02/25-09:48:26.516 be9f Level-0 table #20086: started
+2020/02/25-09:48:26.593 be9f Level-0 table #20086: 4946216 bytes OK
+2020/02/25-09:48:26.597 be9f Delete type=0 #20083
+2020/02/25-10:48:26.131 be9f Level-0 table #20088: started
+2020/02/25-10:48:26.207 be9f Level-0 table #20088: 4946658 bytes OK
+2020/02/25-10:48:26.211 be9f Delete type=0 #20085
+2020/02/25-10:48:26.583 be9f Level-0 table #20090: started
+2020/02/25-10:48:26.660 be9f Level-0 table #20090: 4946041 bytes OK
+2020/02/25-10:48:26.664 be9f Delete type=0 #20087
+2020/02/25-10:48:26.666 be9f Compacting 4@0 + 2@1 files
+2020/02/25-10:48:26.787 be9f Generated table #20091@0: 1 keys, 4946041 bytes
+2020/02/25-10:48:26.793 be9f Generated table #20092@0: 4 keys, 828 bytes
+2020/02/25-10:48:26.793 be9f Compacted 4@0 + 2@1 files => 4946869 bytes
+2020/02/25-10:48:26.796 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-10:48:26.796 be9f Delete type=2 #20081
+2020/02/25-10:48:26.796 be9f Delete type=2 #20088
+2020/02/25-10:48:26.796 be9f Delete type=2 #20082
+2020/02/25-10:48:26.796 be9f Delete type=2 #20086
+2020/02/25-10:48:26.796 be9f Delete type=2 #20090
+2020/02/25-10:48:26.796 be9f Delete type=2 #20084
+2020/02/25-11:05:11.480 be9f Level-0 table #20094: started
+2020/02/25-11:05:11.559 be9f Level-0 table #20094: 4946653 bytes OK
+2020/02/25-11:05:11.563 be9f Delete type=0 #20089
+2020/02/25-11:48:26.511 be9f Level-0 table #20096: started
+2020/02/25-11:48:26.594 be9f Level-0 table #20096: 4946145 bytes OK
+2020/02/25-11:48:26.597 be9f Delete type=0 #20093
+2020/02/25-12:14:10.571 be9f Level-0 table #20098: started
+2020/02/25-12:14:10.657 be9f Level-0 table #20098: 4946652 bytes OK
+2020/02/25-12:14:10.661 be9f Delete type=0 #20095
+2020/02/25-12:48:26.646 be9f Level-0 table #20100: started
+2020/02/25-12:48:26.725 be9f Level-0 table #20100: 4946144 bytes OK
+2020/02/25-12:48:26.728 be9f Delete type=0 #20097
+2020/02/25-12:48:26.730 be9f Compacting 4@0 + 2@1 files
+2020/02/25-12:48:26.862 be9f Generated table #20101@0: 1 keys, 4946042 bytes
+2020/02/25-12:48:26.869 be9f Generated table #20102@0: 4 keys, 825 bytes
+2020/02/25-12:48:26.869 be9f Compacted 4@0 + 2@1 files => 4946867 bytes
+2020/02/25-12:48:26.872 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-12:48:26.872 be9f Delete type=2 #20094
+2020/02/25-12:48:26.872 be9f Delete type=2 #20091
+2020/02/25-12:48:26.872 be9f Delete type=2 #20098
+2020/02/25-12:48:26.872 be9f Delete type=2 #20092
+2020/02/25-12:48:26.872 be9f Delete type=2 #20096
+2020/02/25-12:48:26.872 be9f Delete type=2 #20100
+2020/02/25-13:48:26.165 be9f Level-0 table #20104: started
+2020/02/25-13:48:26.263 be9f Level-0 table #20104: 4946652 bytes OK
+2020/02/25-13:48:26.268 be9f Delete type=0 #20099
+2020/02/25-13:48:26.543 be9f Level-0 table #20106: started
+2020/02/25-13:48:26.614 be9f Level-0 table #20106: 4946043 bytes OK
+2020/02/25-13:48:26.626 be9f Delete type=0 #20103
+2020/02/25-14:48:26.186 be9f Level-0 table #20108: started
+2020/02/25-14:48:26.269 be9f Level-0 table #20108: 4946829 bytes OK
+2020/02/25-14:48:26.274 be9f Delete type=0 #20105
+2020/02/25-14:48:26.608 be9f Level-0 table #20110: started
+2020/02/25-14:48:26.687 be9f Level-0 table #20110: 4946050 bytes OK
+2020/02/25-14:48:26.690 be9f Delete type=0 #20107
+2020/02/25-14:48:26.692 be9f Compacting 4@0 + 2@1 files
+2020/02/25-14:48:26.854 be9f Generated table #20111@0: 1 keys, 4946050 bytes
+2020/02/25-14:48:26.861 be9f Generated table #20112@0: 4 keys, 824 bytes
+2020/02/25-14:48:26.861 be9f Compacted 4@0 + 2@1 files => 4946874 bytes
+2020/02/25-14:48:26.864 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-14:48:26.864 be9f Delete type=2 #20104
+2020/02/25-14:48:26.864 be9f Delete type=2 #20106
+2020/02/25-14:48:26.864 be9f Delete type=2 #20108
+2020/02/25-14:48:26.864 be9f Delete type=2 #20102
+2020/02/25-14:48:26.864 be9f Delete type=2 #20110
+2020/02/25-14:48:26.864 be9f Delete type=2 #20101
+2020/02/25-15:48:26.113 be9f Level-0 table #20114: started
+2020/02/25-15:48:26.190 be9f Level-0 table #20114: 4946661 bytes OK
+2020/02/25-15:48:26.194 be9f Delete type=0 #20109
+2020/02/25-15:48:26.514 be9f Level-0 table #20116: started
+2020/02/25-15:48:26.584 be9f Level-0 table #20116: 4946046 bytes OK
+2020/02/25-15:48:26.588 be9f Delete type=0 #20113
+2020/02/25-16:48:26.149 be9f Level-0 table #20118: started
+2020/02/25-16:48:26.226 be9f Level-0 table #20118: 4946659 bytes OK
+2020/02/25-16:48:26.230 be9f Delete type=0 #20115
+2020/02/25-16:48:26.546 be9f Level-0 table #20120: started
+2020/02/25-16:48:26.620 be9f Level-0 table #20120: 4946047 bytes OK
+2020/02/25-16:48:26.624 be9f Delete type=0 #20117
+2020/02/25-16:48:26.625 be9f Compacting 4@0 + 2@1 files
+2020/02/25-16:48:26.754 be9f Generated table #20121@0: 1 keys, 4946047 bytes
+2020/02/25-16:48:26.759 be9f Generated table #20122@0: 4 keys, 826 bytes
+2020/02/25-16:48:26.759 be9f Compacted 4@0 + 2@1 files => 4946873 bytes
+2020/02/25-16:48:26.762 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-16:48:26.763 be9f Delete type=2 #20114
+2020/02/25-16:48:26.763 be9f Delete type=2 #20112
+2020/02/25-16:48:26.763 be9f Delete type=2 #20111
+2020/02/25-16:48:26.763 be9f Delete type=2 #20118
+2020/02/25-16:48:26.763 be9f Delete type=2 #20120
+2020/02/25-16:48:26.763 be9f Delete type=2 #20116
+2020/02/25-17:48:26.114 be9f Level-0 table #20124: started
+2020/02/25-17:48:26.193 be9f Level-0 table #20124: 4946660 bytes OK
+2020/02/25-17:48:26.197 be9f Delete type=0 #20119
+2020/02/25-17:48:26.500 be9f Level-0 table #20126: started
+2020/02/25-17:48:26.570 be9f Level-0 table #20126: 4946049 bytes OK
+2020/02/25-17:48:26.574 be9f Delete type=0 #20123
+2020/02/25-17:48:29.121 be9f Level-0 table #20128: started
+2020/02/25-17:48:29.198 be9f Level-0 table #20128: 4946661 bytes OK
+2020/02/25-17:48:29.202 be9f Delete type=0 #20125
+2020/02/25-17:48:32.030 be9f Level-0 table #20130: started
+2020/02/25-17:48:32.115 be9f Level-0 table #20130: 4945996 bytes OK
+2020/02/25-17:48:32.119 be9f Delete type=0 #20127
+2020/02/25-17:48:32.121 be9f Compacting 4@0 + 2@1 files
+2020/02/25-17:48:32.247 be9f Generated table #20131@0: 1 keys, 4945797 bytes
+2020/02/25-17:48:32.252 be9f Generated table #20132@0: 4 keys, 828 bytes
+2020/02/25-17:48:32.252 be9f Compacted 4@0 + 2@1 files => 4946625 bytes
+2020/02/25-17:48:32.255 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-17:48:32.255 be9f Delete type=2 #20122
+2020/02/25-17:48:32.255 be9f Delete type=2 #20128
+2020/02/25-17:48:32.255 be9f Delete type=2 #20130
+2020/02/25-17:48:32.256 be9f Delete type=2 #20124
+2020/02/25-17:48:32.256 be9f Delete type=2 #20121
+2020/02/25-17:48:32.256 be9f Delete type=2 #20126
+2020/02/25-17:48:36.509 be9f Level-0 table #20134: started
+2020/02/25-17:48:36.591 be9f Level-0 table #20134: 4945797 bytes OK
+2020/02/25-17:48:36.595 be9f Delete type=0 #20129
+2020/02/25-17:48:38.333 be9f Level-0 table #20136: started
+2020/02/25-17:48:38.419 be9f Level-0 table #20136: 4945847 bytes OK
+2020/02/25-17:48:38.423 be9f Delete type=0 #20133
+2020/02/25-18:48:26.144 be9f Level-0 table #20138: started
+2020/02/25-18:48:26.225 be9f Level-0 table #20138: 4945847 bytes OK
+2020/02/25-18:48:26.229 be9f Delete type=0 #20135
+2020/02/25-18:48:26.556 be9f Level-0 table #20140: started
+2020/02/25-18:48:26.636 be9f Level-0 table #20140: 4945854 bytes OK
+2020/02/25-18:48:26.640 be9f Delete type=0 #20137
+2020/02/25-18:48:26.642 be9f Compacting 4@0 + 1@1 files
+2020/02/25-18:48:26.831 be9f Generated table #20141@0: 1 keys, 4945854 bytes
+2020/02/25-18:48:26.834 be9f Compacted 4@0 + 1@1 files => 4945854 bytes
+2020/02/25-18:48:26.838 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-18:48:26.838 be9f Delete type=2 #20140
+2020/02/25-18:48:26.838 be9f Delete type=2 #20136
+2020/02/25-18:48:26.838 be9f Delete type=2 #20138
+2020/02/25-18:48:26.838 be9f Delete type=2 #20134
+2020/02/25-18:48:26.838 be9f Delete type=2 #20131
+2020/02/25-18:48:40.884 be9f Level-0 table #20143: started
+2020/02/25-18:48:40.973 be9f Level-0 table #20143: 4946465 bytes OK
+2020/02/25-18:48:40.979 be9f Delete type=0 #20139
+2020/02/25-18:48:43.601 be9f Level-0 table #20145: started
+2020/02/25-18:48:43.680 be9f Level-0 table #20145: 4946053 bytes OK
+2020/02/25-18:48:43.684 be9f Delete type=0 #20142
+2020/02/25-19:48:26.146 be9f Level-0 table #20147: started
+2020/02/25-19:48:26.228 be9f Level-0 table #20147: 4945854 bytes OK
+2020/02/25-19:48:26.231 be9f Delete type=0 #20144
+2020/02/25-19:48:26.531 be9f Level-0 table #20149: started
+2020/02/25-19:48:26.610 be9f Level-0 table #20149: 4945852 bytes OK
+2020/02/25-19:48:26.619 be9f Delete type=0 #20146
+2020/02/25-19:48:26.621 be9f Compacting 4@0 + 2@1 files
+2020/02/25-19:48:26.765 be9f Generated table #20150@0: 1 keys, 4945852 bytes
+2020/02/25-19:48:26.771 be9f Generated table #20151@0: 4 keys, 827 bytes
+2020/02/25-19:48:26.771 be9f Compacted 4@0 + 2@1 files => 4946679 bytes
+2020/02/25-19:48:26.774 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-19:48:26.774 be9f Delete type=2 #20149
+2020/02/25-19:48:26.774 be9f Delete type=2 #20141
+2020/02/25-19:48:26.774 be9f Delete type=2 #20147
+2020/02/25-19:48:26.774 be9f Delete type=2 #20132
+2020/02/25-19:48:26.774 be9f Delete type=2 #20145
+2020/02/25-19:48:26.774 be9f Delete type=2 #20143
+2020/02/25-20:48:26.148 be9f Level-0 table #20153: started
+2020/02/25-20:48:26.232 be9f Level-0 table #20153: 4946463 bytes OK
+2020/02/25-20:48:26.236 be9f Delete type=0 #20148
+2020/02/25-20:48:26.536 be9f Level-0 table #20155: started
+2020/02/25-20:48:26.620 be9f Level-0 table #20155: 4945852 bytes OK
+2020/02/25-20:48:26.624 be9f Delete type=0 #20152
+2020/02/25-21:48:26.157 be9f Level-0 table #20157: started
+2020/02/25-21:48:26.242 be9f Level-0 table #20157: 4946464 bytes OK
+2020/02/25-21:48:26.246 be9f Delete type=0 #20154
+2020/02/25-21:48:26.529 be9f Level-0 table #20159: started
+2020/02/25-21:48:26.614 be9f Level-0 table #20159: 4945852 bytes OK
+2020/02/25-21:48:26.617 be9f Delete type=0 #20156
+2020/02/25-21:48:26.619 be9f Compacting 4@0 + 2@1 files
+2020/02/25-21:48:26.763 be9f Generated table #20160@0: 1 keys, 4945852 bytes
+2020/02/25-21:48:26.768 be9f Generated table #20161@0: 4 keys, 828 bytes
+2020/02/25-21:48:26.768 be9f Compacted 4@0 + 2@1 files => 4946680 bytes
+2020/02/25-21:48:26.771 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-21:48:26.771 be9f Delete type=2 #20153
+2020/02/25-21:48:26.771 be9f Delete type=2 #20159
+2020/02/25-21:48:26.771 be9f Delete type=2 #20157
+2020/02/25-21:48:26.771 be9f Delete type=2 #20150
+2020/02/25-21:48:26.771 be9f Delete type=2 #20151
+2020/02/25-21:48:26.771 be9f Delete type=2 #20155
+2020/02/25-22:48:26.174 be9f Level-0 table #20163: started
+2020/02/25-22:48:26.251 be9f Level-0 table #20163: 4946465 bytes OK
+2020/02/25-22:48:26.255 be9f Delete type=0 #20158
+2020/02/25-22:48:26.579 be9f Level-0 table #20165: started
+2020/02/25-22:48:26.663 be9f Level-0 table #20165: 4945852 bytes OK
+2020/02/25-22:48:26.666 be9f Delete type=0 #20162
+2020/02/25-23:48:26.196 be9f Level-0 table #20167: started
+2020/02/25-23:48:26.270 be9f Level-0 table #20167: 4946597 bytes OK
+2020/02/25-23:48:26.273 be9f Delete type=0 #20164
+2020/02/25-23:48:26.576 be9f Level-0 table #20169: started
+2020/02/25-23:48:26.654 be9f Level-0 table #20169: 4945883 bytes OK
+2020/02/25-23:48:26.663 be9f Delete type=0 #20166
+2020/02/25-23:48:26.665 be9f Compacting 4@0 + 2@1 files
+2020/02/25-23:48:26.798 be9f Generated table #20170@0: 1 keys, 4945883 bytes
+2020/02/25-23:48:26.803 be9f Generated table #20171@0: 4 keys, 830 bytes
+2020/02/25-23:48:26.803 be9f Compacted 4@0 + 2@1 files => 4946713 bytes
+2020/02/25-23:48:26.806 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/25-23:48:26.806 be9f Delete type=2 #20167
+2020/02/25-23:48:26.806 be9f Delete type=2 #20165
+2020/02/25-23:48:26.806 be9f Delete type=2 #20160
+2020/02/25-23:48:26.806 be9f Delete type=2 #20163
+2020/02/25-23:48:26.806 be9f Delete type=2 #20169
+2020/02/25-23:48:26.806 be9f Delete type=2 #20161
+2020/02/26-00:48:26.229 be9f Level-0 table #20173: started
+2020/02/26-00:48:26.325 be9f Level-0 table #20173: 4946603 bytes OK
+2020/02/26-00:48:26.334 be9f Delete type=0 #20168
+2020/02/26-00:48:26.614 be9f Level-0 table #20175: started
+2020/02/26-00:48:26.705 be9f Level-0 table #20175: 4945891 bytes OK
+2020/02/26-00:48:26.711 be9f Delete type=0 #20172
+2020/02/26-00:48:31.035 be9f Level-0 table #20177: started
+2020/02/26-00:48:31.134 be9f Level-0 table #20177: 4946504 bytes OK
+2020/02/26-00:48:31.140 be9f Delete type=0 #20174
+2020/02/26-00:48:33.546 be9f Level-0 table #20179: started
+2020/02/26-00:48:33.644 be9f Level-0 table #20179: 4946074 bytes OK
+2020/02/26-00:48:33.649 be9f Delete type=0 #20176
+2020/02/26-00:48:33.651 be9f Compacting 4@0 + 2@1 files
+2020/02/26-00:48:33.774 be9f Generated table #20180@0: 1 keys, 4945875 bytes
+2020/02/26-00:48:33.781 be9f Generated table #20181@0: 4 keys, 830 bytes
+2020/02/26-00:48:33.781 be9f Compacted 4@0 + 2@1 files => 4946705 bytes
+2020/02/26-00:48:33.786 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-00:48:33.786 be9f Delete type=2 #20173
+2020/02/26-00:48:33.786 be9f Delete type=2 #20171
+2020/02/26-00:48:33.786 be9f Delete type=2 #20177
+2020/02/26-00:48:33.786 be9f Delete type=2 #20175
+2020/02/26-00:48:33.786 be9f Delete type=2 #20170
+2020/02/26-00:48:33.786 be9f Delete type=2 #20179
+2020/02/26-01:48:26.199 be9f Level-0 table #20183: started
+2020/02/26-01:48:26.282 be9f Level-0 table #20183: 4945875 bytes OK
+2020/02/26-01:48:26.286 be9f Delete type=0 #20178
+2020/02/26-01:48:26.598 be9f Level-0 table #20185: started
+2020/02/26-01:48:26.682 be9f Level-0 table #20185: 4945877 bytes OK
+2020/02/26-01:48:26.686 be9f Delete type=0 #20182
+2020/02/26-02:48:26.225 be9f Level-0 table #20187: started
+2020/02/26-02:48:26.305 be9f Level-0 table #20187: 4946602 bytes OK
+2020/02/26-02:48:26.309 be9f Delete type=0 #20184
+2020/02/26-02:48:26.617 be9f Level-0 table #20189: started
+2020/02/26-02:48:26.693 be9f Level-0 table #20189: 4945888 bytes OK
+2020/02/26-02:48:26.697 be9f Delete type=0 #20186
+2020/02/26-02:48:26.700 be9f Compacting 4@0 + 2@1 files
+2020/02/26-02:48:26.890 be9f Generated table #20190@0: 1 keys, 4945888 bytes
+2020/02/26-02:48:26.897 be9f Generated table #20191@0: 4 keys, 830 bytes
+2020/02/26-02:48:26.897 be9f Compacted 4@0 + 2@1 files => 4946718 bytes
+2020/02/26-02:48:26.901 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-02:48:26.901 be9f Delete type=2 #20183
+2020/02/26-02:48:26.901 be9f Delete type=2 #20181
+2020/02/26-02:48:26.901 be9f Delete type=2 #20189
+2020/02/26-02:48:26.901 be9f Delete type=2 #20185
+2020/02/26-02:48:26.901 be9f Delete type=2 #20187
+2020/02/26-02:48:26.901 be9f Delete type=2 #20180
+2020/02/26-03:48:26.247 be9f Level-0 table #20193: started
+2020/02/26-03:48:26.323 be9f Level-0 table #20193: 4946501 bytes OK
+2020/02/26-03:48:26.327 be9f Delete type=0 #20188
+2020/02/26-03:48:26.637 be9f Level-0 table #20195: started
+2020/02/26-03:48:26.714 be9f Level-0 table #20195: 4945887 bytes OK
+2020/02/26-03:48:26.718 be9f Delete type=0 #20192
+2020/02/26-04:48:26.249 be9f Level-0 table #20197: started
+2020/02/26-04:48:26.323 be9f Level-0 table #20197: 4946608 bytes OK
+2020/02/26-04:48:26.328 be9f Delete type=0 #20194
+2020/02/26-04:48:26.647 be9f Level-0 table #20199: started
+2020/02/26-04:48:26.729 be9f Level-0 table #20199: 4945884 bytes OK
+2020/02/26-04:48:26.733 be9f Delete type=0 #20196
+2020/02/26-04:48:26.735 be9f Compacting 4@0 + 2@1 files
+2020/02/26-04:48:26.888 be9f Generated table #20200@0: 1 keys, 4945884 bytes
+2020/02/26-04:48:26.894 be9f Generated table #20201@0: 4 keys, 831 bytes
+2020/02/26-04:48:26.894 be9f Compacted 4@0 + 2@1 files => 4946715 bytes
+2020/02/26-04:48:26.897 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-04:48:26.897 be9f Delete type=2 #20195
+2020/02/26-04:48:26.897 be9f Delete type=2 #20193
+2020/02/26-04:48:26.897 be9f Delete type=2 #20199
+2020/02/26-04:48:26.897 be9f Delete type=2 #20190
+2020/02/26-04:48:26.897 be9f Delete type=2 #20197
+2020/02/26-04:48:26.897 be9f Delete type=2 #20191
+2020/02/26-05:48:26.233 be9f Level-0 table #20203: started
+2020/02/26-05:48:26.318 be9f Level-0 table #20203: 4946613 bytes OK
+2020/02/26-05:48:26.322 be9f Delete type=0 #20198
+2020/02/26-05:48:26.607 be9f Level-0 table #20205: started
+2020/02/26-05:48:26.678 be9f Level-0 table #20205: 4945882 bytes OK
+2020/02/26-05:48:26.685 be9f Delete type=0 #20202
+2020/02/26-06:48:26.248 be9f Level-0 table #20207: started
+2020/02/26-06:48:26.328 be9f Level-0 table #20207: 4946495 bytes OK
+2020/02/26-06:48:26.332 be9f Delete type=0 #20204
+2020/02/26-06:48:26.628 be9f Level-0 table #20209: started
+2020/02/26-06:48:26.705 be9f Level-0 table #20209: 4945882 bytes OK
+2020/02/26-06:48:26.709 be9f Delete type=0 #20206
+2020/02/26-06:48:26.712 be9f Compacting 4@0 + 2@1 files
+2020/02/26-06:48:26.866 be9f Generated table #20210@0: 1 keys, 4945882 bytes
+2020/02/26-06:48:26.873 be9f Generated table #20211@0: 4 keys, 831 bytes
+2020/02/26-06:48:26.873 be9f Compacted 4@0 + 2@1 files => 4946713 bytes
+2020/02/26-06:48:26.876 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-06:48:26.877 be9f Delete type=2 #20203
+2020/02/26-06:48:26.877 be9f Delete type=2 #20201
+2020/02/26-06:48:26.877 be9f Delete type=2 #20207
+2020/02/26-06:48:26.877 be9f Delete type=2 #20205
+2020/02/26-06:48:26.877 be9f Delete type=2 #20209
+2020/02/26-06:48:26.877 be9f Delete type=2 #20200
+2020/02/26-07:48:26.308 be9f Level-0 table #20213: started
+2020/02/26-07:48:26.418 be9f Level-0 table #20213: 4946595 bytes OK
+2020/02/26-07:48:26.422 be9f Delete type=0 #20208
+2020/02/26-07:48:26.707 be9f Level-0 table #20215: started
+2020/02/26-07:48:26.815 be9f Level-0 table #20215: 4945878 bytes OK
+2020/02/26-07:48:26.819 be9f Delete type=0 #20212
+2020/02/26-08:48:26.236 be9f Level-0 table #20217: started
+2020/02/26-08:48:26.313 be9f Level-0 table #20217: 4946602 bytes OK
+2020/02/26-08:48:26.319 be9f Delete type=0 #20214
+2020/02/26-08:48:26.613 be9f Level-0 table #20219: started
+2020/02/26-08:48:26.683 be9f Level-0 table #20219: 4945888 bytes OK
+2020/02/26-08:48:26.686 be9f Delete type=0 #20216
+2020/02/26-08:48:26.688 be9f Compacting 4@0 + 2@1 files
+2020/02/26-08:48:26.820 be9f Generated table #20220@0: 1 keys, 4945888 bytes
+2020/02/26-08:48:26.826 be9f Generated table #20221@0: 4 keys, 831 bytes
+2020/02/26-08:48:26.826 be9f Compacted 4@0 + 2@1 files => 4946719 bytes
+2020/02/26-08:48:26.831 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-08:48:26.831 be9f Delete type=2 #20215
+2020/02/26-08:48:26.831 be9f Delete type=2 #20213
+2020/02/26-08:48:26.831 be9f Delete type=2 #20217
+2020/02/26-08:48:26.831 be9f Delete type=2 #20210
+2020/02/26-08:48:26.831 be9f Delete type=2 #20219
+2020/02/26-08:48:26.831 be9f Delete type=2 #20211
+2020/02/26-09:15:44.012 be9f Level-0 table #20223: started
+2020/02/26-09:15:44.087 be9f Level-0 table #20223: 4946595 bytes OK
+2020/02/26-09:15:44.091 be9f Delete type=0 #20218
+2020/02/26-09:48:26.694 be9f Level-0 table #20225: started
+2020/02/26-09:48:26.761 be9f Level-0 table #20225: 4946187 bytes OK
+2020/02/26-09:48:26.765 be9f Delete type=0 #20222
+2020/02/26-10:48:26.305 be9f Level-0 table #20227: started
+2020/02/26-10:48:26.383 be9f Level-0 table #20227: 4946492 bytes OK
+2020/02/26-10:48:26.387 be9f Delete type=0 #20224
+2020/02/26-10:48:26.691 be9f Level-0 table #20229: started
+2020/02/26-10:48:26.762 be9f Level-0 table #20229: 4945880 bytes OK
+2020/02/26-10:48:26.766 be9f Delete type=0 #20226
+2020/02/26-10:48:26.768 be9f Compacting 4@0 + 2@1 files
+2020/02/26-10:48:26.915 be9f Generated table #20230@0: 1 keys, 4945880 bytes
+2020/02/26-10:48:26.920 be9f Generated table #20231@0: 4 keys, 831 bytes
+2020/02/26-10:48:26.920 be9f Compacted 4@0 + 2@1 files => 4946711 bytes
+2020/02/26-10:48:26.924 be9f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/26-10:48:26.924 be9f Delete type=2 #20227
+2020/02/26-10:48:26.924 be9f Delete type=2 #20225
+2020/02/26-10:48:26.924 be9f Delete type=2 #20229
+2020/02/26-10:48:26.924 be9f Delete type=2 #20221
+2020/02/26-10:48:26.924 be9f Delete type=2 #20223
+2020/02/26-10:48:26.924 be9f Delete type=2 #20220
+2020/02/26-10:48:38.621 be9f Level-0 table #20233: started
+2020/02/26-10:48:38.706 be9f Level-0 table #20233: 4946493 bytes OK
+2020/02/26-10:48:38.710 be9f Delete type=0 #20228
+2020/02/26-10:48:40.425 be9f Level-0 table #20235: started
+2020/02/26-10:48:40.523 be9f Level-0 table #20235: 4945903 bytes OK
+2020/02/26-10:48:40.527 be9f Delete type=0 #20232

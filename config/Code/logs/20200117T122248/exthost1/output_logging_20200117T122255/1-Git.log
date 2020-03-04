@@ -1,0 +1,3587 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git fetch
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva-config
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   a252bfc..45c3f1f  adr-jenkins-plugins -> origin/adr-jenkins-plugins
+   e3ddd51..232d536  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   f1f61b2..c555171  adr-jenkins-build -> origin/adr-jenkins-build
+   0a78c16..f8fff51  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+ + 6402902...0bdb217 feature-disable-netdata -> origin/feature-disable-netdata  (forced update)
+   f8fff51..642a44c  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+   232d536..8a65e22  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   642a44c..268f604  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+   8a65e22..630a466  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+   d4ee598..1db5ab6  feature/bootstrap/updates -> origin/feature/bootstrap/updates
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   268f604..9e28825  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+   be4de92..49aa9a7  feature-jenkins-dockerjcasc -> origin/feature-jenkins-dockerjcasc
+   1db5ab6..420b353  feature/bootstrap/updates -> origin/feature/bootstrap/updates
+   eaa6bb7..61b224a  feature/nexus-integration -> origin/feature/nexus-integration
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+From https://github.com/Skatteetaten/minerva-config
+ * [new branch]      feature/drs_affinity_maintainer -> origin/feature/drs_affinity_maintainer
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   0bdb217..d03e1cc  develop    -> origin/develop
+   22055b2..327a987  feature-compliance-test-m75745 -> origin/feature-compliance-test-m75745
+   686ddf4..1b4e76e  feature-dhcp-monitor -> origin/feature-dhcp-monitor
+   0bdb217..5ae9ca9  feature-disable-netdata -> origin/feature-disable-netdata
+   9e28825..2aef3c2  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+   49aa9a7..bd14fdb  feature-jenkins-dockerjcasc -> origin/feature-jenkins-dockerjcasc
+   19e252a..90892bf  feature-jenkins-persistent -> origin/feature-jenkins-persistent
+   630a466..5a6116a  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+ * [new branch]      feature/drs_affinity_maintainer -> origin/feature/drs_affinity_maintainer
+ * [new tag]         base-server/v0.2.14 -> base-server/v0.2.14
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   90892bf..fde4075  feature-jenkins-persistent -> origin/feature-jenkins-persistent
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   ca78712..d55d084  feature-base-linux-v1 -> origin/feature-base-linux-v1
+ * [new branch]      feature-jenkins-cluster-leo -> origin/feature-jenkins-cluster-leo
+ * [new tag]         base/server/v.0.2.14 -> base/server/v.0.2.14
+ * [new tag]         base/server/v0.2.14 -> base/server/v0.2.14
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform-pd/containers/main.tf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/base-server/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/base-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+From https://github.com/Skatteetaten/minerva
+ * [new branch]      feature-jenkins-masterslave -> origin/feature-jenkins-masterslave
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse develop
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+From https://github.com/Skatteetaten/minerva-config
+   a7ec71b..52e70c4  feature-base-linux-v1 -> origin/feature-base-linux-v1
+ * [new branch]      feature-reposerver-template -> origin/feature-reposerver-template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+ * [new branch]      MIN-3177-feature-sync-centos-repo-in-packer-build -> origin/MIN-3177-feature-sync-centos-repo-in-packer-build
+   c555171..c0bacaf  adr-jenkins-build -> origin/adr-jenkins-build
+   ef8234b..42c5913  adr/presto-for-query-processing -> origin/adr/presto-for-query-processing
+   d55d084..7c8788a  feature-base-linux-v1 -> origin/feature-base-linux-v1
+   5a6116a..9f2ff76  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+ * [new branch]      feature-reposerver-template -> origin/feature-reposerver-template
+   420b353..ab48676  feature/bootstrap/updates -> origin/feature/bootstrap/updates
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git show :modules/base-server/main.tf
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+From https://github.com/Skatteetaten/minerva
+   327a987..2969a34  feature-compliance-test-m75745 -> origin/feature-compliance-test-m75745
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/resources/templates/presto-test.hcl
+> git check-ignore -v -z --stdin
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   9f2ff76..b25e4c7  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+   ab48676..c425c0b  feature/bootstrap/updates -> origin/feature/bootstrap/updates
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/containers/main.tf
+From https://github.com/Skatteetaten/minerva-config
+   8785519..e38036b  sekundaer-fixes -> origin/sekundaer-fixes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   2969a34..9d067b5  feature-compliance-test-m75745 -> origin/feature-compliance-test-m75745
+   2aef3c2..8459288  feature-intern-preprod-green-bootstrap -> origin/feature-intern-preprod-green-bootstrap
+   b25e4c7..f8febdd  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+ * [new branch]      presto-performance-increase -> origin/presto-performance-increase
+   c7ea152..456bb05  sekundaer-fixes -> origin/sekundaer-fixes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :stacks/services/dataprep-plattform/containers/resources/templates/presto-test.hcl
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/base-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show HEAD:stacks/services/dataprep-plattform-pd/containers/main.tf
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git checkout -q develop
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :environment_specific/intern-preprod-green.yml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/ansible/templates/minio_auth_keys.sh.j2
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git rev-parse --symbolic-full-name develop@{u}
+> git config --get commit.template
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --symbolic-full-name develop@{u}
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git status -z -u
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/templates/minio_auth_keys.sh.j2
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/CHANGELOG.md
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/CHANGELOG.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/CHANGELOG.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/ansible/minio.yml
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+From https://github.com/Skatteetaten/minerva-config
+   e38036b..17e9344  sekundaer-fixes -> origin/sekundaer-fixes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   456bb05..bfcc82d  sekundaer-fixes -> origin/sekundaer-fixes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   bfcc82d..868fb7a  sekundaer-fixes -> origin/sekundaer-fixes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+From https://github.com/Skatteetaten/minerva-config
+ * [new branch]      feature-jenkins-byggserver -> origin/feature-jenkins-byggserver
+   a62e81f..29fa8fc  feature-reposerver-template -> origin/feature-reposerver-template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   e308d9f..7b65df3  feature-dataprep-plattform-stack -> origin/feature-dataprep-plattform-stack
+   318920f..9d714eb  feature-reposerver-template -> origin/feature-reposerver-template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva-config
+   f85bcf1..279bba4  feature-jenkins-byggserver -> origin/feature-jenkins-byggserver
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/CHANGELOG.md
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+From https://github.com/Skatteetaten/minerva-config
+   6d668b5..0238f37  feature-config-intern-qa -> origin/feature-config-intern-qa
+ * [new branch]      feature-dhcp-monitor -> origin/feature-dhcp-monitor
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   d03e1cc..f23836d  MIN-3177-feature-sync-centos-repo-in-packer-build -> origin/MIN-3177-feature-sync-centos-repo-in-packer-build
+   9912439..04bf929  feature-config-intern-qa -> origin/feature-config-intern-qa
+   1b4e76e..75f9f16  feature-dhcp-monitor -> origin/feature-dhcp-monitor
+ + 5ae9ca9...e165055 feature-disable-netdata -> origin/feature-disable-netdata  (forced update)
+ * [new branch]      feature-testing-pipeline -> origin/feature-testing-pipeline
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git symbolic-ref --short HEAD
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git rev-parse --symbolic-full-name develop@{u}
+> git config --get commit.template
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse develop
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git show :modules/minio-scale-server/resources/ansible/pre-minio.yml
+> git show :modules/minio-scale-server/resources/ansible/minio.yml
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git show :modules/minio-scale-server/main.tf
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+ * [new branch]      harbor-scanning -> origin/harbor-scanning
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/minio.yml
+> git show :modules/minio-scale-server/resources/templates/minio-services.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git status -z -u
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git symbolic-ref --short HEAD
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git status -z -u
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/main.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.init.j2
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.init.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-client.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/examples/one-node/output/config/config_consul_merged.yaml
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/examples/one-node/output/config/config_flat.json
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/examples/one-node/output/config/config_mine.yaml
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/examples/one-node/output/config/config.json
+> git show :modules/minio-scale-server/examples/one-node/output/config/config.yaml
+> git show :modules/minio-scale-server/examples/one-node/output/group_vars/all.json
+> git show :modules/minio-scale-server/examples/one-node/terraform.tfstate.d/m88614-blue/terraform.tfstate.backup
+> git check-ignore -v -z --stdin
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.env.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/resources/ansible/minio.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git show :modules/minio-scale-server/examples/one-node/terraform.tfstate.d/m88614-blue/terraform.tfstate.backup
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/main.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :docker/provisioner/config/ansible-galaxy-roles.list
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :docker/provisioner/config/ansible-galaxy-roles.list
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git fetch
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git fetch
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :docker/provisioner/config/ansible-galaxy-roles.list
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/main.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right develop...refs/remotes/origin/develop
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/post-minio.yml
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/defaults/main.yml
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/defaults/main.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/defaults/main.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/templates/minio.service.j2
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name develop@{u}
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git rev-parse develop
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/minio-scale-server/resources/ansible/atosatto.minio/tasks/install-server.yml
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva-config/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel

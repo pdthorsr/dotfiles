@@ -1,0 +1,20 @@
+[2020-01-08 11:03:43.788] [exthost] [info] extension host started
+[2020-01-08 11:03:43.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-08 11:03:43.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-08 11:03:43.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-08 11:03:43.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-08 11:03:43.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-08 11:03:43.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-08 11:03:43.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-08 11:03:43.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-08 11:03:43.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-08 11:03:43.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-08 11:03:43.852] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-01-08 11:03:43.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/m88614/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-01-08 11:03:43.860] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-08 11:03:43.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/m88614/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-08 11:03:43.872] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-08 11:03:43.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/m88614/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-08 11:03:43.893] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-01-08 11:03:43.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/m88614/.vscode/extensions/vscodevim.vim-1.12.4/out/extension
+[2020-01-08 11:03:44.187] [exthost] [info] eager extensions activated

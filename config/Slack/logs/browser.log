@@ -1,0 +1,325 @@
+[06/27/19, 10:17:55:062] info: Configured logger via 
+{
+  "logLevel": "info",
+  "devMode": false
+}
+[06/27/19, 10:17:55:488] info: Initializing local storage instance at path: /home/m88614/.config/Slack/local-settings.json 
+[06/27/19, 10:17:55:512] info: Generated uuid and stored 
+{
+  "uuid": "1e1ed0b2-fd28-51de-8b5d-c3964c95cf26"
+}
+[06/27/19, 10:17:55:574] error: Locale: Tried to access systemLocale before application was ready 
+[06/27/19, 10:17:55:913] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/m88614/.config/Slack/logs/recorded-trace
+[06/27/19, 10:17:55:923] info: Configuring uncaughtExceptionHandler 
+[06/27/19, 10:17:55:923] info: Configuring unhandledRejectionHandler 
+[06/27/19, 10:17:55:923] info: Registered with apiKey acaff8df67924f677747922423057034 
+[06/27/19, 10:17:56:492] info: Store: persist/REHYDRATE 
+[06/27/19, 10:17:56:612] info: Store: UPDATE_SETTINGS 
+{
+  "isSignedIntoSlackOrg": false
+}
+[06/27/19, 10:17:56:615] info: UpdaterEpics: Updates disabled because 
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[06/27/19, 10:17:57:032] info: Tray Handler: Showing a tray balloon with title: Welcome to Slack! 
+[06/27/19, 10:17:57:069] info: Store: INITIALIZE_SETTINGS 
+{
+  "appVersion": "3.4.2",
+  "devEnv": null,
+  "isAeroGlassEnabled": false,
+  "isDevMode": false,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "launchOnStartup": false,
+  "linux": {
+    "os": "Ubuntu 16.04.6 LTS",
+    "release": "xenial",
+    "desktopEnvironment": "GNOME-Flashback:Unity"
+  },
+  "logFile": null,
+  "openDevToolsOnStart": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 4,
+    "build": 0
+  },
+  "pretendNotReallyWindows10": false,
+  "releaseChannel": "prod",
+  "resourcePath": "/snap/slack/14/usr/lib/slack/resources/app.asar",
+  "versionName": "Eye of the Tiger",
+  "webappParams": null,
+  "webappSrcPath": false
+}
+[06/27/19, 10:17:57:071] info: AutoLoginEpic: Checking for autologin. 
+[06/27/19, 10:17:57:074] info: Store: UPDATE_SETTINGS 
+{
+  "hasRunApp": true
+}
+[06/27/19, 10:17:57:074] info: Store: CREATE_WINDOW 
+{
+  "type": "main",
+  "options": {
+    "chromeDriver": false,
+    "devEnv": null,
+    "devMode": false,
+    "invokedOnStartup": false,
+    "logFile": null,
+    "resourcePath": "/snap/slack/14/usr/lib/slack/resources/app.asar",
+    "rxLogging": false,
+    "version": "3.4.2",
+    "webappSrcPath": false,
+    "sessionId": "MWUxZWQwYjItZmQyOC01MWRlLThiNWQtYzM5NjRjOTVjZjI2XzE1NjE2MjM0NzU1MTI=",
+    "linux": {
+      "os": "Ubuntu 16.04.6 LTS",
+      "release": "xenial",
+      "desktopEnvironment": "GNOME-Flashback:Unity"
+    },
+    "appVersion": "3.4.2",
+    "isAeroGlassEnabled": false,
+    "isDevMode": false,
+    "isGpuCompositionAvailable": true,
+    "isTitleBarHidden": false,
+    "launchOnStartup": false,
+    "openDevToolsOnStart": false,
+    "platformVersion": {
+      "major": 4,
+      "minor": 4,
+      "build": 0
+    },
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "versionName": "Eye of the Tiger",
+    "webappParams": null
+  }
+}
+[06/27/19, 10:17:57:090] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 10:17:57:103] info: MainWindowEpics: Setting main window ID 
+{
+  "id": 2
+}
+[06/27/19, 10:17:57:104] info: Store: ADD_WINDOW 
+{
+  "id": 2,
+  "type": "main"
+}
+[06/27/19, 10:17:57:107] info: BrowserViewManager: Starting initialization 
+[06/27/19, 10:17:57:108] info: Store: UPDATE_SETTINGS 
+{
+  "PrefSSBFileDownloadPath": "/home/m88614/Downloads"
+}
+[06/27/19, 10:17:57:109] info: DownloadListener: Downloads directory set to 
+{
+  "downloadsDirectory": "/home/m88614/Downloads"
+}
+[06/27/19, 10:17:57:190] info: App: Welcome to Slack 3.4.2 x64 
+[06/27/19, 10:17:57:191] info: App load time: 2,572384615 
+[06/27/19, 10:17:58:313] info: Store: SAVE_WINDOW_SETTINGS 
+{
+  "isMaximized": false,
+  "size": [
+    1152,
+    922
+  ],
+  "position": [
+    384,
+    139
+  ]
+}
+[06/27/19, 10:17:59:533] info: Store: BACKGROUND_CLIENTS_INITIALIZED 
+[06/27/19, 10:17:59:537] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[06/27/19, 10:18:00:066] info: Store: SET_NETWORK_STATUS online
+[06/27/19, 10:18:00:067] info: Store: MAIN_WINDOW_SHOWN 
+[06/27/19, 10:18:00:099] info: createSignInWindowEpic: No teams signed in, showing sign-in window 
+[06/27/19, 10:18:00:101] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 10:18:00:117] info: Store: ADD_WINDOW 
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[06/27/19, 10:18:00:119] info: SignInEpic: Loading URL in new window 
+[06/27/19, 10:20:20:158] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 10:20:40:165] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 10:21:20:190] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 10:24:00:259] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 10:25:00:307] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 10:25:40:350] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 10:28:00:443] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 10:29:00:488] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 10:29:20:510] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 10:39:00:928] info: Store: SET_SYSTEM_IDLE idle_presence
+[06/27/19, 11:11:02:211] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 11:12:07:147] info: App: Otherwise signaled, foregrounding. 
+[06/27/19, 11:12:07:147] info: Store: FOREGROUND_APP 
+[06/27/19, 11:12:20:476] info: App: Received deep link protocol activation. 
+[06/27/19, 11:12:20:477] info: Store: HANDLE_DEEP_LINK 
+{
+  "url": "slack://TB7UL89TQ/magic-login/680193717414-ef83d256e2bcf3d23c964c1aff86e822e66d4fa6df87ca345d13bb5269cf9eaa",
+  "causedLaunch": false
+}
+[06/27/19, 11:12:20:514] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 11:12:20:516] info: MagicLogin: Making magic login API request to https://slack.com/api/ 
+[06/27/19, 11:12:21:171] info: Store: ADD_NEW_TEAM 
+{
+  "team_id": "TB7UL89TQ",
+  "id": "UKXGZB3HA"
+}
+[06/27/19, 11:12:21:179] info: BrowserViewManager: Creating views for new teams 
+{
+  "newTeamIds": [
+    "TB7UL89TQ"
+  ]
+}
+[06/27/19, 11:12:21:180] info: BrowserViewManager: Activating BrowserView 
+{
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:21:180] info: BrowserViewManager: Creating BrowserView 
+{
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:21:182] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 11:12:21:183] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 5,
+  "teamId": "TB7UL89TQ",
+  "state": "unloaded"
+}
+[06/27/19, 11:12:21:187] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| TB7UL89TQ | start |            |
++-----------+-------+------------+ 
+[06/27/19, 11:12:21:207] info: BrowserViewManager: Activating BrowserView 
+{
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:21:234] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| TB7UL89TQ | start |            |
++-----------+-------+------------+ 
+[06/27/19, 11:12:21:254] info: SignInEpic: Sign-in window closed 
+[06/27/19, 11:12:21:254] info: maybeQuitAppAction 
+{
+  "canceledSignIn": true,
+  "hasNoTeams": false
+}
+[06/27/19, 11:12:21:255] info: SignInEpic: End of the road 
+{
+  "action": "none"
+}
+[06/27/19, 11:12:21:255] info: Store: REMOVE_WINDOW 3
+[06/27/19, 11:12:21:256] info: Store: REMOVE_WINDOW 3
+[06/27/19, 11:12:21:257] info: MagicLogin: added team TB7UL89TQ 
+[06/27/19, 11:12:21:257] info: Application: handleDeepLink for magic login complete 
+[06/27/19, 11:12:21:304] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:12:21:315] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:12:21:316] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:12:21:370] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:12:22:367] info: Team boot count 
+{
+  "count": 1
+}
+[06/27/19, 11:12:22:388] info: Store: SAVE_WINDOW_SETTINGS 
+{
+  "isMaximized": false,
+  "size": [
+    1152,
+    922
+  ],
+  "position": [
+    385,
+    167
+  ]
+}
+[06/27/19, 11:12:27:419] info: WebContents LifeCycle: webContents:5 from 'unloaded' to 'loaded' took 6222 ms 
+[06/27/19, 11:12:27:420] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:27:421] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| TB7UL89TQ | loading |            |
++-----------+---------+------------+ 
+[06/27/19, 11:12:27:649] info: Store: UPDATE_SESSION_STATUS 
+{
+  "hasValidSession": true,
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:28:696] info: Store: SELECT_CHANNEL CB6B9L0M6
+[06/27/19, 11:12:28:711] info: Store: UPDATE_TEAM_LOCALE 
+{
+  "locale": "en-US",
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:28:724] info: Store: UPDATE_SETTINGS 
+{
+  "locale": "en-US"
+}
+[06/27/19, 11:12:28:734] info: Store: UPDATE_TEAM_THEME 
+{
+  "teamId": "TB7UL89TQ",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[06/27/19, 11:12:29:535] info: Store: UPDATE_TEAM_LOCALE 
+{
+  "locale": "en-US",
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:29:550] info: WebContents LifeCycle: webContents:5 from 'loaded' to 'webapp-loaded' took 2131 ms 
+[06/27/19, 11:12:29:551] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:29:552] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| TB7UL89TQ | ready |            |
++-----------+-------+------------+ 
+[06/27/19, 11:12:29:555] info: Store: UPDATE_SETTINGS 
+{
+  "sandboxSigninWindow": true
+}
+[06/27/19, 11:12:30:289] info: Store: STORE_ENTERPRISE_ID_PAIR 
+{
+  "teamId": "TB7UL89TQ",
+  "enterpriseId": null
+}
+[06/27/19, 11:12:30:291] info: Store: STORE_API_TOKEN 
+{
+  "token": "xoxs-⋯",
+  "teamId": "TB7UL89TQ"
+}
+[06/27/19, 11:12:31:143] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 11:12:31:979] info: WebContentsMediator: Attaching to new webContents 
+[06/27/19, 11:12:50:979] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:13:22:299] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[06/27/19, 11:13:42:311] info: Store: SET_SYSTEM_IDLE active
+[06/27/19, 11:15:53:264] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:15:54:489] info: Store: MINIMIZE 
+[06/27/19, 11:15:54:508] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:15:57:291] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:16:24:682] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:16:25:420] info: Store: SET_FULL_SCREEN 
+[06/27/19, 11:16:25:866] info: Store: SET_FULL_SCREEN 

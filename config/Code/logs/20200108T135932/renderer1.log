@@ -1,0 +1,5 @@
+[2020-01-08 13:59:33.879] [renderer1] [error] Error: Unable to read file (Error: File not found (/home/m88614/IdeaProjects/dataprep-plattform/nomad/hive-metastore-testingimage.hcl))
+    at Object.t.createErrorWithActions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:58:379)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4837:647)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4840:376)
+    at w.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4837:358)

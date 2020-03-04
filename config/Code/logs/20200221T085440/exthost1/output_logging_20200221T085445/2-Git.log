@@ -1,0 +1,309 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stacks/services/dataprep-plattform/diagrams/proposed_architecture.md
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva-config
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/diagrams/proposed_architecture.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git show :stacks/services/dataprep-plattform/diagrams/proposed_architecture.md
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git status -z -u
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/dataprep-plattform/diagrams/proposed_architecture.md
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-stack-videre-utvikling
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git rev-parse --symbolic-full-name feature-dataprep-stack-videre-utvikling@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right feature-dataprep-stack-videre-utvikling...refs/remotes/origin/feature-dataprep-stack-videre-utvikling
+> git config --get commit.template
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git show :stacks/services/dataprep-plattform/diagrams/proposed_architecture.md
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git config --get commit.template
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git symbolic-ref --short HEAD
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git config --get commit.template
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git status -z -u
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git config --get commit.template
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/m88614/IdeaProjects/Minerva/minerva/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel

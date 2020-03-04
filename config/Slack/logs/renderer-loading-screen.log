@@ -1,0 +1,18 @@
+[06/27/19, 10:17:59:016] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[06/27/19, 10:17:59:111] info: Initializing local storage instance at path: /home/m88614/.config/Slack/local-settings.json 
+[06/27/19, 10:17:59:322] info: Read UUID from file successful 
+{
+  "uuid": "1e1ed0b2-fd28-51de-8b5d-c3964c95cf26"
+}
+[06/27/19, 10:17:59:536] info: Store: BACKGROUND_CLIENTS_INITIALIZED 
+[06/27/19, 10:17:59:545] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[06/27/19, 10:18:00:069] info: Store: SET_NETWORK_STATUS online
+[06/27/19, 10:18:00:069] info: Store: MAIN_WINDOW_SHOWN 
+[06/27/19, 10:18:00:125] info: Store: ADD_WINDOW 
+{
+  "id": 3,
+  "type": "sign-in"
+}

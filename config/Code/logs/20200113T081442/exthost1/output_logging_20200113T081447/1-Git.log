@@ -1,0 +1,75 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :stacks/services/sekundaer/containers/main.tf
+> git config --get commit.template
+> git fetch
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva-config
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+From https://github.com/Skatteetaten/minerva-config
+   4875a0a..5a51ac0  bugfix-srv-packer-epel -> origin/bugfix-srv-packer-epel
+   9cdaa25..5a51ac0  develop    -> origin/develop
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+From https://github.com/Skatteetaten/minerva
+   4a06651..022757a  bugfix-srv-packer-epel -> origin/bugfix-srv-packer-epel
+   214e730..9415eda  develop    -> origin/develop
+   361cf7d..612a4e0  feature-compliance-test-m75745 -> origin/feature-compliance-test-m75745
+   fa36cd1..0790a06  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+   214e730..faec529  feature-provisioner-jenkins -> origin/feature-provisioner-jenkins
+> git status -z -u
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel

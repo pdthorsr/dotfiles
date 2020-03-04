@@ -1,0 +1,10 @@
+source .vimrc
+imap jk <Esc>
+let mapleader=" "
+set tw=120
+map <leader>a :action $SelectAll<CR>
+map <leader>w :action SaveAll<CR>
+map <leader>j gT<CR>
+map <leader>k gt<CR>
+map <leader>o o<Esc>k
+map <leader>O O<Esc>j

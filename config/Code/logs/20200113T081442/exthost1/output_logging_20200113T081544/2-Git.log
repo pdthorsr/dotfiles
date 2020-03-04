@@ -1,0 +1,45 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/dataprep-plattform
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+fatal: Authentication failed for 'https://git.aurora.skead.no/scm/min-dtl/dataprep-plattform.git/'
+> git show :README.md
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git pull --tags origin master
+> git show :README.md
+fatal: Authentication failed for 'https://git.aurora.skead.no/scm/min-dtl/dataprep-plattform.git/'
+> git pull --tags origin master
+> git show :README.md
+From https://git.aurora.skead.no/scm/min-dtl/dataprep-plattform
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

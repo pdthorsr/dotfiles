@@ -1,0 +1,1170 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/m88614/IdeaProjects/Minerva/minerva-config
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git check-ignore -v -z --stdin
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   547e550..ef8234b  adr/presto-for-query-processing -> origin/adr/presto-for-query-processing
+   e56eea5..3740046  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+From https://github.com/Skatteetaten/minerva-config
+   77505fc..c0967e1  feature-config-prod-sikker -> origin/feature-config-prod-sikker
+ * [new branch]      feature/nexus-integration -> origin/feature/nexus-integration
+   47a131c..4f0d692  hotfix-reposerver-epel -> origin/hotfix-reposerver-epel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+From https://github.com/Skatteetaten/minerva
+   f575848..0b7c4db  develop    -> origin/develop
+ * [new branch]      feature-compliance-test-m75745 -> origin/feature-compliance-test-m75745
+   3924bef..367fd86  feature-config-intern-qa -> origin/feature-config-intern-qa
+   c98248c..de33022  feature-dhcp-monitor -> origin/feature-dhcp-monitor
+   3740046..0759280  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+ * [new branch]      feature/nexus-integration -> origin/feature/nexus-integration
+   eb5edda..4dc4ed5  hotfix-reposerver-epel -> origin/hotfix-reposerver-epel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/base-server/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/base-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :modules/base-server/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+ * [new branch]      feature-dataprep-plattform-stack -> origin/feature-dataprep-plattform-stack
+   0759280..ebc44ca  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git pull --tags origin develop
+> git pull --tags origin develop
+From https://github.com/Skatteetaten/minerva-config
+ * branch            develop    -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+ * branch            develop    -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q --track origin/feature-dataprep-plattform-stack
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :stacks/services/sekundaer/containers/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :modules/base-server/main.tf
+> git show :stacks/services/sekundaer/diagram.mermaid
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva
+   de33022..69fad14  feature-dhcp-monitor -> origin/feature-dhcp-monitor
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git checkout -q -b feature-dataprep-plattform-stack --no-track HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+fatal: no upstream configured for branch 'feature-dataprep-plattform-stack'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+fatal: no upstream configured for branch 'feature-dataprep-plattform-stack'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git push
+fatal: The current branch feature-dataprep-plattform-stack has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin feature-dataprep-plattform-stack
+> git push -u origin feature-dataprep-plattform-stack
+remote: 
+remote: Create a pull request for 'feature-dataprep-plattform-stack' on GitHub by visiting:        
+remote:      https://github.com/Skatteetaten/minerva-config/pull/new/feature-dataprep-plattform-stack        
+remote: 
+To https://091b59e44f6455e66f7a201d07d94fe72700fafc@github.com/Skatteetaten/minerva-config
+ * [new branch]      feature-dataprep-plattform-stack -> feature-dataprep-plattform-stack
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git fetch
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+From https://github.com/Skatteetaten/minerva
+   0b7c4db..51a0353  feature-dataprep-plattform-stack -> origin/feature-dataprep-plattform-stack
+   ebc44ca..aa875ea  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+From https://github.com/Skatteetaten/minerva
+   69fad14..d88a46f  feature-dhcp-monitor -> origin/feature-dhcp-monitor
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-parse --show-toplevel
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+From https://github.com/Skatteetaten/minerva
+   aa875ea..5fc8643  feature-jenkins-provisioner -> origin/feature-jenkins-provisioner
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+From https://github.com/Skatteetaten/minerva-config
+ * [new branch]      m96330     -> origin/m96330
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :environment_specific/intern-preprod-green.yml
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Skatteetaten/minerva-config
+ * [new branch]      hostfix-repo-client-config -> origin/hostfix-repo-client-config
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :environment_specific/intern-preprod-green.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature-dataprep-plattform-stack
+> git rev-parse --symbolic-full-name feature-dataprep-plattform-stack@{u}
+> git rev-list --left-right feature-dataprep-plattform-stack...refs/remotes/origin/feature-dataprep-plattform-stack
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,1 @@
+[2020-02-21 08:54:46.423] [renderer1] [warning] UNRESPONSIVE extension host, 'eamodio.gitlens' took 98% of 125.432ms, saved PROFILE here: '/tmp/exthost-fa6042.cpuprofile' [{"id":"eamodio.gitlens","total":122872,"percentage":98}]

@@ -1,0 +1,32 @@
+[2020-02-06 09:00:01.545] [sharedprocess] [info] main {"machineId":"b0c3172fdcd4f77e209db20aaa44a56676534f25a672772eb984099526617fd3","windowId":2}
+[2020-02-06 09:00:03.142] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2020-02-06 09:00:03.142] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-02-06 09:00:03.142] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2020-02-06 09:00:03.142] [sharedprocess] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2020-02-06 09:00:03.143] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-02-06 09:00:04.011] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint /tmp/3fa1e5c1-462c-48c9-a65e-ab9d5a3dda3a
+[2020-02-06 09:00:04.046] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.davidanson.vscode-markdownlint-0.34.0: davidanson.vscode-markdownlint
+[2020-02-06 09:00:04.046] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/davidanson.vscode-markdownlint-0.34.0
+[2020-02-06 09:00:04.048] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2020-02-06 09:00:04.061] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint
+[2020-02-06 09:00:05.025] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/a6be08b4-a63d-4578-91ff-d88132665b45
+[2020-02-06 09:00:05.293] [sharedprocess] [info] Downloaded extension: ms-vscode.go /tmp/28b0480e-6ad4-4741-94ae-4523c309f1d1
+[2020-02-06 09:00:05.433] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.ms-azuretools.vscode-docker-0.10.0: ms-azuretools.vscode-docker
+[2020-02-06 09:00:05.433] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/ms-azuretools.vscode-docker-0.10.0
+[2020-02-06 09:00:05.436] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-02-06 09:00:05.504] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-02-06 09:00:05.788] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/af8d3761-75f9-46df-9186-7dd446f0abb2
+[2020-02-06 09:00:06.450] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.5: visualstudioexptteam.vscodeintellicode
+[2020-02-06 09:00:06.451] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.5
+[2020-02-06 09:00:06.455] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-02-06 09:00:06.472] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-02-06 09:00:06.672] [sharedprocess] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /tmp/7f30fa13-c3d9-4fd2-a4ad-fdf6805c2d9a
+[2020-02-06 09:00:07.807] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.ms-vscode.go-0.13.0: ms-vscode.go
+[2020-02-06 09:00:07.807] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/ms-vscode.go-0.13.0
+[2020-02-06 09:00:07.809] [sharedprocess] [info] Installation completed. ms-vscode.go
+[2020-02-06 09:00:07.839] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2020-02-06 09:00:10.639] [sharedprocess] [info] Extracted extension to /home/m88614/.vscode/extensions/.shd101wyy.markdown-preview-enhanced-0.5.2: shd101wyy.markdown-preview-enhanced
+[2020-02-06 09:00:10.640] [sharedprocess] [info] Renamed to /home/m88614/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.5.2
+[2020-02-06 09:00:10.641] [sharedprocess] [info] Installation completed. shd101wyy.markdown-preview-enhanced
+[2020-02-06 09:00:10.664] [sharedprocess] [info] Extensions installed successfully: shd101wyy.markdown-preview-enhanced
+[2020-02-06 09:00:41.561] [sharedprocess] [info] Starting to clean up unused language packs.
