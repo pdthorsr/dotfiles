@@ -5,7 +5,6 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/m88614/.oh-my-zsh"
-export NOMAD_ADDR='http://m88614-blue-nomadserver-001.node.green.intern.minerva.loc:4646/'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -133,10 +132,10 @@ alias dp='docker ps'
 alias dpa='docker ps -a'
 alias tf='terraform'
 alias gs='git status'
-alias dev='sh /home/m88614/.dotfiles/scripts/mindevelop.sh'
-alias sb='sh /home/m88614/.dotfiles/scripts/switchbranches.sh'
-alias br='sh /home/m88614/.dotfiles/scripts/print_branches.sh'
-alias fbr='sh /home/m88614/.dotfiles/scripts/fbr.sh'
+alias dev='sh /home/m88614/dotfiles/scripts/mindevelop.sh'
+alias sb='sh /home/m88614/dotfiles/scripts/switchbranches.sh'
+alias br='sh /home/m88614/dotfiles/scripts/print_branches.sh'
+alias fbr='sh /home/m88614/dotfiles/scripts/fbr.sh'
 alias ct='consul-template'
 
 upd() {
