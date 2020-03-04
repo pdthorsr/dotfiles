@@ -1,6 +1,0 @@
-2020/02/29-00:17:12.242 82ec Reusing MANIFEST /home/m88614/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/02/29-00:17:12.242 82ec Recovering log #1286
-2020/02/29-00:17:12.248 82ec Reusing old log /home/m88614/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/001286.log 
-2020/02/29-01:51:22.484 6d67 Level-0 table #1290: started
-2020/02/29-01:51:22.515 6d67 Level-0 table #1290: 1437634 bytes OK
-2020/02/29-01:51:22.520 6d67 Delete type=0 #1286

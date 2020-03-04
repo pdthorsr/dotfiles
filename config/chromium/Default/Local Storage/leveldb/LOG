@@ -1,4 +1,0 @@
-2019/10/30-10:18:35.988 5719 Reusing MANIFEST leveldb/MANIFEST-000001
-2019/10/30-10:18:35.988 5719 Recovering log #7
-2019/10/30-10:18:35.995 5719 (ignoring error) leveldb/000007.log: dropping 346 bytes; Corruption: missing start of fragmented record(2)
-2019/10/30-10:18:35.995 5719 Reusing old log leveldb/000007.log 
