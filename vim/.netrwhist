@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/m88614'
+let g:netrw_dirhist_2='/home/m88614/.config'
+let g:netrw_dirhist_3='/home/m88614/.config/i3'
+let g:netrw_dirhist_4='/home/m88614/git/minerva'
+let g:netrw_dirhist_5='/home/m88614/Documents/scratchdocs'
+let g:netrw_dirhist_6='/home/m88614/.vim'
