@@ -1,10 +1,11 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 #
-~/.fehbg &
+#~/.fehbg &
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/m88614/.oh-my-zsh"
+export PATH="$PATH:/usr/local/go/bin"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -70,7 +71,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git thefuck colored-man-pages)
+plugins=(git colored-man-pages)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -102,16 +103,9 @@ source $ZSH/oh-my-zsh.sh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/home/m88614/.sdkman"
-[[ -s "/home/m88614/.sdkman/bin/sdkman-init.sh" ]] && source "/home/m88614/.sdkman/bin/sdkman-init.sh"
 
 
 
-prov() {
-	cd '/home/m88614/IdeaProjects/Minerva/minerva/docker/provisioner'
-	docker-compose run minerva-provisioner
-}
 
 des() {
   docker exec -it $1 /bin/sh
@@ -121,10 +115,11 @@ de() {
   docker exec $1 $2
 }
 
-alias min='cd /home/m88614/IdeaProjects/Minerva/minerva/'
-alias mincon='cd /home/m88614/IdeaProjects/Minerva/minerva-config/'
-alias dpp='cd /home/m88614/IdeaProjects/dataprep-plattform/'
-alias provdir='cd /home/m88614/IdeaProjects/Minerva/minerva/docker/provisioner'
+MINERVADIR='/home/m88614/projects/Minerva/minerva'
+MINERVACONFDIR='/home/m88614/projects/Minerva/minerva-config'
+alias min=$MINERVADIR
+alias mincon='cd $MINERVACONFDIR'
+alias provdir='cd $MINERVADIR/docker/provisioner'
 alias gp='git push'
 alias ga='git add -A'
 alias dl='docker image ls'
@@ -138,6 +133,12 @@ alias br='sh /home/m88614/dotfiles/scripts/print_branches.sh'
 alias fbr='sh /home/m88614/dotfiles/scripts/fbr.sh'
 alias ct='consul-template'
 
+prov() {
+	min
+	cd 'docker/provisioner'
+	docker-compose run minerva-provisioner
+}
+
 upd() {
 	tmpdir=$(pwd)
   echo 'Updating minerva'
@@ -149,24 +150,14 @@ upd() {
   cd $tmpdir
 }
 
-# dev() {
-# 	tmpdir=$(pwd)
-#   echo 'Changing to minerva to develop'
-#   min
-#   git checkout develop
-#   echo '\nChanging to minerva to develop'
-#   mincon
-#   git checkout develop
-#   cd $tmpdir
-# }
-
 doc() {
 	vim /home/m88614/vimwiki/index.md
 }
 
 
-eval $(thefuck --alias)
-
 export GOPATH=$HOME/go
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/home/m88614/.sdkman"
+[[ -s "/home/m88614/.sdkman/bin/sdkman-init.sh" ]] && source "/home/m88614/.sdkman/bin/sdkman-init.sh"

@@ -1,3 +1,4 @@
+#!/bin/bash
 # fbr - checkout git branch (including remote branches)
 fbr() {
   local branches branch

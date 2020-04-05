@@ -1,5 +1,4 @@
 execute pathogen#infect()
-colorscheme jelleybeans
 
 " simple remaps
 let mapleader = " "

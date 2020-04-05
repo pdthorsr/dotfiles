@@ -1,7 +1,12 @@
 source .vimrc
+set easymotion
 imap jk <Esc>
 let mapleader=" "
 set tw=120
+noremap <silent> k gk
+noremap <silent> j gj
+noremap <silent> 0 g0
+noremap <silent> $ g$
 map <leader>a :action $SelectAll<CR>
 map <leader>w :action SaveAll<CR>
 map <leader>j gT<CR>

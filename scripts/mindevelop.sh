@@ -3,9 +3,11 @@ origdir=$(pwd)
 RED='\033[0;32m'
 NC='\033[0m'
 
+MINPATH='/home/m88614/projects/Minerva'
+
 echo "\n${RED}MINERVA${NC}"
 echo "\n"
-cd /home/m88614/IdeaProjects/Minerva/minerva/
+cd $MINPATH/minerva/
 git status
 echo "\n"
 read -p "Do you wish to checkout develop in minerva? (Y/n)  " yn
@@ -26,7 +28,7 @@ echo "\n######################################################################"
 echo "\n"
 
 echo "\n${RED}MINERVA-CONFIG${NC}"
-cd /home/m88614/IdeaProjects/Minerva/minerva-config/
+cd $MINPATH/minerva-config/
 echo "\n"
 git status
 echo "\n"
