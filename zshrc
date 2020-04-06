@@ -128,9 +128,10 @@ alias dpa='docker ps -a'
 alias tf='terraform'
 alias gs='git status'
 alias dev='sh /home/m88614/dotfiles/scripts/mindevelop.sh'
-alias sb='sh /home/m88614/dotfiles/scripts/switchbranches.sh'
+alias sb='sh /home/m88614/dotfiles/scripts/switch_to_develop.sh'
 alias br='sh /home/m88614/dotfiles/scripts/print_branches.sh'
-alias fbr='sh /home/m88614/dotfiles/scripts/fbr.sh'
+alias fbr='bash /home/m88614/dotfiles/scripts/fbr.sh'
+alias gc='bash /home/m88614/dotfiles/scripts/gitcommit.sh'
 alias ct='consul-template'
 
 prov() {
