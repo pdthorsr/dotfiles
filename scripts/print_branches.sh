@@ -5,11 +5,11 @@ NC='\033[0m'
 tmpdir=$(pwd)
 
 echo "\n${RED}MINERVA${NC}"
-cd /home/m88614/IdeaProjects/Minerva/minerva/
+cd $MINERVADIR
 git status
 
 echo "\n${RED}MINERVA-CONFIG${NC}"
-cd /home/m88614/IdeaProjects/Minerva/minerva-config/
+cd $MINERVACONFDIR
 git status
 
 cd $tmpdir

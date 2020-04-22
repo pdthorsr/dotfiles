@@ -1,0 +1,6 @@
+# Variables
+export MINERVADIR='/home/m88614/projects/Minerva/minerva'
+export MINERVACONFDIR='/home/m88614/projects/Minerva/minerva-config'
+export USERNAME='m88614'
+export DOTFILESDIR='/home/m88614/dotfiles'
+export SCRIPTSDIR='/home/m88614/dotfiles/scripts'

@@ -1,0 +1,26 @@
+# Minerva aliases
+alias min='cd $MINERVADIR'
+alias mincon='cd $MINERVACONFDIR'
+alias provdir='cd $MINERVADIR/docker/provisioner'
+alias dot='cd $DOTFILESDIR'
+alias tf='terraform'
+alias ct='consul-template'
+
+# Scripts
+alias prov='bash $SCRIPTSDIR/provisioner.sh'
+alias dev='sh $SCRIPTSDIR/mindevelop.sh'
+alias sb='sh $SCRIPTSDIR/switch_to_develop.sh'
+alias br='sh $SCRIPTSDIR/print_branches.sh'
+alias upd='sh $SCRIPTSDIR/updateminerva.sh'
+
+# git aliases
+alias gp='git push'
+alias gs='git status'
+alias gc='bash $SCRIPTSDIR/gitcommit.sh'
+alias ga='git add -A'
+alias fbr='bash $SCRIPTSDIR/fbr.sh'
+
+#docker aliases
+alias dl='docker image ls'
+alias dp='docker ps'
+alias dpa='docker ps -a'

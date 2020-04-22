@@ -115,42 +115,9 @@ de() {
   docker exec $1 $2
 }
 
-MINERVADIR='/home/m88614/projects/Minerva/minerva'
-MINERVACONFDIR='/home/m88614/projects/Minerva/minerva-config'
-alias min=$MINERVADIR
-alias mincon='cd $MINERVACONFDIR'
-alias provdir='cd $MINERVADIR/docker/provisioner'
-alias gp='git push'
-alias ga='git add -A'
-alias dl='docker image ls'
-alias dp='docker ps'
-alias dpa='docker ps -a'
-alias tf='terraform'
-alias gs='git status'
-alias dev='sh /home/m88614/dotfiles/scripts/mindevelop.sh'
-alias sb='sh /home/m88614/dotfiles/scripts/switch_to_develop.sh'
-alias br='sh /home/m88614/dotfiles/scripts/print_branches.sh'
-alias fbr='bash /home/m88614/dotfiles/scripts/fbr.sh'
-alias gc='bash /home/m88614/dotfiles/scripts/gitcommit.sh'
-alias gp='git push'
-alias ct='consul-template'
+. ./.envfile
+. ./.aliases
 
-prov() {
-	min
-	cd 'docker/provisioner'
-	docker-compose run minerva-provisioner
-}
-
-upd() {
-	tmpdir=$(pwd)
-  echo 'Updating minerva'
-  min
-  git pull
-  echo '\nUpdating minerva-config'
-  mincon
-  git pull
-  cd $tmpdir
-}
 
 doc() {
 	vim /home/m88614/vimwiki/index.md
