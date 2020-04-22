@@ -1,5 +1,5 @@
 import os
+from py_dotenv import read_dotenv
 
-for dirpath, _,path in os.walk("."):
-    path = string(dirpath) + string(path)
-    print(path)
+read_dotenv("../dots/envfile")
+print(os.getenv("MINERVADIR"))
