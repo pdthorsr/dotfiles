@@ -8,10 +8,10 @@ alias ct='consul-template'
 
 # Scripts
 alias prov='bash $SCRIPTSDIR/provisioner.sh'
-alias dev='sh $SCRIPTSDIR/mindevelop.sh'
-alias sb='sh $SCRIPTSDIR/switch_to_develop.sh'
+alias dev='sh $SCRIPTSDIR/switch_to_develop.sh'
+alias sb='sh $SCRIPTSDIR/switch_to_branches.sh'
 alias br='sh $SCRIPTSDIR/print_branches.sh'
-alias upd='sh $SCRIPTSDIR/updateminerva.sh'
+alias upd='sh $SCRIPTSDIR/update_minerva.sh'
 
 # git aliases
 alias gp='git push'
