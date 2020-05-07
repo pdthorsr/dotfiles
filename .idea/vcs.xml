@@ -2,5 +2,36 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests-futures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests_deps/certifi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests_deps/chardet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests_deps/idna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests_deps/requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/requests_deps/urllib3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/bottle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/cregex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/jedi_deps/jedi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/jedi_deps/jedi/jedi/third_party/typeshed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/jedi_deps/numpydoc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/jedi_deps/numpydoc/doc/scipy-sphinx-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/jedi_deps/parso" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/requests_deps/certifi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/requests_deps/chardet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/requests_deps/idna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/requests_deps/requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/requests_deps/urllib3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/waitress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/watchdog_deps/pathtools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/YouCompleteMe/third_party/ycmd/third_party/watchdog_deps/watchdog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/nerdtree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/ultisnips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vim-easymotion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vim-markdown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vim-markdown-preview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vim-polyglot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vim-snippets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vim/bundle/vimwiki" vcs="Git" />
   </component>
 </project>

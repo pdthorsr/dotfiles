@@ -1,11 +1,14 @@
 execute pathogen#infect()
 
 " simple remaps
+noremap <Leader>r :so /home/m88614/.vimrc<Enter>
 let mapleader = " "
 inoremap jk <Esc>
 inoremap <Leader>K gt
+noremap <Leader>w :w<Enter>
+noremap <Leader>e :e $MYVIMRC<Enter>
 inoremap <Leader>J gT
-nnoremap <Leader>f :NERDTreeToggle<Enter>
+
 map <leader>o o<Esc>k
 map <leader>O O<Esc>j
 " map <leader>w :w<CR>
@@ -16,6 +19,25 @@ nnoremap j gj
 nnoremap gk k
 nnoremap gj j
 
+" use leader to interact with the system clipboard 
+noremap <Leader>p "*]p
+noremap <Leader>P "*]P
+noremap <Leader>v "*]p
+noremap <Leader>V "*]P
+
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+ 
+" NERDTREE stuff
+nnoremap <Leader>f :NERDTreeToggle<Enter>
+let NERDTreeMinimalUI = 1
+let NERDTreeDirArrows = 1
+
 
 " indentation and formatting
 :set tw=120
@@ -25,7 +47,29 @@ nnoremap gj j
 set nocompatible
 filetype plugin on
 syntax on
+
+
 " vimwiki
+let g:vimwiki_list = [
+                        \{'path': '~/Documents/VimWiki/personal.wiki'},
+                        \{'path': '~/Documents/VimWiki/tech.wiki'}
+               \]
+au BufRead,BufNewFile *.wiki set filetype=vimwiki
+
+function! ToggleCalendar()
+  execute ":Calendar"
+  if exists("g:calendar_open")
+    if g:calendar_open == 1
+      execute "q"
+      unlet g:calendar_open
+    else
+      g:calendar_open = 1
+    end
+  else
+    let g:calendar_open = 1
+  end
+endfunction
+:autocmd FileType vimwiki map c :call ToggleCalendar()
 let wiki_1 = {}
 let wiki_1.path = '~/vimwiki/'
 let wiki_1.syntax = 'markdown'
