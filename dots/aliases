@@ -1,12 +1,13 @@
-# Minerva aliases
+# minerva aliases
 alias min='cd $MINERVADIR'
+alias flid='cd $FLIDDIR'
 alias mincon='cd $MINERVACONFDIR'
 alias provdir='cd $MINERVADIR/docker/provisioner'
 alias dot='cd $DOTFILESDIR'
 alias tf='terraform'
 alias ct='consul-template'
 
-# Scripts
+# scripts
 alias prov='bash $SCRIPTSDIR/provisioner.sh'
 alias dev='sh $SCRIPTSDIR/switch_to_develop.sh'
 alias sb='sh $SCRIPTSDIR/switch_to_branches.sh'
@@ -20,7 +21,7 @@ alias gc='bash $SCRIPTSDIR/gitcommit.sh'
 alias ga='git add -A'
 alias fbr='bash $SCRIPTSDIR/fbr.sh'
 
-#docker aliases
+# docker aliases
 alias dl='docker image ls'
 alias dp='docker ps'
 alias dpa='docker ps -a'
