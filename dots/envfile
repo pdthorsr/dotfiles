@@ -1,7 +1,8 @@
 # Variables
-export MINERVADIR='/home/m88614/projects/Minerva/minerva'
-export MINERVACONFDIR='/home/m88614/projects/Minerva/minerva-config'
-export FLIDDIR='/home/m88614/projects/Minerva/minerva/stacks/services/dataprep'
-export SCRIPTUSERNAME='m88614'
-export DOTFILESDIR='/home/m88614/dotfiles/dots'
-export SCRIPTSDIR='/home/m88614/dotfiles/scripts'
+export MINERVAPROJECT="/Users/pdthorsr/projects/Minerva"
+export DOTFILESPROJECT="/Users/pdthorsr/projects/dotfiles"
+export MINERVADIR="/Users/pdthorsr/projects/Minerva/minerva"
+export MINERVACONFDIR="/Users/pdthorsr/projects/Minerva/minerva-config"
+export FLIDDIR="/Users/pdthorsr/projects/Minerva/minerva/stacks/services/dataprep"
+export DOTFILESDIR="/Users/pdthorsr/projects/dotfiles/dots"
+export SCRIPTSDIR="/Users/pdthorsr/projects/dotfiles/scripts"

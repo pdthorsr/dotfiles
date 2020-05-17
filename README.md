@@ -5,4 +5,8 @@ This repo contains all my aliases, scripts, and general stuff I use to make my w
 Every path and script is based off the `envfile`, so all you have to do is make sure the `envfile`'s paths match with your system, and you should be good to go.
 
 # Disclaimer
-Use this at your own discretion. I will in no way promise that this won't screw up your system. 
+Use this at your own discretion. I will in no way promise that this won't screw up your system.
+
+# Dependencies
+## MacOS
+`pip3 install python-dotenv`

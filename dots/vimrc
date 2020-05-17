@@ -1,5 +1,6 @@
 execute pathogen#infect()
 
+set encoding=utf-8
 " simple remaps
 noremap <Leader>r :so /home/m88614/.vimrc<Enter>
 let mapleader = " "
