@@ -13,7 +13,7 @@ print(dotfiles)
 
 def confirm(prompt: str) -> bool:
     while True:
-        answer = input(prompt)
+        answer = input(f"{prompt} ([y]/n) ")
         if answer in ('y', 'Y', ''):
             return True
         elif answer in ('n', 'N'):
@@ -32,7 +32,7 @@ for file in dotfiles:
             print(f'File {file} does not exist. Adding to {home}')
             os.symlink(src, dest)
         else:
-            replace = confirm(f"Would you like to replace {file}? (Y/n)")
+            replace = confirm(f"{file} already exists. Would you like to replace {file}?")
             if replace:
                 print(f"You are removing {file}")
                 os.remove(dest)
