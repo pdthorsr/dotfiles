@@ -1,6 +1,7 @@
 # Variables
 export MINERVAPROJECT="/home/m88614/projects/Minerva"
 export DOTFILESPROJECT="/home/m88614/projects/dotfiles"
+export DATAMESHPROJECT="/home/m88614/projects/data-mesh"
 export MINERVADIR="/home/m88614/projects/Minerva/minerva"
 export MINERVACONFDIR="/home/m88614/projects/Minerva/minerva-config"
 export FLIDDIR="/home/m88614/projects/Minerva/minerva/stacks/services/dataprep"
