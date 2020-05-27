@@ -6,6 +6,7 @@ alias provdir='cd $MINERVADIR/docker/provisioner'
 alias dot='cd $DOTFILESDIR'
 alias tf='terraform'
 alias ct='consul-template'
+alias dm='cd $DATAMESHPROJECT'
 
 # scripts
 alias prov='bash $SCRIPTSDIR/provisioner.sh'
