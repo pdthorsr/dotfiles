@@ -11,7 +11,7 @@ export PATH="$PATH:/usr/local/go/bin"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="refined"
+ZSH_THEME="agnoster"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -101,27 +101,18 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+
+# exports
+export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+export CURL_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-
-
-
-
-des() {
-  docker exec -it $1 /bin/sh
-}
-
-de() {
-  docker exec $1 $2
-}
 
 . ./.envfile
 . ./.aliases
 
 
-doc() {
-	vim /home/m88614/vimwiki/index.md
-}
 
 
 export GOPATH=$HOME/go

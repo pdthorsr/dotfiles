@@ -7,6 +7,14 @@ alias dot='cd $DOTFILESDIR'
 alias tf='terraform'
 alias ct='consul-template'
 alias dm='cd $DATAMESHPROJECT'
+alias vh='cd $VAGRANTPROJECT'
+alias dhi='cd $HIVEPROJECT'
+alias dha='cd $HADOOPPROJECT'
+alias vprov='vagrant up --provision'
+alias vd='vagrant destroy -f'
+alias cup='git diff HEAD..upstream/master'
+alias upup='git fetch upstream'
+alias rup='git rebase upstream/master'
 
 # scripts
 alias prov='bash $SCRIPTSDIR/provisioner.sh'
@@ -14,6 +22,7 @@ alias dev='sh $SCRIPTSDIR/switch_to_develop.sh'
 alias sb='sh $SCRIPTSDIR/switch_to_branches.sh'
 alias br='sh $SCRIPTSDIR/print_branches.sh'
 alias upd='sh $SCRIPTSDIR/update_minerva.sh'
+alias vcom='sh $SCRIPTSDIR/vagrant_command.sh'
 
 # git aliases
 alias gp='git push'
