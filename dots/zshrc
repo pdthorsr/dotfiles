@@ -104,10 +104,12 @@ source $ZSH/oh-my-zsh.sh
 
 
 # exports
+# This is used with vagrant to make sure you get out from behind a transparent proxy.
+# See https://github.com/fredrikhgrelland/vagrant-hashistack#if-you-are-behind-a-transparent-proxy
 unameOut="$(uname -s)"
 case "${unameOut}" in
     Linux*)     export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt && export CURL_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt;;
-    Darwin*)    machine=Mac;;
+    Darwin*)    ;;
 esac
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
