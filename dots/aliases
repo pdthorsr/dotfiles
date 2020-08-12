@@ -31,6 +31,7 @@ alias gs='git status'
 alias gc='bash $SCRIPTSDIR/gitcommit.sh'
 alias ga='git add -A'
 alias fbr='bash $SCRIPTSDIR/fbr.sh'
+alias master='git checkout master'
 
 # docker aliases
 alias dl='docker image ls'
