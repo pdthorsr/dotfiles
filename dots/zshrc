@@ -72,7 +72,12 @@ ZSH_THEME="af-magic"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git colored-man-pages)
+plugins=(
+	git 
+	colored-man-pages
+	zsh-syntax-highlighting
+	zsh-autosuggestions
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -134,3 +139,9 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/terraform terraform
+
+
+
+# setting path to a bundle of certs from keychain
+export CURL_CA_BUNDLE=/usr/local/share/ca-certificates/ca-certificates.crt
+export SSL_CERT_FILE=/usr/local/share/ca-certificates/ca-certificates.crt
